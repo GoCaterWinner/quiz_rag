@@ -1,0 +1,879 @@
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中查找2010-2020年,中华医学会举办的,会议名称中“骨科”的会议论文,请问:这些论文中,发文量最大的机构是()。"], "answer": ["四川大学华西临床医学院"], "id": "q001", "path": "screenshot/data/q001.png"}
+{"type": "单选题", "score": "5分", "question": ["万方数据库中,2015-2019年,中华医学会举办的,会议名包含“骨科会议,下面哪个研究内容(高频关键词)最受关注?"], "answer": ["内固定"], "id": "q002", "path": "screenshot/data/q002.png"}
+{"type": "单选题", "score": "5分", "question": ["在搜狗搜索引擎中使用filetype语法,限制的是()"], "answer": ["检索结果的文件类型"], "id": "q003", "path": "screenshot/data/q003.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度中使用inurl语法,限制的是()。"], "answer": ["关键词出现的位置,必须出现在检索结果的网址中"], "id": "q004", "path": "screenshot/data/q004.png"}
+{"type": "单选题", "score": "5分", "question": ["考研选导师,如果想找一位学术大牛做导师,可以找高产作者和高被引作者。找高产作者,可以在cnki的期刊论文数据库中指定某一学科进行检索,然后利用cnki的()功能。"], "answer": ["可视化分析"], "id": "q006", "path": "screenshot/data/q006.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库(万方数据知识服务平台)中查找2020年发表的、题名中含“二甲双胍”这个关键词的期刊论文,请问找到的结果数量与下列哪个数字最接"], "answer": ["1684"], "id": "q007", "path": "screenshot/data/q007.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库检索中华医学会举办的会议名称包含”骨科“会议,下面选页中引用次数最多的会议论文是:"], "answer": ["脊柱结核的手术治疗进展及焦点问题"], "id": "q008", "path": "screenshot/data/q008.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中查找学位论文时,时间限定为2010年-2018年,检索点选择“题名”检索词输入“终身学习”,匹配方式选择“精确”。请问:下列哪篇文献不在验索结果中?"], "answer": ["终身道德学习理念及其教育启示"], "id": "q009", "path": "screenshot/data/q009.png"}
+{"type": "多选题", "score": "5分", "question": ["万方数据库,全称是万方数据知识服务平台,可以检索、获取多种类型为文献资源,其中包括()。"], "answer": ["会议论文", "c学位论文", "期刊论文"], "id": "q010", "path": "screenshot/data/q010.png"}
+{"type": "多选题", "score": "5分", "question": ["在万方选题的“文献精读”功能模块中,搜到的论文分成几个大类,其包括()。"], "answer": ["高关注论文", "综述性论文", "优秀学位论文", "新发表论文"], "id": "q011", "path": "screenshot/data/q011.png"}
+{"type": "多选题", "score": "5分", "question": ["万方选题下有几个功能,其中包括()"], "answer": ["追踪研究前沿", "发掘新兴主题", "回溯学术脉络", "拓展研究边界"], "id": "q012", "path": "screenshot/data/q012.png"}
+{"type": "多选题", "score": "5分", "question": ["在万方选题的“文献精读”页面,搜索框右侧的按钮有()"], "answer": ["搜专家", "搜论文"], "id": "q013", "path": "screenshot/data/q013.png"}
+{"type": "多选题", "score": "5分", "question": ["万方选题的功能大类包括()。"], "answer": ["定题评测", "文献精读", "c选题发现"], "id": "q014", "path": "screenshot/data/q014.png"}
+{"type": "多选题", "score": "5分", "question": ["关于用万方数据库获取学位论文,下列说法正确的有()。"], "answer": ["在万方数据库中获取学位论文需要权限,如果学校购买了权限,不仅可以在线阅读,还可以下载全文。", "除了万方,NKI、PQT等数据库也可以找学位论文。", "万方数据库除了提供基本检索,还提供专业检索和高级检索功能。c", "万方数据库不仅可以查找学位论文,还可以找期刊论文,会议论文等。"], "id": "q015", "path": "screenshot/data/q015.png"}
+{"type": "判断题", "score": "5分", "question": ["万方选题的“定题评测”功能可以帮你回溯学术脉络,追踪研究前沿,展研究边界,发掘新兴主题。"], "answer": ["错误"], "id": "q016", "path": "screenshot/data/q016.png"}
+{"type": "判断题", "score": "5分", "question": ["万方选题有“文献精读”功能,通过这个功能,可以查找好文献、新文犬、综述文献、学位论文,能够帮你快速了解一个主题领域。"], "answer": ["正确"], "id": "q017", "path": "screenshot/data/q017.png"}
+{"type": "判断题", "score": "5分", "question": ["万方选题的“选题发现”可以帮你回溯学术脉络,追踪研究前沿,拓展研究边界,发掘新兴主题。"], "answer": ["正确"], "id": "q018", "path": "screenshot/data/q018.png"}
+{"type": "判断题", "score": "5分", "question": ["万方数据库,一般指的是万方数据知识服务平台。这是一个商业数据检索和获取全文需要付费。"], "answer": ["错误"], "id": "q019", "path": "screenshot/data/q019.png"}
+{"type": "判断题", "score": "5分", "question": ["学术脉络是一个学科领域在不同时间的知识结构,揭示了研究主题随时间变化的演化关系,及学科领域整体发展趋势。"], "answer": ["正确"], "id": "q020", "path": "screenshot/data/q020.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库检索中华医学会举办的会议名称包含”骨科“会议,下面选页中引用次数最多的会议论文是:"], "answer": ["脊柱结核的手术治疗进展及焦点问题"], "id": "q023", "path": "screenshot/data/q023.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学图书馆有一个在线的古籍及特藏阅览区,实质上是一个向社会开放的机构知识库,里面有十多个资源库,其中包括hinesebooksbefore194。在这个资源库中查找名为《大食故宫载》的文献,这本文献在这个平台上有224请问这本文献在这个平台上的第十二页右下角的字是什么?"], "answer": ["克"], "id": "q024", "path": "screenshot/data/q024.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以免费查找并浏览中小学课本电子版全文的是()"], "answer": ["国家中小学智慧教育平台"], "id": "q025", "path": "screenshot/data/q025.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中查找学位论文时,时间限定为2010年-2018年,检索点选择“题名”检索词输入“终身学习”,匹配方式选择“精确”。请问:下列哪篇文献不在索结果中?"], "answer": ["终身道德学习理念及其教育启示"], "id": "q026", "path": "screenshot/data/q026.png"}
+{"type": "单选题", "score": "5分", "question": ["https://www.bilibili.com/video/av68177551/?spm_id_from=333.788ideocard.0这是站上的一个有关excle的系列教程,共有81个视频,总时长7个半小寸左右。请问这套教程中的第27个视频(标号为2.1)的内容是()。"], "answer": ["页面背景的设置"], "id": "q027", "path": "screenshot/data/q027.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以查找古地图的网站是()。"], "answer": ["数位方舆"], "id": "q028", "path": "screenshot/data/q028.png"}
+{"type": "单选题", "score": "5分", "question": ["请在ncbi的pmc数据库中找到《evelopingthe TransdisciplinarygirResearchgenda:Newevelopmentsinigata》这篇文献,在检索结果页面可以看到这篇文献的PF全文下载链接,并标注了PF文件的大小。请问,标注的这个F文件大小是()。"], "answer": ["5.0M"], "id": "q029", "path": "screenshot/data/q029.png"}
+{"type": "多选题", "score": "5分", "question": ["以下哪些是免费电子图书网站?"], "answer": ["美国国家学术出版社(TheNational cademics Press)", "eScholarship Editions(http://www.escholarship.org/editions)", "古腾堡计划(project gutenberg http://www.gutenberg.org)", "hathitrust (https://www.hathitrust.org/)"], "id": "q030", "path": "screenshot/data/q030.png"}
+{"type": "单选题", "score": "5分", "question": ["在可汗学院的平台上,有一门名为《omputerprogramming》的课程,其中有一个章节是“IntrotoSQL:Queryingandmanagingdata”,这个章节有一个知识点是“SQLbasics”,这个知识点有()视频,其中一个名为“reatingatleandinsertingdata”的视频,其时长与下面哪个最接近?"], "answer": ["5个3分42秒"], "id": "q031", "path": "screenshot/data/q031.png"}
+{"type": "多选题", "score": "5分", "question": ["在pubmed找到下列文献。请问,这些文献中的全文获取渠道是PM数居库的有"], "answer": ["Nyenhuis SM,Mathur SK. Rhinitis in older adults. urr llergy sthmaRep. 2013;13(2):171-177. doi:10.1007/s11882-013-0342-3", "anerjee K, ostelloe , Mathie RT, Howick J. Homeopathy for allergichinitis: protocol for a systematic review. Syst Rev. 2014;3:59. Published2014Jun10.doi:10.1186/2046-4053-3-59", "Song Y, Yan Z. Exploring of the molecular mechanism of rhinitis viaoioinformatics methods.Mol Med Rep. 2018;17(2):3014-3020.10.3892/mmr2017.8213"], "id": "q032", "path": "screenshot/data/q032.png"}
+{"type": "多选题", "score": "5分", "question": ["关于pubmed,medline、PMc,下列说法正确的有()。"], "answer": ["medline的资源都可以通过pubmed找到。", "pubmed是一个学术搜索引擎,主要聚焦生物医学领域。"], "id": "q033", "path": "screenshot/data/q033.png"}
+{"type": "多选题", "score": "5分", "question": ["汇雅书电子书数据库提供的检索点有()。"], "answer": ["目录", "书名", "作者", "全文检索"], "id": "q034", "path": "screenshot/data/q034.png"}
+{"type": "多选题", "score": "5分", "question": ["在图书馆查找图书可依据:"], "answer": ["书名", "分类号", "ISN"], "id": "q035", "path": "screenshot/data/q035.png"}
+{"type": "多选题", "score": "5分", "question": ["外观设计专利单行本的组成部分包括()。"], "answer": ["扉页", "图片或照片", "简要说明"], "id": "q036", "path": "screenshot/data/q036.png"}
+{"type": "判断题", "score": "5分", "question": ["在github中可以搜索程序代码。"], "answer": ["正确"], "id": "q037", "path": "screenshot/data/q037.png"}
+{"type": "判断题", "score": "5分", "question": ["万彩办公大师使用时必须连接互联网。"], "answer": ["错误"], "id": "q038", "path": "screenshot/data/q038.png"}
+{"type": "判断题", "score": "5分", "question": ["知道一篇文章的OI,可以根据这个OI查找这篇文献的初始来源地址页面。可以通过OI的官网查询,也可以直接在OI前面加上“https://doi.org/”组成个网址,然后把这个网址放到浏览器地址栏中回车。"], "answer": ["正确"], "id": "q039", "path": "screenshot/data/q039.png"}
+{"type": "判断题", "score": "5分", "question": ["Medline、Pubmed、PM都是NI机构推出的数字资源产品,主要由VLM负责运行和维护。"], "answer": ["错误"], "id": "q040", "path": "screenshot/data/q040.png"}
+{"type": "判断题", "score": "5分", "question": ["在国家统计局的网站上不仅可以查询具体统计指标的多年数据,而且可以进行可视化数据分析。"], "answer": ["正确"], "id": "q041", "path": "screenshot/data/q041.png"}
+{"type": "单选题", "score": "5分", "question": ["在IPSR中找到名为“nalysisofSocialMediaiscourseandLifeyeEvolution”的数据集。这个数据集有两个excel文件,其中一个和推特相关,请问这excel文件中最后一行内容的行号是多少?"], "answer": ["38644"], "id": "q042", "path": "screenshot/data/q042.png"}
+{"type": "单选题", "score": "5分", "question": ["下列哪个网站是党史学习教育官网的网址?"], "answer": ["http://dangshi.people.com.cn/"], "id": "q043", "path": "screenshot/data/q043.png"}
+{"type": "单选题", "score": "5分", "question": ["在人大报刊复印资料数据库中开具转载证明,需要从首页的哪个入口进?"], "answer": ["转载查询"], "id": "q044", "path": "screenshot/data/q044.png"}
+{"type": "单选题", "score": "5分", "question": ["网址https://www.uspto.gov是()的网站,这个网站可以找到publicatentsearch这个专利检索平台。"], "answer": ["美国专利与商标局"], "id": "q045", "path": "screenshot/data/q045.png"}
+{"type": "单选题", "score": "5分", "question": ["在中国家谱知识服务平台上,不仅可以查找家谱资源,而且有家规家训相关资源。在这个平台可以找到“常德府武陵縣皮氏宗规”,请问这个宗规的最后一句是什么?"], "answer": ["非敢杜撰已也"], "id": "q046", "path": "screenshot/data/q046.png"}
+{"type": "单选题", "score": "5分", "question": ["在MiTTheses查找并下载博士论文《Generationofsandbarsunderirfacewaves》。这篇论文第32页(论文页码)第一个单词是()。"], "answer": ["in"], "id": "q047", "path": "screenshot/data/q047.png"}
+{"type": "单选题", "score": "5分", "question": ["在一席的平台上,有一个名为《没有回家的士兵》的演讲,请问这个演井的演讲者是谁?"], "answer": ["孙春龙"], "id": "q048", "path": "screenshot/data/q048.png"}
+{"type": "单选题", "score": "5分", "question": ["万方数据库中,2015-2019年,中华医学会举办的,会议名包含“骨科”的会议,下面哪个研究内容(高频关键词)最受关注?"], "answer": ["內固定"], "id": "q050", "path": "screenshot/data/q050.png"}
+{"type": "单选题", "score": "5分", "question": ["下列平台,可以免费找到社科类科研数据的是()。"], "answer": ["IPSR"], "id": "q051", "path": "screenshot/data/q051.png"}
+{"type": "多选题", "score": "5分", "question": ["在美国国会图书馆网站可以找到数字化的古旧地图,而且可以免费下载。请在这个网站上找到“陕西全图”,请问,这张地图的下载格式有()。"], "answer": ["JPEG", "TIFF", "GIF"], "id": "q052", "path": "screenshot/data/q052.png"}
+{"type": "单选题", "score": "5分", "question": ["找国内权威地图,可以用标准地图服务系统。请问这个平台的主管单位(),"], "answer": ["自然资源部"], "id": "q053", "path": "screenshot/data/q053.png"}
+{"type": "多选题", "score": "5分", "question": ["在国家中小学智慧教育平台上可以找到()。"], "answer": ["中小学课本电子版", "中小学视频课程"], "id": "q054", "path": "screenshot/data/q054.png"}
+{"type": "多选题", "score": "5分", "question": ["中国知网(https://www.cnki.net/)支持什么格式的文献全文下载?"], "answer": ["J", "PF"], "id": "q055", "path": "screenshot/data/q055.png"}
+{"type": "多选题", "score": "5分", "question": ["中国专利公布公告系统可以查到的专利文献包括()。"], "answer": ["实用新型专利单行本", "外观设计专利单行本", "发明专利申请单行本c", "专利公报"], "id": "q056", "path": "screenshot/data/q056.png"}
+{"type": "多选题", "score": "5分", "question": ["关于预印本系统,下列说法正确的有()。"], "answer": ["预印本系统,大多是一个网站。", "对于作者来说,预印本系统是一个学术占坑神器。", "预印本系统中的学术文献可以免费下载,对读者来说,这是一个资源宝库"], "id": "q057", "path": "screenshot/data/q057.png"}
+{"type": "判断题", "score": "5分", "question": ["查药品注册信息,可以去卫生健康委员会网站。"], "answer": ["错误"], "id": "q059", "path": "screenshot/data/q059.png"}
+{"type": "判断题", "score": "5分", "question": ["中国大学MOO的课程只能在手机上安装PP进行学习,在电脑端是无去使用的。"], "answer": ["错误"], "id": "q060", "path": "screenshot/data/q060.png"}
+{"type": "单选题", "score": "5分", "question": ["2013年人大复印报刊资料从期刊《图书情报工作》全文转载的论文数量接近于下面哪个数字?"], "answer": ["28"], "id": "q062", "path": "screenshot/data/q062.png"}
+{"type": "单选题", "score": "5分", "question": ["在GoO首页,文献类型选择论文,检索点选择题名,检索词输入educaon,请问找到的结果数量在下列哪个范围内?"], "answer": ["1000-5万"], "id": "q063", "path": "screenshot/data/q063.png"}
+{"type": "单选题", "score": "5分", "question": ["下列学术检索平台,最适合找外文医学类文献的是"], "answer": ["pubmed"], "id": "q064", "path": "screenshot/data/q064.png"}
+{"type": "单选题", "score": "5分", "question": ["在我国绝大部分高校,毕业论文后的参考文献,要求用()格式。"], "answer": ["G/T 7714"], "id": "q065", "path": "screenshot/data/q065.png"}
+{"type": "单选题", "score": "5分", "question": ["O(https://www.doabooks.org)可以查找的文献类型是()"], "answer": ["电子书"], "id": "q066", "path": "screenshot/data/q066.png"}
+{"type": "多选题", "score": "5分", "question": ["关于webofscience,下列说法正确的有()。"], "answer": ["除了Sl,webofscience还可以查其他多个数据库。", "webofscience是一个检索平台,可以查询ScI论文。", "c如果要查Scl论文,可以在webofscience核心合集中勾选ScienceitationndexExpanded这个子库。", "访问webofscienced需要权限。"], "id": "q067", "path": "screenshot/data/q067.png"}
+{"type": "单选题", "score": "5分", "question": ["考研选导师,如果想找一位学术大牛做导师,可以找高产作者和高被引作者。找高产作者,可以在cnki的期刊论文数据库中指定某一学科进行检索,然后利用cnki的()功能。"], "answer": ["可视化分析"], "id": "q068", "path": "screenshot/data/q068.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki的高级检索界面,选择下列哪些文献类型的时候,可以选择“篇名”这个检索点?"], "answer": ["学术期刊", "会议"], "id": "q069", "path": "screenshot/data/q069.png"}
+{"type": "多选题", "score": "5分", "question": ["关于webofscience的匹配方式,下列说法正确的有()。"], "answer": ["在高级检索中关闭“精确检索”开关,检索词不仅可能被拆分,而且会匹配到同一单词不同词形的结果。", "c在高级检索中开启“精确检索”开关,可以保证检索词以原形的形式参与检索,但检索词可能被拆分。", "在webofscience中,如果不想让系统拆分你的检索词,可以加上双引这是最严格的精确匹配。"], "id": "q070", "path": "screenshot/data/q070.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于Webofscience通配符的有()。"], "answer": ["$", "*"], "id": "q071", "path": "screenshot/data/q071.png"}
+{"type": "多选题", "score": "5分", "question": ["在万方选题的“文献精读”页面,搜索框右侧的按钮有()。"], "answer": ["搜专家", "c搜论文"], "id": "q072", "path": "screenshot/data/q072.png"}
+{"type": "多选题", "score": "5分", "question": ["在webofscience的检索结果页面中,可以点击“分析检索结果”按钮进入结果分析页面。在结果分析页面,选定分析项目“研究方向”,系统会以图形的形式呈现分析结果,其中可以选择下列哪些图形?"], "answer": ["树状图", "c柱状图"], "id": "q074", "path": "screenshot/data/q074.png"}
+{"type": "多选题", "score": "5分", "question": ["国家法律法规数据库(https://flk.npc.gov.cn/),可以检索()。"], "answer": ["我国司法解释", "我国地方性法规", "c我国行政法规", "我国宪法及各种法律"], "id": "q075", "path": "screenshot/data/q075.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience的高级检索中关闭“精确检索”开关,检索词不仅可能皮拆分,而且会匹配到同一单词不同词形的结果。"], "answer": ["正确"], "id": "q076", "path": "screenshot/data/q076.png"}
+{"type": "判断题", "score": "5分", "question": ["webofscience检索结果左侧的筛选区,有相关数据,其实也是对检索吉果的简单分析。"], "answer": ["正确"], "id": "q077", "path": "screenshot/data/q077.png"}
+{"type": "判断题", "score": "5分", "question": ["维度学术资源在线,是一个软件,也是一个学术搜索工具,可以跨库找文,可以深度查期刊。"], "answer": ["错误"], "id": "q078", "path": "screenshot/data/q078.png"}
+{"type": "判断题", "score": "5分", "question": ["miner不仅可以找到作者的研究成果,而且能从文献计量的角度对作者进行评价。"], "answer": ["正确"], "id": "q079", "path": "screenshot/data/q079.png"}
+{"type": "判断题", "score": "5分", "question": ["cnki可以自动生成文献互引网络分析图。"], "answer": ["正确"], "id": "q080", "path": "screenshot/data/q080.png"}
+{"type": "判断题", "score": "5分", "question": ["2017年人大复印报刊资料从期刊《图书馆建设》全文转载的文章数量大F从期刊《图书馆杂志》全文转载的文章数量。"], "answer": ["错误"], "id": "q081", "path": "screenshot/data/q081.png"}
+{"type": "单选题", "score": "5分", "question": ["在webofscience中,设计专业的表达式:Tl=(computingeducat*)ndSO=(\"psychologicalreview\")notPY=(1900-2016),请问:表达式中的星号,本现的是哪种信息检索技术?"], "answer": ["截词检索"], "id": "q082", "path": "screenshot/data/q082.png"}
+{"type": "单选题", "score": "5分", "question": ["在webofscience中查找标题为“TheEffectsofSchoolSpendingonElucational and Economic Outcomes: Evidence from School Finance Reforms\"的文,进入分析报告查看历年被引数据。请问这篇文献2018年在wbofscience中的引量与下列哪个数据最接近?"], "answer": ["25"], "id": "q083", "path": "screenshot/data/q083.png"}
+{"type": "单选题", "score": "5分", "question": ["在webofscience中,检索点选择“标题”,检索词输入leg和ache这两个词,中间用空格连接。这种表达方式,体现的是布尔检索中的()关系。"], "answer": ["并且"], "id": "q084", "path": "screenshot/data/q084.png"}
+{"type": "单选题", "score": "5分", "question": ["在NKI的期刊检索中,选择检索点“篇名”,检索表达式输入:信息素养数字素养。请问:检索意图是什么?"], "answer": ["查找篇名中包含“信息素养”和“数字素养”的文献。"], "id": "q085", "path": "screenshot/data/q085.png"}
+{"type": "单选题", "score": "5分", "question": ["在人大复印报刊资料数据库中可以开具电子版论文转载证明,请问这轮文转载证明下面盖的电子公章上是哪些文字?"], "answer": ["中国人民大学报刊资料中心总编室"], "id": "q086", "path": "screenshot/data/q086.png"}
+{"type": "单选题", "score": "5分", "question": ["国家法律法规数据库(https://flk.npc.gov.cn/)是()推出并维护的免费数据库。"], "answer": ["4全国人大常委会办公厅"], "id": "q087", "path": "screenshot/data/q087.png"}
+{"type": "多选题", "score": "5分", "question": ["在维度学术资源在线中查询期刊,可以对期刊类型做出限定,这些限定包括()。"], "answer": ["SSI", "SSI", "S", "SOPUS"], "id": "q088", "path": "screenshot/data/q088.png"}
+{"type": "多选题", "score": "5分", "question": ["在webofscience的高级检索界面,打开“精确匹配”开关,检索点选择e,检索词输入educationreform。下列结果,可能被找到的有()。"], "answer": ["Implementing?education system reform: Local adaptation in schoolreformof teachingand learning", "Education reform and education gaps", "REFORMOF NURSING EUTION", "REFORMOF EUTION"], "id": "q089", "path": "screenshot/data/q089.png"}
+{"type": "多选题", "score": "5分", "question": ["关于ESI,下列说法正确的有()。"], "answer": ["ESI不是真正意义上的SI,可以认为是候补SI,以后表现好,可能会被SI收录。", "ESI和SI都在webofscience核心合集中,如果有权限,都可以查到。"], "id": "q090", "path": "screenshot/data/q090.png"}
+{"type": "多选题", "score": "5分", "question": ["万方选题下有几个功能,其中包括()。"], "answer": ["拓展研究边界", "追踪研究前沿", "回溯学术脉络", "发掘新兴主题"], "id": "q091", "path": "screenshot/data/q091.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki的期刊导航中,在学科导航→信息科技→图书情报与数字图书馆类别下,有几十种期刊,其中包括()。"], "answer": ["图书情报工作", "信息资源管理学报", "数据分析与知识发现"], "id": "q092", "path": "screenshot/data/q092.png"}
+{"type": "多选题", "score": "5分", "question": ["下列平台可以找统计数据的有()。"], "answer": ["国家统计局官网", "NKI"], "id": "q093", "path": "screenshot/data/q093.png"}
+{"type": "多选题", "score": "5分", "question": ["NKI提供多种格式的题录数据导出,其中包括()。"], "answer": ["EndNote", "ML", "refworks", "P"], "id": "q094", "path": "screenshot/data/q094.png"}
+{"type": "多选题", "score": "5分", "question": ["在Miner的专家搜索结果中,有一个筛选区,可以按照筛选。"], "answer": ["性别", "地区", "H指数"], "id": "q095", "path": "screenshot/data/q095.png"}
+{"type": "多选题", "score": "5分", "question": ["关于NKI的检索入口,下列说法正确的有()。"], "answer": ["在高级检索中,选择的文献类型不同,检索界面也是有区别的。", "NKI的高级检索,功能更多,针对性也更强。3", "在NKI的高级检索中,可以用布尔逻辑检索技术。", "NKI有多个检索入口。首页有综合检索,每个子库又有各自的入口。"], "id": "q096", "path": "screenshot/data/q096.png"}
+{"type": "多选题", "score": "5分", "question": ["在Webofscience用Tl=(waterconsum*)这样的检索表达式(高级检索中的精确匹配开启)检索,下列(都是文献标题)哪些文献可能出现在检索结果?"], "answer": ["Global?consumptive water use for crop production: The importance ogreen water andvirtual water", "Improving energy efficiency in?water distribution systems based onwaterconsumptionprofiling", "new approach for evaluating the?water resistance of sunscreens onconsumers: tap water vs. salt water vs. chlorinewater", "review of Qatar's?water resources, consumption and virtual watertrade"], "id": "q097", "path": "screenshot/data/q097.png"}
+{"type": "多选题", "score": "5分", "question": ["万方数据库,全称是万方数据知识服务平台,可以检索、获取多种类型的文献资源,其中包括()。"], "answer": ["期刊论文", "学位论文", "会议论文"], "id": "q098", "path": "screenshot/data/q098.png"}
+{"type": "多选题", "score": "5分", "question": ["下列论文,被人大复印报刊资料转载的有()。"], "answer": ["刘忱的《乡村振兴战略与乡村文化复兴》", "王思斌的《乡村全面与乡村集体性的发展》c", "许伟明的《乡村振兴的逻辑》"], "id": "q099", "path": "screenshot/data/q099.png"}
+{"type": "多选题", "score": "5分", "question": ["国家法律法规数据库(https://flk.npc.gov.cn/),可以检索()。"], "answer": ["我国地方性法规", "我国司法解释", "c我国行政法规", "我国宪法及各种法律"], "id": "q100", "path": "screenshot/data/q100.png"}
+{"type": "多选题", "score": "5分", "question": ["关于索引,下列说法正确的有()。"], "answer": ["SI,科学引文索引,侧重于理工类学科。", "SIE,指的是网络版的SI。在我国,SIE收录的论文,都被称为SI论", "SSI,社会科学引文索引,侧重于人文社会科学。"], "id": "q101", "path": "screenshot/data/q101.png"}
+{"type": "单选题", "score": "5分", "question": ["在webofscience中,检索标题中包含大数据,发表时间在2015到2022之间的文献。下列哪个检索表示是最合适?"], "answer": ["Tl=(\"big data\") and PY=(2015-2022)"], "id": "q102", "path": "screenshot/data/q102.png"}
+{"type": "单选题", "score": "5分", "question": ["在webofscience中,表示布尔逻辑“或”的连接词是()。"], "answer": ["or"], "id": "q103", "path": "screenshot/data/q103.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中检索期刊论文,来源类别中同时勾选了SSI和北大核心,1问下列说法正确的是()。"], "answer": ["找到的每一篇论文,所在的期刊,北大核心和SSI至少属于一个。"], "id": "q104", "path": "screenshot/data/q104.png"}
+{"type": "单选题", "score": "5分", "question": ["在GoO首页,文献类型选择论文,检索点选择题名,检索词输入eduo请问找到的结果数量在下列哪个范围内?ion,"], "answer": ["1000-5万"], "id": "q105", "path": "screenshot/data/q105.png"}
+{"type": "单选题", "score": "5分", "question": ["在人大报刊复印资料数据库中开具转载证明,需要从首页的哪个入口?"], "answer": ["转载查询"], "id": "q106", "path": "screenshot/data/q106.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki的期刊导航中,在学科导航→信息科技学科大类下,有十多个学科小类,其中包括()。"], "answer": ["图书情报与数字图书馆", "出版", "新闻与传媒"], "id": "q107", "path": "screenshot/data/q107.png"}
+{"type": "单选题", "score": "5分", "question": ["在我国绝大部分高校,毕业论文后的参考文献,要求用()格式。"], "answer": ["G/T 7714"], "id": "q108", "path": "screenshot/data/q108.png"}
+{"type": "多选题", "score": "5分", "question": ["下列系统,可以查找标准文献的有()。"], "answer": ["国家标准化管理委员会旗下的国家标准全文公开系统", "NKI"], "id": "q109", "path": "screenshot/data/q109.png"}
+{"type": "多选题", "score": "5分", "question": ["在Webofscience用TI=(OLO$RNTRNS*)这样的检索表达式(高级检索中的精确匹配开启)检索,下列(都是文献标题)哪些文献可能出现在检索结果中?"], "answer": ["Growth,?transfer printing and colour conversion techniques towardsfull-colourmicro-LEdisplay", "utomated?colour grading using colour distribution transfer", "Lossless and reversible?colour space transformation for ayer colourFilterarrayimages", "eriving?color-color transformations for VRl photometry"], "id": "q110", "path": "screenshot/data/q110.png"}
+{"type": "多选题", "score": "5分", "question": ["关于webofscience核心合集,下列说法正确的有()。"], "answer": ["由于每个单位购买的权限不同,在webofscience界面中,不同单位看到的核心合集的子库数量可能是不一样的。", "艺术与人文引文索引&HI是webofscience核心合集的一个子库。", "webofscience核心合集包括多个子库。"], "id": "q111", "path": "screenshot/data/q111.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki首页的综合检索中,检索点包括()。"], "answer": ["主题", "作者"], "id": "q112", "path": "screenshot/data/q112.png"}
+{"type": "多选题", "score": "5分", "question": ["在Webofscience用Tl=(waterconsum*)这样的检索表达式(高级检索中的精确匹配开启)检索,下列(都是文献标题)哪些文献可能出现在检索结果?"], "answer": ["review of Qatar's?water resources, consumption and virtual watertrade", "Improving energy efficiency in?water distribution systems based onwater consumption profiling", "c new approach for evaluating the?water resistance of sunscreens onconsumers: tap water vs. salt water vs. chlorinewater", "Global?consumptive water use for crop production: The importance ofgreenwaterandvirtualwater"], "id": "q113", "path": "screenshot/data/q113.png"}
+{"type": "多选题", "score": "5分", "question": ["在万方选题的“文献精读”功能模块中,搜到的论文分成几个大类,其包括()。"], "answer": ["综述性论文", "高关注论文", "优秀学位论文", "新发表论文"], "id": "q114", "path": "screenshot/data/q114.png"}
+{"type": "多选题", "score": "5分", "question": ["有()。下列属于webofscience核心合集子库的有"], "answer": ["PI", "SIE", "ESI"], "id": "q115", "path": "screenshot/data/q115.png"}
+{"type": "判断题", "score": "5分", "question": ["NKI首页的检索入口(就是那个醒目的检索框),是综合检索,可以找到很多类型的文献。"], "answer": ["正确"], "id": "q116", "path": "screenshot/data/q116.png"}
+{"type": "判断题", "score": "5分", "question": ["截词检索,是一种用特定字符替代不特定字符的信息检索技术,可以提高查准率。"], "answer": ["错误"], "id": "q117", "path": "screenshot/data/q117.png"}
+{"type": "判断题", "score": "5分", "question": ["在NKI中,可以导出EXEL格式的题录数据。"], "answer": ["正确"], "id": "q119", "path": "screenshot/data/q119.png"}
+{"type": "判断题", "score": "5分", "question": ["如果学校购买了读秀,在校内可以使用读秀的个人认证服务。注册读秀长号,完成个人认证,以后用这个账号可以在任何有互联网的设备上免费使用读秀。"], "answer": ["正确"], "id": "q120", "path": "screenshot/data/q120.png"}
+{"type": "判断题", "score": "5分", "question": ["万方选题的“选题发现”可以帮你回溯学术脉络,追踪研究前沿,拓展研究边界,发掘新兴主题。"], "answer": ["正确"], "id": "q121", "path": "screenshot/data/q121.png"}
+{"type": "单选题", "score": "5分", "question": ["维普数据库中,2018年度光学S期刊(包括扩展版)有几种?其“立即指数”最高的刊是?"], "answer": ["8,光学学报"], "id": "q122", "path": "screenshot/data/q122.png"}
+{"type": "单选题", "score": "5分", "question": ["因被执行人未按执行通知书指定的期间履行生效法律文书确定的给付义且有履行能力而拒不履行,将被纳入失信被执行人名单,这个名单我们可以通过查询。"], "answer": ["全国法院失信被执行人查询 (https://shixin.court.gov.cn/index.html)"], "id": "q123", "path": "screenshot/data/q123.png"}
+{"type": "单选题", "score": "5分", "question": ["下列四篇文章,哪一篇不是O期刊论文?(给出的是论文的OI)"], "answer": ["10.1016/j.scs.2020.102233"], "id": "q124", "path": "screenshot/data/q124.png"}
+{"type": "单选题", "score": "5分", "question": ["在台湾博硕士论文知识加值系统中检索“研究泰国使用F及IG对於個人隱、孤獨感及互聯網的關係”并下载全文,全文共有多少页?"], "answer": ["88页"], "id": "q125", "path": "screenshot/data/q125.png"}
+{"type": "单选题", "score": "5分", "question": ["在pubmed的检索框中输入foot这个检索词,不加引号,在高级检索页面查看检索细节,可以看到转换后的检索表达式。请问,转换后的检索表达式是()。"], "answer": ["\"foot\"[MeSH Terms] OR \"foot\"[llFields]"], "id": "q126", "path": "screenshot/data/q126.png"}
+{"type": "单选题", "score": "5分", "question": ["在OJ中找论文,检索点选择“标题”,检索词输入:educat*andteah*,找到的文献数量符合下面那种说法?"], "answer": ["3001以上"], "id": "q127", "path": "screenshot/data/q127.png"}
+{"type": "多选题", "score": "5分", "question": ["下列文献信息,可以在NKI中找到的有()。"], "answer": ["统计年鉴", "2期刊论文", "专利", "中文报纸"], "id": "q128", "path": "screenshot/data/q128.png"}
+{"type": "多选题", "score": "5分", "question": ["在NKI学位论文数据库的高级检索界面,有一个优秀论文级别的检索请问这个检索点下有下列哪些选项?"], "answer": ["校级", "省级", "全国"], "id": "q130", "path": "screenshot/data/q130.png"}
+{"type": "多选题", "score": "5分", "question": ["pubmed提供文献追踪功能,如果要使用这个功能,可以在检索结果界面的检索框下面点击链接()。"], "answer": ["create rss", "create alert"], "id": "q131", "path": "screenshot/data/q131.png"}
+{"type": "多选题", "score": "5分", "question": ["ncbi的pmc数据库,可以免费获取生物医学领域的全文文献,请问,pm提供的全文格式有()。"], "answer": ["PF", "PubReader", "HTML(网页版)"], "id": "q132", "path": "screenshot/data/q132.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于NKI中期刊论文下载格式的有()。"], "answer": ["PF", "J"], "id": "q133", "path": "screenshot/data/q133.png"}
+{"type": "多选题", "score": "5分", "question": ["在ncbi的bookshelf数据库中,在检索框中输入这样的检索表达式:nformationservice\"[title],下列说法正确的有()。"], "answer": ["检索表达式中的“informationservice”是检索词", "c检索表达式中的[title]是检索点", "检索表达式中用的双引号,作用是告诉系统,这两个单词是一个短语,不能"], "id": "q134", "path": "screenshot/data/q134.png"}
+{"type": "多选题", "score": "5分", "question": ["下列可以在pubmed的高级检索页面找到的有()。"], "answer": ["Query box", "PubMed dvanced Search uilder", "History and Search etails"], "id": "q135", "path": "screenshot/data/q135.png"}
+{"type": "判断题", "score": "5分", "question": ["在NKI的高级检索界面,文献类型选择“学术期刊”,在设置检索条件的寸候,可以看到“篇名”这个检索点。如果把文献类型修改为“学位论文”,同样可以选圣“篇名”这个检索点。"], "answer": ["错误"], "id": "q136", "path": "screenshot/data/q136.png"}
+{"type": "判断题", "score": "5分", "question": ["在cnki的可视化分析中,有两个选项,一个是对选定结果进行分析,是对全部结果进行分析。这两个分析功能的具体项目,有一样的地方,也有区别。"], "answer": ["正确"], "id": "q137", "path": "screenshot/data/q137.png"}
+{"type": "判断题", "score": "5分", "question": ["NKI中获取的某些标准文献,PF全文做了加密处理,需要特殊的阅读器才能打开。"], "answer": ["正确"], "id": "q138", "path": "screenshot/data/q138.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience中,同一个检索点下可以实现布尔逻辑关系,不同的验索点之间也可以实现布尔逻辑关系。"], "answer": ["正确"], "id": "q139", "path": "screenshot/data/q139.png"}
+{"type": "判断题", "score": "5分", "question": ["通过文献互引网络分析图中的引证关系,可以发现文献聚类,有助于了解研究分布。"], "answer": ["正确"], "id": "q140", "path": "screenshot/data/q140.png"}
+{"type": "单选题", "score": "5分", "question": ["在springer中输入“comput*”进行检索,请问这是一种()截词检索技"], "answer": ["后截断"], "id": "q142", "path": "screenshot/data/q142.png"}
+{"type": "单选题", "score": "5分", "question": ["在汇雅书电子书之类的电子书数据库中找一本宏观经济方面的电子书比较合适的检索点是()。"], "answer": ["书名"], "id": "q143", "path": "screenshot/data/q143.png"}
+{"type": "单选题", "score": "5分", "question": ["关于百度学术,下列说法错误的是()。"], "answer": ["通过百度学术找到的每一篇学术文献,都可以获得全文。"], "id": "q144", "path": "screenshot/data/q144.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中检索2010--2015年间,中华医学会举办的,题名中包含基因工程”,并且会议名称不包含“中华医学会走向世界医药卫生科学技术新进展学术议”的会议论文,检索结果显示的论文数量最接近下列哪个选项?"], "answer": ["36"], "id": "q145", "path": "screenshot/data/q145.png"}
+{"type": "单选题", "score": "5分", "question": ["在NKI中,一篇含有“新冠疫情”和“T”这两个关键词,且学位授予单位为吉林大学的学位论文共有多章?"], "answer": ["7章9"], "id": "q146", "path": "screenshot/data/q146.png"}
+{"type": "单选题", "score": "5分", "question": ["(在cnki中找北京大学发表的期刊论文,需要选择的检索点是"], "answer": ["作者单位"], "id": "q147", "path": "screenshot/data/q147.png"}
+{"type": "多选题", "score": "5分", "question": ["在pubmed首页的检索框中输入:H,回车之后在高级检索界面查看检索细节。请问,检索细节中pubmd翻译后的检索表达式中出现了下列哪些字符?"], "answer": ["attention deficit disorder with hyperactivity", "[MeSH Terms]", "N", "OR"], "id": "q148", "path": "screenshot/data/q148.png"}
+{"type": "多选题", "score": "5分", "question": ["关于scopus数据库,下列说法正确的有()。"], "answer": ["在Scopus的访问类型下勾选openaccess,然后点击限制范围,得到的文献可以获取全文。", "Scopus提供条件筛选功能,筛选字段包括访问类型,作者姓名,关键字,文献类型,资金赞助商等。", "cscopus是一个外文数据库,收录我国部分期刊,但检索词要用英文。"], "id": "q149", "path": "screenshot/data/q149.png"}
+{"type": "多选题", "score": "5分", "question": ["对维普期刊平台校外访问的描述,正确的是?"], "answer": ["可借助手机PP“中文期刊助手”校园内登录获得校外访问权限", "电脑端,在校内登录维普主页,之后校外就可以下载全文了"], "id": "q150", "path": "screenshot/data/q150.png"}
+{"type": "多选题", "score": "5分", "question": ["关于用万方数据库获取学位论文,下列说法正确的有()。"], "answer": ["在万方数据库中获取学位论文需要权限,如果学校购买了权限,不仅可以在线阅读,还可以下载全文。", "除了万方,NKI、PQT等数据库也可以找学位论文。", "万方数据库不仅可以查找学位论文,还可以找期刊论文,会议论文等。c", "万方数据库除了提供基本检索,还提供专业检索和高级检索功能。"], "id": "q151", "path": "screenshot/data/q151.png"}
+{"type": "多选题", "score": "5分", "question": ["Scienceirect全文文献数据库高级检索界面包括哪些限制条件?"], "answer": ["ISSN或ISN", "作者", "参考文献"], "id": "q152", "path": "screenshot/data/q152.png"}
+{"type": "多选题", "score": "5分", "question": ["在Scienceirect中查找标题中含有psychology,且来源于期刊MethooinPsychology的文章,下列符合条件的有?"], "answer": ["checklist to assess the quality of survey studies in psychology", "What can psychology's statistics reformers learn from the error-statisticalperspective?"], "id": "q153", "path": "screenshot/data/q153.png"}
+{"type": "多选题", "score": "5分", "question": ["关于pubmed,medline、PM,下列说法正确的有()。"], "answer": ["pubmed是一个学术搜索引擎,主要聚焦生物医学领域。", "medline的资源都可以通过pubmed找到。"], "id": "q154", "path": "screenshot/data/q154.png"}
+{"type": "多选题", "score": "5分", "question": ["在ncbi的bookshelf数据库中,在检索框中输入这样的检索表达式:nformationservice\"[title],下列说法正确的有()。"], "answer": ["检索表达式中的[title]是检索点", "检索表达式中用的双引号,作用是告诉系统,这两个单词是一个短语,不能拆分。", "检索表达式中的“information service”是检索词"], "id": "q155", "path": "screenshot/data/q155.png"}
+{"type": "判断题", "score": "5分", "question": ["如果有人大复印报刊资料的访问权限,人大复印报刊资料提供转载证,自己可以在线开具。"], "answer": ["正确"], "id": "q156", "path": "screenshot/data/q156.png"}
+{"type": "判断题", "score": "5分", "question": ["如果有人大复印报刊资料的访问权限,人大复印报刊资料提供转载证,自己可以在线开具。"], "answer": ["正确"], "id": "q156", "path": "screenshot/data/q156.png"}
+{"type": "判断题", "score": "5分", "question": ["万方选题有“文献精读”功能,通过这个功能,可以查找好文献、新文、综述文献、学位论文,能够帮你快速了解一个主题领域。"], "answer": ["正确"], "id": "q157", "path": "screenshot/data/q157.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience的检索表达式中,可以使用字段限制、布尔逻辑、同检索、精确匹配等检索技术。"], "answer": ["正确"], "id": "q158", "path": "screenshot/data/q158.png"}
+{"type": "判断题", "score": "5分", "question": ["维度学术资源在线的学术搜索,类似于百度学术,会给出文献的多个来这些来源都可以免费获取全文。"], "answer": ["错误"], "id": "q159", "path": "screenshot/data/q159.png"}
+{"type": "判断题", "score": "5分", "question": ["同一检索点下,NKI用加号、问号、减号分别表示或者、并且、非这三个布尔逻辑关系,用半角括号改变运算顺序。不同检索点下,NKI用N、ORNOT表示表示布尔逻辑关系。"], "answer": ["错误"], "id": "q160", "path": "screenshot/data/q160.png"}
+{"type": "单选题", "score": "5分", "question": ["在台湾博硕士论文知识加值系统中检索“研究泰國使用F及IG对於個人隱、孤獨感及互聯網的關係”并下载全文,全文共有多少页?"], "answer": ["88页"], "id": "q161", "path": "screenshot/data/q161.png"}
+{"type": "单选题", "score": "5分", "question": ["因被执行人未按执行通知书指定的期间履行生效法律文书确定的给付义且有履行能力而拒不履行,将被纳入失信被执行人名单,这个名单我们可以通过查询。"], "answer": ["全国法院失信被执行人查询(https://shixin.court.gov.cn/index.html)"], "id": "q162", "path": "screenshot/data/q162.png"}
+{"type": "单选题", "score": "5分", "question": ["维普数据库中,2018年度光学S期刊(包括扩展版)有几种?其中,“立即指数”最高的刊是?"], "answer": ["8,光学学报"], "id": "q163", "path": "screenshot/data/q163.png"}
+{"type": "单选题", "score": "5分", "question": ["《中国广告》这个期刊2018年发表过一篇关键词中含有“鬼畜”的文章请问这篇文章的作者是?"], "answer": ["刘悦"], "id": "q164", "path": "screenshot/data/q164.png"}
+{"type": "单选题", "score": "5分", "question": ["在pubmed的检索框中输入foot这个检索词,不加引号,在高级检索页面查看检索细节,可以看到转换后的检索表达式。请问,转换后的检索表达式是()。"], "answer": ["\"foot\"[MeSH Terms] OR \"foot\"[ll Fields]4"], "id": "q165", "path": "screenshot/data/q165.png"}
+{"type": "单选题", "score": "5分", "question": ["在sciencedirect全文数据库中搜索题目为“modelforpredictingusentention touse wearable loTdevices at theworkplace”的文献并下载全文,文中序号为3.5的标题为"], "answer": ["Perceived usefulness"], "id": "q166", "path": "screenshot/data/q166.png"}
+{"type": "多选题", "score": "5分", "question": ["关于O,下列说法正确的有(。)"], "answer": ["找O文献,也可以使用专搜O文献的垂直搜索引擎,如OJ、OLI等。", "有些O期刊的论文全文,可以在其官网免费下载。c", "O,在学术领域,一般指的是OPENESS,中文一般翻译为开放获取,或者开放存取。"], "id": "q167", "path": "screenshot/data/q167.png"}
+{"type": "多选题", "score": "5分", "question": ["关于ncbi的bookshelf数据库,下列说法正确的有 ()"], "answer": ["ncbi的bookshelf数据库中的图书全文,提供的下载格式是PF。", "ncbi的bookshelf数据库是一个全文库,可以获取图书全文。", "ncbi的bookshelf数据库中的图书,大多属于生物医学领域。"], "id": "q168", "path": "screenshot/data/q168.png"}
+{"type": "多选题", "score": "5分", "question": ["下面的指标哪些是评价期刊的数据指标?"], "answer": ["立即指数", "H指数", "半衰期"], "id": "q169", "path": "screenshot/data/q169.png"}
+{"type": "多选题", "score": "5分", "question": ["在pubmed找到下列文献。请问,这些文献中的全文获取渠道是PM数居库的有"], "answer": ["Song Y, Yan Z. Exploring of the molecular mechanism of rhinitis viapioinformatics methods.Mol MedRep.2018;17(2):3014-3020.doi:10.3892/mmr.2017.8213", "Nyenhuis SM, Mathur SK. Rhinitis in older adults. urr llergy sthmaRep. 2013;13(2):171-177. doi:10.1007/s11882-013-0342-3", "anerjee K, ostelloe, Mathie RT, HowickJ. Homeopathyfor allergichinitis: protocol for a systematic review. Syst Rev. 2014;3:59. Published2014Jun10doi:101186/2046-4053-3-59"], "id": "q170", "path": "screenshot/data/q170.png"}
+{"type": "多选题", "score": "5分", "question": ["在中国执行信息公开网上,我们可以查询到哪些信息"], "answer": ["执行法律文书", "被执行人信息", "限制消费人员", "失信被执行人"], "id": "q171", "path": "screenshot/data/q171.png"}
+{"type": "多选题", "score": "5分", "question": ["O是一种学术期刊的出版模式,下列哪些途径可以免费获得O文献?"], "answer": ["arXiv", "OLib", "ScienceOpen", "OJ"], "id": "q172", "path": "screenshot/data/q172.png"}
+{"type": "多选题", "score": "5分", "question": ["通过wiley找到下列文献,请问哪些是O文献并且能够下载pdf全文?"], "answer": ["Economic Evaluation in Global Perspective:  ibliometric nalysis ofthe RecentLiterature", "Reconciling Perspectives on lusters: n Integrative Review andResearchgenda"], "id": "q173", "path": "screenshot/data/q173.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些检索点可以在NKI学位论文数据库中找到?"], "answer": ["作者单位", "学位授予单位", "导师"], "id": "q174", "path": "screenshot/data/q174.png"}
+{"type": "判断题", "score": "5分", "question": ["在NKI中,不仅可以检索我国专利,也可以检索海外专利。"], "answer": ["正确"], "id": "q175", "path": "screenshot/data/q175.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience的高级检索中开启“精确检索”开关,可以保证检索词以原形的形式参与检索,而且检索词不能被拆分。"], "answer": ["错误"], "id": "q176", "path": "screenshot/data/q176.png"}
+{"type": "判断题", "score": "5分", "question": ["如果没有付费,在NKI中是不能导出期刊论文的题录数据库的。"], "answer": ["错误"], "id": "q177", "path": "screenshot/data/q177.png"}
+{"type": "判断题", "score": "5分", "question": ["NKI中获取的某些标准文献,PF全文做了加密处理,需要特殊的阅读器才能打开。"], "answer": ["正确"], "id": "q178", "path": "screenshot/data/q178.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience中,同一个检索点下可以实现布尔逻辑关系,不同的验索点之间也可以实现布尔逻辑关系。"], "answer": ["正确"], "id": "q180", "path": "screenshot/data/q180.png"}
+{"type": "单选题", "score": "5分", "question": ["万方数据库中,2015-2019年,中华医学会举办的,会议名包含“骨科为会议,下面哪个研究内容(高频关键词)最受关注?"], "answer": ["内固定"], "id": "q181", "path": "screenshot/data/q181.png"}
+{"type": "单选题", "score": "5分", "question": ["如果想查询一个企业或个人有没有涉诉案件,可以通过哪个地方进行查在这个系统中可以免费查到各种判决书。"], "answer": ["裁判文书网"], "id": "q182", "path": "screenshot/data/q182.png"}
+{"type": "单选题", "score": "5分", "question": ["题目为“Mapping technological trajectories andexploringknowledgsources:casestudyof3printingtechnologies”的Pf全文有多少页?在scncedirect中找一下。"], "answer": ["12T"], "id": "q183", "path": "screenshot/data/q183.png"}
+{"type": "单选题", "score": "5分", "question": ["钱艳.青年亚文化视角下的网络视频文化研究一一以“鬼畜视频”为例[J].今媒,2018,26(07):191-193.该文参考文献共有几篇?"], "answer": ["5"], "id": "q184", "path": "screenshot/data/q184.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库检索中华医学会举办的会议名称包含”骨科“会议,下面选页中引用次数最多的会议论文是:"], "answer": ["脊柱结核的手术治疗进展及焦点问题"], "id": "q185", "path": "screenshot/data/q185.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中查找2010-2020年,中华医学会举办的,会议名称中包“骨科”的会议论文,请问:这些论文中,发文量最大的机构是()。"], "answer": ["四川大学华西临床医学院"], "id": "q186", "path": "screenshot/data/q186.png"}
+{"type": "单选题", "score": "5分", "question": ["pubmed中找到 《ryotherapy for the Treatment ofhronic Rhinitis:QualitativeSystematicReview》这篇文献。请问这篇文献的PMI和OI分别是什"], "answer": ["PMI: 30229670 0I: 10.1177/1945892418800879"], "id": "q187", "path": "screenshot/data/q187.png"}
+{"type": "多选题", "score": "5分", "question": ["对维普期刊平台校外访问的描述,正确的是?"], "answer": ["电脑端,在校内登录维普主页,之后校外就可以下载全文了", "c可借助手机PP“中文期刊助手”校园内登录获得校外访问权限"], "id": "q188", "path": "screenshot/data/q188.png"}
+{"type": "多选题", "score": "5分", "question": ["关于获取NKI文献全文的方法,下列说法正确的有:"], "answer": ["若学校购买相应权限,校内可免费获取全文", "校外可用学校的vpn免费获取全文", "用公共图书馆提供的免费服务获取全文"], "id": "q189", "path": "screenshot/data/q189.png"}
+{"type": "多选题", "score": "5分", "question": ["pubmed提供文献追踪功能,如果要使用这个功能,可以在检索结果界面的检索框下面点击链接()。"], "answer": ["create alert", "create rss"], "id": "q191", "path": "screenshot/data/q191.png"}
+{"type": "多选题", "score": "5分", "question": ["关于OJ,下列说法正确的有()。"], "answer": ["OJ是一个学术搜索引擎。", "cOJ中的O,指的是OPENESS,开放存取的意思。"], "id": "q192", "path": "screenshot/data/q192.png"}
+{"type": "多选题", "score": "5分", "question": ["关于用万方数据库获取学位论文,下列说法正确的有()。"], "answer": ["万方数据库除了提供基本检索,还提供专业检索和高级检索功能。", "万方数据库不仅可以查找学位论文,还可以找期刊论文,会议论文等。", "除了万方,NKI、PQT等数据库也可以找学位论文。c", "在万方数据库中获取学位论文需要权限,如果学校购买了权限,不仅可以在线阅读,还可以下载全文。"], "id": "q193", "path": "screenshot/data/q193.png"}
+{"type": "多选题", "score": "5分", "question": ["关于Ebsco数据库,下列说法正确的有()。"], "answer": ["ebsco数据库需要付费,如果学校图书馆购买了这个数据库,就可以在指定1络地址范围内使用。", "ebsco是一个全文数据库,检索时可以设置只要全文;论文全文格式为", "ebsco学术检索大全是ebsco最基本的数据库。", "ebsco是外文数据库,包含多个子数据库。"], "id": "q194", "path": "screenshot/data/q194.png"}
+{"type": "多选题", "score": "5分", "question": ["下列学术数据库,没有购买(学校和个人都没有购买)就不能检索的"], "answer": ["WOS", "汇雅书子书"], "id": "q195", "path": "screenshot/data/q195.png"}
+{"type": "判断题", "score": "5分", "question": ["维度学术资源在线,是一个软件,也是一个学术搜索工具,可以跨库找文,可以深度查期刊。"], "answer": ["错误"], "id": "q196", "path": "screenshot/data/q196.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience中,可以通过高级检索式生成器设计检索表达式"], "answer": ["正确"], "id": "q197", "path": "screenshot/data/q197.png"}
+{"type": "判断题", "score": "5分", "question": ["webofscience检索结果左侧的筛选区,有相关数据,其实也是对检索吉果的简单分析。"], "answer": ["正确"], "id": "q198", "path": "screenshot/data/q198.png"}
+{"type": "判断题", "score": "5分", "question": ["有些高校为师生开通了VPN,通过VPN师生在校外也能使用学校图书馆购买的指定数据库。"], "answer": ["正确"], "id": "q199", "path": "screenshot/data/q199.png"}
+{"type": "判断题", "score": "5分", "question": ["2017年人大复印报刊资料从期刊《图书馆建设》全文转载的文章数量于从期刊《图书馆杂志》全文转载的文章数量。"], "answer": ["错误"], "id": "q200", "path": "screenshot/data/q200.png"}
+{"type": "单选题", "score": "5分", "question": ["在NKI中查询2020年7月“2020年南国博览学术研讨会”上篇名中包含互联网”和“教育”,并且关键词中包含“教学模式”的会议文献,下列哪篇文献出现在索结果中?"], "answer": ["移动互联网环境下高等教育面临的挑战与对策"], "id": "q201", "path": "screenshot/data/q201.png"}
+{"type": "单选题", "score": "5分", "question": ["在pubmed的检索框中输入WuMS这个检索词,不加引号,在高级检索页面查看检索细节,可以看到转换后的检索表达式。请问,转换后的检索表达式是()"], "answer": ["wu ms[uthor] OR wu ms[Investigator]"], "id": "q202", "path": "screenshot/data/q202.png"}
+{"type": "单选题", "score": "5分", "question": ["ncbi的pmc数据库,主要查找()。"], "answer": ["学术论文的全文"], "id": "q203", "path": "screenshot/data/q203.png"}
+{"type": "单选题", "score": "5分", "question": ["linicalQueries,是pubmed旗下的一个垂直搜索引擎,专注于()文犬的搜索。"], "answer": ["临床医学"], "id": "q204", "path": "screenshot/data/q204.png"}
+{"type": "单选题", "score": "5分", "question": ["在NKI中,一篇含有“新冠疫情”和“T”这两个关键词,且学位授予单位为吉林大学的学位论文共有多少章?"], "answer": ["7章"], "id": "q205", "path": "screenshot/data/q205.png"}
+{"type": "单选题", "score": "5分", "question": ["NKI还可以查询会议文献,在NKI中查询2020年7月“I的权利义务与法治实践一—2020世界人工智能大会法治论坛”上、题目中含有“人工智能”的会议文献有多少篇?"], "answer": ["13篇"], "id": "q206", "path": "screenshot/data/q206.png"}
+{"type": "多选题", "score": "5分", "question": ["关于OJ,下列说法正确的有()。"], "answer": ["OJ中的O,指的是OPENESS,开放存取的意思。", "OJ是一个学术搜索引擎。"], "id": "q207", "path": "screenshot/data/q207.png"}
+{"type": "多选题", "score": "5分", "question": ["下列学术数据库,没有购买(学校和个人都没有购买)就不能检索的有0"], "answer": ["汇雅书子书", "woS"], "id": "q208", "path": "screenshot/data/q208.png"}
+{"type": "多选题", "score": "5分", "question": ["对维普期刊平台校外访问的描述,正确的是?"], "answer": ["可借助手机PP“中文期刊助手”校园内登录获得校外访问权限", "电脑端,在校内登录维普主页,之后校外就可以下载全文了"], "id": "q209", "path": "screenshot/data/q209.png"}
+{"type": "多选题", "score": "5分", "question": ["关于Ebsco数据库,下列说法正确的有()。"], "answer": ["ebsco学术检索大全是ebsco最基本的数据库。", "ebsco是外文数据库,包含多个子数据库。", "cebsco是一个全文数据库,检索时可以设置只要全文;论文全文格式为df。", "ebsco数据库需要付费,如果学校图书馆购买了这个数据库,就可以在指定网络地址范围内使用。"], "id": "q212", "path": "screenshot/data/q212.png"}
+{"type": "多选题", "score": "5分", "question": ["关于用万方数据库获取学位论文,下列说法正确的有"], "answer": ["除了万方,NKI、PQT等数据库也可以找学位论文。", "在万方数据库中获取学位论文需要权限,如果学校购买了权限,不仅可以在线阅读,还可以下载全文。", "万方数据库不仅可以查找学位论文,还可以找期刊论文,会议论文等。", "万方数据库除了提供基本检索,还提供专业检索和高级检索功能。"], "id": "q213", "path": "screenshot/data/q213.png"}
+{"type": "多选题", "score": "5分", "question": ["Scopus中,*butyl可以检索到:"], "answer": ["o-butyl", "3,5-di-tert-butyl substituted phthalocyanines", "di-n-butyl phthalate"], "id": "q214", "path": "screenshot/data/q214.png"}
+{"type": "判断题", "score": "5分", "question": ["万方选题的“选题发现”可以帮你回溯学术脉络,追踪研究前沿,拓展研究边界,发掘新兴主题。"], "answer": ["正确"], "id": "q215", "path": "screenshot/data/q215.png"}
+{"type": "判断题", "score": "5分", "question": ["影响因子一般指的是期刊的影响因子,一篇论文、一个作者是不存在影向因子这个说法的。"], "answer": ["正确"], "id": "q216", "path": "screenshot/data/q216.png"}
+{"type": "判断题", "score": "5分", "question": ["同样一本期刊,同一年,无论是哪个机构给出的影响因子都是相同的"], "answer": ["错误"], "id": "q217", "path": "screenshot/data/q217.png"}
+{"type": "判断题", "score": "5分", "question": ["NKI检索是免费的,只要能上互联网,就能用NKI检索文献。"], "answer": ["正确"], "id": "q220", "path": "screenshot/data/q220.png"}
+{"type": "单选题", "score": "5分", "question": ["下列哪个地址可以进入ncbi的bookshelf数据库?"], "answer": ["https://www.ncbi.nlm.nih.gov/books"], "id": "q221", "path": "screenshot/data/q221.png"}
+{"type": "单选题", "score": "5分", "question": ["在NKl期刊论文数据库的高级检索界面(https://kns.cnki.net/KNS8/lvSearch?dbcode=JFQ),有些检索点后面可以对检索词设置“精确”或“模糊”的四配方式(可选),但有些检索点则不能(不可选,选项是灰色的)。请问,下列哪个验索点后面的匹配方式是不可选的(灰色)?"], "answer": ["主题"], "id": "q222", "path": "screenshot/data/q222.png"}
+{"type": "单选题", "score": "5分", "question": ["在wiley中搜索这篇文献: Feasibility study on mental health-careeffctsofplant installations inofficespaces。请问这篇文献的访问标识为()。"], "answer": ["open access"], "id": "q223", "path": "screenshot/data/q223.png"}
+{"type": "单选题", "score": "5分", "question": ["请在ncbi的pmc数据库中找到《evelopingtheTransdisciplinarygirResearchgenda:Newevelopmentsinigata》这篇文献,在检索结果页面可以看到这篇文献的PF全文下载链接,并标注了PF文件的大小。请问,标注的这PF文件大小是()。"], "answer": ["5.0M"], "id": "q224", "path": "screenshot/data/q224.png"}
+{"type": "单选题", "score": "5分", "question": ["用NKI查询四川师范大学2010-2019年共发表了多少篇SSI论文(下列哪个数字最接近)?发表作者最多的是哪一位?"], "answer": ["3112,唐代兴"], "id": "q225", "path": "screenshot/data/q225.png"}
+{"type": "单选题", "score": "5分", "question": ["在pubmed首页的检索框中输入bigdata,回车后找到很多结果。查看检索细节,下列哪个是系统翻译后执行的结果?"], "answer": ["\"big data\"[MeSH Terms] OR (\"big\"[ll Fields] N \"data\"[l Fields])OR\"bigdata\"[llFields]"], "id": "q226", "path": "screenshot/data/q226.png"}
+{"type": "多选题", "score": "5分", "question": ["通过wiley找到下列文献,请问哪些是O文献并且能够下载pdf全文?"], "answer": ["Reconciling Perspectives on lusters: n Integrative Review andResearchgenda", "Economic Evaluation in Global Perspective:  ibliometric nalysis oftheRecentLiterature"], "id": "q227", "path": "screenshot/data/q227.png"}
+{"type": "多选题", "score": "5分", "question": ["下列文献信息,可以在NKI中找到的有()。"], "answer": ["中文报纸", "专利", "期刊论文", "统计年鉴"], "id": "q228", "path": "screenshot/data/q228.png"}
+{"type": "多选题", "score": "5分", "question": ["在NKI学位论文数据库的高级检索界面,有一个优秀论文级别的检索页,请问这个检索点下有下列哪些选项?"], "answer": ["全国", "省级", "校级"], "id": "q229", "path": "screenshot/data/q229.png"}
+{"type": "多选题", "score": "5分", "question": ["关于MeSH主题词表,下列说法正确的有()。"], "answer": ["MeSH主题词表,一般指的是NI旗下的医学主题词表。", "在MeSH中,多个自由词可能对应同一个主题词。", "MeSH主题词表有在线数据库,可以免费查询。"], "id": "q231", "path": "screenshot/data/q231.png"}
+{"type": "多选题", "score": "5分", "question": ["在NKl学位论文数据库(地址是这个:https://kns.cnki.net/KNS8/dSearch?dbcode=M)的检索结果页面左侧有一个筛选区,请问其中的筛选字包括()。"], "answer": ["主题", "学位授予单位", "导师"], "id": "q232", "path": "screenshot/data/q232.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些数据库包含在ncbi的数据库列表中?"], "answer": ["Mesh", "pubmed", "books (bookshelf)", "PM (pubmed central)"], "id": "q233", "path": "screenshot/data/q233.png"}
+{"type": "多选题", "score": "5分", "question": ["在WebofScience和Scopus中,关于通配符正确的书写是"], "answer": ["**cholog", "alcohol*"], "id": "q234", "path": "screenshot/data/q234.png"}
+{"type": "判断题", "score": "5分", "question": ["NKI是可以免费检索的,无论是否在校园网内。"], "answer": ["正确"], "id": "q235", "path": "screenshot/data/q235.png"}
+{"type": "判断题", "score": "5分", "question": ["pubmed的高级检索是通过PubMeddvancedSearchuilder构造检索表达式实现的。"], "answer": ["正确"], "id": "q236", "path": "screenshot/data/q236.png"}
+{"type": "判断题", "score": "5分", "question": ["在pubmed首页的检索框中,输入bloodpressure[mesh],与输入“blopressure\"[mesh],检索结果是一样的。"], "answer": ["错误"], "id": "q237", "path": "screenshot/data/q237.png"}
+{"type": "判断题", "score": "5分", "question": ["在维普数据库中输入检索词后,勾选“同义词扩展”功能,系统会自动帮我们找到同义词,提升查全率。"], "answer": ["正确"], "id": "q238", "path": "screenshot/data/q238.png"}
+{"type": "判断题", "score": "5分", "question": ["pubmed提供文献追踪功能,如果用RSS方式追踪pubmed中的文献须先注册ncbi的账号。"], "answer": ["错误"], "id": "q239", "path": "screenshot/data/q239.png"}
+{"type": "判断题", "score": "5分", "question": ["同样一本期刊,同一年,无论是哪个机构给出的影响因子都是相同的"], "answer": ["错误"], "id": "q240", "path": "screenshot/data/q240.png"}
+{"type": "单选题", "score": "5分", "question": ["在汇雅书电子书之类的电子书数据库中找一本宏观经济方面的电子书,交合适的检索点是()。"], "answer": ["书名"], "id": "q241", "path": "screenshot/data/q241.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中检索2010--2015年间,中华医学会举办的,题名中包含基因工程”,并且会议名称不包含“中华医学会走向世界医药卫生科学技术新进展学术会议”的会议论文,检索结果显示的论文数量最接近下列哪个选项?"], "answer": ["36"], "id": "q242", "path": "screenshot/data/q242.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中找北京大学发表的期刊论文,需要选择的检索点是"], "answer": ["作者单位"], "id": "q243", "path": "screenshot/data/q243.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中查找学位论文时,时间限定为2010年-2018年,检索点选择“题名”检索词输入“终身学习”,匹配方式选择“精确”。请问:下列哪篇文献不在检索结果中?"], "answer": ["终身道德学习理念及其教育启示"], "id": "q244", "path": "screenshot/data/q244.png"}
+{"type": "单选题", "score": "5分", "question": ["在springer中输入“comput*”进行检索,请问这是一种()截词检索技"], "answer": ["后截断"], "id": "q245", "path": "screenshot/data/q245.png"}
+{"type": "单选题", "score": "5分", "question": ["关于百度学术,下列说法错误的是()。"], "answer": ["通过百度学术找到的每一篇学术文献,都可以获得全文。"], "id": "q246", "path": "screenshot/data/q246.png"}
+{"type": "多选题", "score": "5分", "question": ["对维普期刊平台校外访问的描述,正确的是?"], "answer": ["可借助手机PP“中文期刊助手”校园内登录获得校外访问权限", "电脑端,在校内登录维普主页,之后校外就可以下载全文了"], "id": "q247", "path": "screenshot/data/q247.png"}
+{"type": "多选题", "score": "5分", "question": ["关于获取NKI文献全文的方法,下列说法正确的有:"], "answer": ["校外可用学校的vpn免费获取全文", "若学校购买相应权限,校内可免费获取全文", "用公共图书馆提供的免费服务获取全文"], "id": "q248", "path": "screenshot/data/q248.png"}
+{"type": "多选题", "score": "5分", "question": ["在PQT中找题目中含有“大数据”的论文,下列说法正确的有()。"], "answer": ["在高级检索中(https://www.pqdtcn.com/advanced)选择的检索点是“标'题", "在高级检索中(https://www.pqdtcn.com/advanced)输入的检索词是“bigdata\"", "在高级检索中(https://www.pqdtcn.com/advanced)勾选“精确检索”"], "id": "q249", "path": "screenshot/data/q249.png"}
+{"type": "多选题", "score": "5分", "question": ["使用浏览器RSS插件,在操作层面涉及的操作有()。"], "answer": ["安装RSS阅读器插件", "搜索RSS阅读器插件", "c在RSS阅读器中设置RSSfeed", "查找RSS feed"], "id": "q250", "path": "screenshot/data/q250.png"}
+{"type": "多选题", "score": "5分", "question": ["关于人大复印资料这个数据库,下列说法正确的有()."], "answer": ["这个数据库提供word版全文。", "这个数据库中,可以看到论文的在线全文。"], "id": "q251", "path": "screenshot/data/q251.png"}
+{"type": "多选题", "score": "5分", "question": ["关于OJ,下列说法正确的有()。"], "answer": ["OJ中的O,指的是OPENESS,开放存取的意思。", "OJ是一个学术搜索引擎。"], "id": "q252", "path": "screenshot/data/q252.png"}
+{"type": "多选题", "score": "5分", "question": ["下列可以找电子书的有()。"], "answer": ["hathitrust", "3doab", "汇雅电子书 (某星的数据库)", "京东读书专业版"], "id": "q253", "path": "screenshot/data/q253.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki期刊论文数据库中,可以选择的检索点有()。"], "answer": ["期刊名称", "篇名", "作者"], "id": "q255", "path": "screenshot/data/q255.png"}
+{"type": "判断题", "score": "5分", "question": ["在pubmed首页的检索框中,输入blood pressure[mesh],与输入“blopressure\"[mesh],检索结果是一样的。"], "answer": ["错误"], "id": "q256", "path": "screenshot/data/q256.png"}
+{"type": "判断题", "score": "5分", "question": ["通过百度学术可以导出G7714标准的参考文献,既可以导出单篇文也可以批量导出。"], "answer": ["正确"], "id": "q257", "path": "screenshot/data/q257.png"}
+{"type": "判断题", "score": "5分", "question": ["pubmed提供文献追踪功能,如果用RSS方式追踪pubmed中的文献必须先注册ncbi的账号。"], "answer": ["错误"], "id": "q258", "path": "screenshot/data/q258.png"}
+{"type": "判断题", "score": "5分", "question": ["在维普数据库中输入检索词后,勾选“同义词扩展”功能,系统会自动帮我们找到同义词,提升查全率。"], "answer": ["正确"], "id": "q259", "path": "screenshot/data/q259.png"}
+{"type": "判断题", "score": "5分", "question": ["NKI是可以免费检索的,无论是否在校园网内。"], "answer": ["正确"], "id": "q260", "path": "screenshot/data/q260.png"}
+{"type": "单选题", "score": "5分", "question": ["在微信中,可以添加应急联系人。其作用是,在你找回密码的时候,帮你成安全验证,最少要添加()个应急联系人。"], "answer": ["3"], "id": "q261", "path": "screenshot/data/q261.png"}
+{"type": "单选题", "score": "5分", "question": ["授权登录,基于的协议是()。"], "answer": ["Outh2.0"], "id": "q262", "path": "screenshot/data/q262.png"}
+{"type": "单选题", "score": "5分", "question": ["如果不想让别人通过搜索自己的手机号添加自己的微信,可以在微信中进行设置。具体在()项目中设置。"], "answer": ["添加我的方式"], "id": "q263", "path": "screenshot/data/q263.png"}
+{"type": "单选题", "score": "5分", "question": ["把自己的微信账号、qq账号租给别人,然后获得收益。这种一般成为是(),有可能涉及违法犯罪。"], "answer": ["租号工具人"], "id": "q264", "path": "screenshot/data/q264.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于专业医疗信息查询平台的有()。"], "answer": ["用药助手", "腾讯医典"], "id": "q265", "path": "screenshot/data/q265.png"}
+{"type": "多选题", "score": "5分", "question": ["下列可以帮助我们识别谣言的平台有()。"], "answer": ["微信公众号:谣言过滤器", "中国食品辟谣网", "微信小程序:微信辟谣助手c", "中国互联网联合辟谣平台"], "id": "q266", "path": "screenshot/data/q266.png"}
+{"type": "多选题", "score": "5分", "question": ["在微信中,如果你对一个好友设置为“仅聊天”权限。下列哪些就做不了了?"], "answer": ["互看微信运动排名", "基于视频号的互动", "互看朋友圈"], "id": "q267", "path": "screenshot/data/q267.png"}
+{"type": "多选题", "score": "5分", "question": ["在银符考试题库中,可以找到多种类型的考试题库,其中包括()"], "answer": ["全国计算机等级考试", "公共英语二级", "中级审计师考试c", "注册会计师"], "id": "q268", "path": "screenshot/data/q268.png"}
+{"type": "多选题", "score": "5分", "question": ["下列兼职,有可能是涉及违法犯罪的有()。"], "answer": ["用自己的银行卡帮手收钱", "帮人解封QQ账号", "拉人进微信圈c", "出租自己的微信账号"], "id": "q269", "path": "screenshot/data/q269.png"}
+{"type": "多选题", "score": "5分", "question": ["在qq群中,管理员的权限包括()。"], "answer": ["对某个成员在群内禁言", "举报他人", "把某个成员移出群", "撤回他人发布的消息"], "id": "q270", "path": "screenshot/data/q270.png"}
+{"type": "多选题", "score": "5分", "question": ["下列数据库,可以在药智数据中找到的有()。"], "answer": ["医疗器械广告数据库", "c中国临床试验数据库", "临床诊疗指南数据库"], "id": "q271", "path": "screenshot/data/q271.png"}
+{"type": "判断题", "score": "5分", "question": ["银符考试题库,是一个完全免费的数据库,只要能上互联网,即可使"], "answer": ["错误"], "id": "q272", "path": "screenshot/data/q272.png"}
+{"type": "判断题", "score": "5分", "question": ["建群引流、拉人入群、出租账号、帮人解封、帮人收钱,这些都是诈骗行为中的一环,千万不要掉进这些坑。"], "answer": ["正确"], "id": "q273", "path": "screenshot/data/q273.png"}
+{"type": "判断题", "score": "5分", "question": ["正常的刷单,本身就是一种欺骗行为。网店和刷单人勾结起来,通过一系列虚假操作,利用电商平台的漏洞,人为制造虚假数据,欺骗消费者。"], "answer": ["正确"], "id": "q274", "path": "screenshot/data/q274.png"}
+{"type": "判断题", "score": "5分", "question": ["腾讯医典中的内容,由专业人士撰写,经过了专业审核,相对比较靠"], "answer": ["正确"], "id": "q275", "path": "screenshot/data/q275.png"}
+{"type": "判断题", "score": "5分", "question": ["银符考试题目,只能通过电脑浏览器访问,没有手机PP。"], "answer": ["错误"], "id": "q276", "path": "screenshot/data/q276.png"}
+{"type": "判断题", "score": "5分", "question": ["腾讯医典,是一个医疗信息科普平台,有PP,也有微信小程序。"], "answer": ["正确"], "id": "q277", "path": "screenshot/data/q277.png"}
+{"type": "判断题", "score": "5分", "question": ["刷单本就是骗人,一些兼职刷单参与者,有时候又成为别人诈骗的目一些不法分子,以招聘兼职刷单人为幌子,设计一系列连环套路,专门骗取求职财。"], "answer": ["正确"], "id": "q278", "path": "screenshot/data/q278.png"}
+{"type": "判断题", "score": "5分", "question": ["共享屏幕和远程控制是一回事"], "answer": ["错误"], "id": "q279", "path": "screenshot/data/q279.png"}
+{"type": "判断题", "score": "5分", "question": ["在qq群中发现有人发布不良信息,群中只有管理员才有举报的权利。"], "answer": ["错误"], "id": "q280", "path": "screenshot/data/q280.png"}
+{"type": "单选题", "score": "5分", "question": ["如果你觉得一个网站可疑,可以使用国家反诈中心PP的()功能进行验"], "answer": ["风险查询"], "id": "q281", "path": "screenshot/data/q281.png"}
+{"type": "单选题", "score": "5分", "question": ["国家知识产权局旗下的专利检索与分析系统(https://pss-system.cponne.cnipa.gov.cn/)有一个常规检索的功能。在常规检索界面下,检索框的上方可以定检索点,这些检索点不包括()。"], "answer": ["关键词"], "id": "q282", "path": "screenshot/data/q282.png"}
+{"type": "单选题", "score": "5分", "question": ["在MasterJournalList中为自己写好论文适配合适的投稿期刊,需要()"], "answer": ["摘要"], "id": "q284", "path": "screenshot/data/q284.png"}
+{"type": "单选题", "score": "5分", "question": ["哈佛大学的在线课程,可以在哈佛大学的在线课程平台上搜索,实质果程内容一般放在mooc平台()上。"], "answer": ["edX"], "id": "q285", "path": "screenshot/data/q285.png"}
+{"type": "单选题", "score": "5分", "question": ["在windows中启动命令提示符窗口,可以再windows屏幕开始按钮上右建,然后在弹出的菜单中选择运行,然后输入()回车。"], "answer": ["cmd"], "id": "q286", "path": "screenshot/data/q286.png"}
+{"type": "单选题", "score": "5分", "question": ["在MasterJournalList中可以找到SI、SSI、ESI、&HI期刊的主页。在期刊主页,有期刊()的网址链接。"], "answer": ["作者须知"], "id": "q287", "path": "screenshot/data/q287.png"}
+{"type": "单选题", "score": "5分", "question": ["专利名为“电子图像的自动播放方法、装置、设备及存储介质”的申请号及发明人为()。"], "answer": ["N202010728370.2,叶春毅;刘美兰;"], "id": "q288", "path": "screenshot/data/q288.png"}
+{"type": "单选题", "score": "5分", "question": ["在论文排版中,如果要分章节设置不同页眉,需要先()。"], "answer": ["分节"], "id": "q289", "path": "screenshot/data/q289.png"}
+{"type": "多选题", "score": "5分", "question": ["下列EXEL函数,可以用于数据清洗的有()。"], "answer": ["clean ()", "left ()", "mid()", "trim ()"], "id": "q290", "path": "screenshot/data/q290.png"}
+{"type": "单选题", "score": "5分", "question": ["如果要删除文本中多余的空格,可以用excel中的()函数。"], "answer": ["trim ()"], "id": "q291", "path": "screenshot/data/q291.png"}
+{"type": "多选题", "score": "5分", "question": ["国家反诈中心这个PP有一个“风险查询”功能,可以查询可疑的()"], "answer": ["微信号", "QQ号", "银行卡号", "IP地址"], "id": "q292", "path": "screenshot/data/q292.png"}
+{"type": "多选题", "score": "5分", "question": ["对外提供授权登录服务的平台有()。"], "answer": ["QQ", "微博", "c支付宝", "微信"], "id": "q293", "path": "screenshot/data/q293.png"}
+{"type": "多选题", "score": "5分", "question": ["在高校信息素养教育数据库(https://suyang.zxhnzq.com)中,有以下哪些内容形式?"], "answer": ["专家讲座", "课件", "c微视频"], "id": "q294", "path": "screenshot/data/q294.png"}
+{"type": "多选题", "score": "5分", "question": ["通过国家高等教育智慧教育平台,可以找到下列哪些平台的课程?"], "answer": ["智慧树", "c中国大学MOO", "学堂在线"], "id": "q295", "path": "screenshot/data/q295.png"}
+{"type": "多选题", "score": "5分", "question": ["在命令提示符下输入这样一串命令:for/%i in(1,1,100)domdd:\\ac%i,下列说法正确的有()。"], "answer": ["在盘下创建100个文件夹", "这个命令可以在命令提示符下运行", "这100个文件夹的名字都以“abc”开头"], "id": "q296", "path": "screenshot/data/q296.png"}
+{"type": "多选题", "score": "5分", "question": ["在微信中,下列可以修改的有()。"], "answer": ["黑名单中的好友", "微信号码", "微信绑定的手机号c", "微信头像"], "id": "q297", "path": "screenshot/data/q297.png"}
+{"type": "判断题", "score": "5分", "question": ["陌生人发来的文件,不要贸然打开,有可能是病毒或者木马。"], "answer": ["正确"], "id": "q298", "path": "screenshot/data/q298.png"}
+{"type": "判断题", "score": "5分", "question": ["复杂的固定字符,加上与平台有关的字母组合,这样的密码设置策略既保证了密码的复杂度,也不容易忘掉,或者搞混。"], "answer": ["正确"], "id": "q299", "path": "screenshot/data/q299.png"}
+{"type": "判断题", "score": "5分", "question": ["在微信中,把一个好友加入黑名单后,你就无法再给ta发消息了。"], "answer": ["错误"], "id": "q300", "path": "screenshot/data/q300.png"}
+{"type": "单选题", "score": "5分", "question": ["https://www.bilibili.com/video/av68177551/?spm_id_from=333.788yideocard.0这是站上的一个有关excle的系列教程,共有81个视频,总时长7个半小寸左右。请问这套教程中的第27个视频(标号为2.1)的内容是()。"], "answer": ["页面背景的设置"], "id": "q301", "path": "screenshot/data/q301.png"}
+{"type": "单选题", "score": "5分", "question": ["国家留学网的域名是()。"], "answer": ["https://www.csc.edu.cn/"], "id": "q302", "path": "screenshot/data/q302.png"}
+{"type": "单选题", "score": "5分", "question": ["网址https://www.uspto.gov是()的网站,这个网站可以找到publicatentsearch这个专利检索平台。"], "answer": ["美国专利与商标局3"], "id": "q303", "path": "screenshot/data/q303.png"}
+{"type": "单选题", "score": "5分", "question": ["在可汗学院的平台上,有一门名为《omputerprogramming》的课程,其中有一个章节是“lntrotoSQL:Queryingandmanagingdata”,这个章节有一个知识点是“SQLbasics”,这个知识点有()视频,其中一个名为“reatingataleandinsertingdata”的视频,其时长与下面哪个最接近?"], "answer": ["5个3分42秒"], "id": "q304", "path": "screenshot/data/q304.png"}
+{"type": "单选题", "score": "5分", "question": ["完成了毕业论文之后,现需要在正文前添加论文目录以便检索和最优的()操作方法是"], "answer": ["将文档的各级标题设置为内置标题样式,然后基于内置标题样式创建目录"], "id": "q305", "path": "screenshot/data/q305.png"}
+{"type": "单选题", "score": "5分", "question": ["利用国家市场监督管理总局(www.samr.gov.cn)下面的三品一械查下面哪一个是复方板蓝根颗粒的药品广告的相关信息?"], "answer": ["国药准字Z51020242"], "id": "q306", "path": "screenshot/data/q306.png"}
+{"type": "单选题", "score": "5分", "question": ["在TE的官网上,有一个名为“Therealreasonmanufacturingjobsareisappearing”的演讲,请问这个演讲的时长与下列哪个最接近?"], "answer": ["11分56秒"], "id": "q307", "path": "screenshot/data/q307.png"}
+{"type": "单选题", "score": "5分", "question": ["利用Word撰写专业学术论文时,需要在论文结尾处罗列出所有参考文献或书目,最优的操作方法是()。"], "answer": ["利用Word中“管理源”和“插入书目”功能,在论文结尾处插入参考文献或书目列表。"], "id": "q308", "path": "screenshot/data/q308.png"}
+{"type": "单选题", "score": "5分", "question": ["下列不是二维码在线生成器的是()。"], "answer": ["https://shimo.im/"], "id": "q309", "path": "screenshot/data/q309.png"}
+{"type": "多选题", "score": "5分", "question": ["下列平台,可以找到TE演讲视频的有()"], "answer": ["译学馆", "网易公开课", "站"], "id": "q310", "path": "screenshot/data/q310.png"}
+{"type": "单选题", "score": "5分", "question": ["下列课程平台,能找到大量小学数学课程的是()。"], "answer": ["可汗学院"], "id": "q311", "path": "screenshot/data/q311.png"}
+{"type": "多选题", "score": "5分", "question": ["下列课程,可以在可汗学院的官网(https://www.khanacademy.org/)上找到的有()。"], "answer": ["ig history", "US history", "US government and civics"], "id": "q312", "path": "screenshot/data/q312.png"}
+{"type": "多选题", "score": "5分", "question": ["关于国家留学网,下列说法正确的有()。"], "answer": ["出国留学网,可以查公派留学资助项目。", "出国留学网,可以查国家留学基金资助出国留学人员选派简章。", "出国留学网,可以查出国留学申请受理单位。"], "id": "q313", "path": "screenshot/data/q313.png"}
+{"type": "多选题", "score": "5分", "question": ["万彩办公大师提供哪些功能合集?"], "answer": ["PF合集", "格式转换工具合集", "OR识别工具集", "图片处理工具集"], "id": "q314", "path": "screenshot/data/q314.png"}
+{"type": "多选题", "score": "5分", "question": ["关于可汗学院,下列说法正确的有()。"], "answer": ["国内有些平台,引进了一些可汗学院的课程,并且加了中文字幕,比如网易公开课。", "可汗学院有官网网站,也有手机PP。", "可汗学院是一个免费的课程平台。"], "id": "q315", "path": "screenshot/data/q315.png"}
+{"type": "判断题", "score": "5分", "question": ["共享屏幕时,自己设备上显示的内容,包括弹框中的短信内容,微信内其他PP推送的内容,对方都能看到。"], "answer": ["正确"], "id": "q317", "path": "screenshot/data/q317.png"}
+{"type": "判断题", "score": "5分", "question": ["微信清理僵尸粉,有风险,要慎重。"], "answer": ["正确"], "id": "q318", "path": "screenshot/data/q318.png"}
+{"type": "判断题", "score": "5分", "question": ["领导突然加微信,先是嘘寒问暖,然后说应急,让你转钱。这样的场景,很多时候可能是诈骗。"], "answer": ["正确"], "id": "q319", "path": "screenshot/data/q319.png"}
+{"type": "判断题", "score": "5分", "question": ["高校信息素养教育数据库(https://suyang.zxhnzq.com),微视频是其中主要的内容载体。"], "answer": ["正确"], "id": "q320", "path": "screenshot/data/q320.png"}
+{"type": "单选题", "score": "5分", "question": ["在Te的官网上,有一个名为“Therealreasonmanufacturing jobsaredisappearing”的演讲,请问这个演讲的时长与下列哪个最接近?"], "answer": ["11分56秒"], "id": "q321", "path": "screenshot/data/q321.png"}
+{"type": "单选题", "score": "5分", "question": ["下列不是二维码在线生成器的是()。"], "answer": ["https://shimo.im/"], "id": "q322", "path": "screenshot/data/q322.png"}
+{"type": "单选题", "score": "5分", "question": ["在一席的平台上,有一个名为《被分成两半的人生》的演讲,演讲者是王天艾。请问,这个演讲的时长与下列哪个最接近?"], "answer": ["25分43秒"], "id": "q323", "path": "screenshot/data/q323.png"}
+{"type": "单选题", "score": "5分", "question": ["利用国家市场监督管理总局(www.samr.gov.cn)下面的三品一械查下面哪一个是复方板蓝根颗粒的药品广告的相关信息?"], "answer": ["国药准字Z51020242"], "id": "q324", "path": "screenshot/data/q324.png"}
+{"type": "单选题", "score": "5分", "question": ["下列课程平台,能找到大量小学数学课程的是"], "answer": ["可汗学院"], "id": "q325", "path": "screenshot/data/q325.png"}
+{"type": "单选题", "score": "5分", "question": ["完成了毕业论文之后,现需要在正文前添加论文目录以便检索和最优的0)操作方法是"], "answer": ["将文档的各级标题设置为内置标题样式,然后基于内置标题样式创建目录"], "id": "q326", "path": "screenshot/data/q326.png"}
+{"type": "单选题", "score": "5分", "question": ["利用Word撰写专业学术论文时,需要在论文结尾处罗列出所有参考文献或书目,最优的操作方法是()。"], "answer": ["利用Word中“管理源”和“插入书目”功能,在论文结尾处插入参考文献或书目列表。"], "id": "q327", "path": "screenshot/data/q327.png"}
+{"type": "多选题", "score": "5分", "question": ["对外提供授权登录服务的平台有()。"], "answer": ["支付宝", "微信", "微博", "QQ"], "id": "q328", "path": "screenshot/data/q328.png"}
+{"type": "多选题", "score": "5分", "question": ["在菜鸟教程这个学习平台上,不仅有各种编程语言的学习资源,还有不少在线编译工具,其中包括()。"], "answer": ["c", "Perl", "Python"], "id": "q329", "path": "screenshot/data/q329.png"}
+{"type": "多选题", "score": "5分", "question": ["一席是一个高质量中文演讲平台,一席的特点有哪些?"], "answer": ["内容平易近人,接地气。", "质量高,选题广。", "c聚焦中文演讲。", "演讲者往往是具体领域的开拓者。"], "id": "q330", "path": "screenshot/data/q330.png"}
+{"type": "多选题", "score": "5分", "question": ["国家反诈中心这个PP有不少实用功能,包括()。"], "answer": ["身份核实", "PP自检", "风险查询", "来电预警"], "id": "q331", "path": "screenshot/data/q331.png"}
+{"type": "多选题", "score": "5分", "question": ["在高校信息素养教育数据库(https://suyang.zxhnzq.com)中,有下哪些内容形式?"], "answer": ["微视频", "练习题", "课件", "专家讲座"], "id": "q332", "path": "screenshot/data/q332.png"}
+{"type": "多选题", "score": "5分", "question": ["国家反诈中心这个PP有一个“风险查询”功能,可以查询可疑的()"], "answer": ["银行卡号", "IP地址", "QQ号"], "id": "q333", "path": "screenshot/data/q333.png"}
+{"type": "多选题", "score": "5分", "question": ["下列兼职,有可能是涉及违法犯罪的有()。"], "answer": ["拉人进微信圈", "帮人解封QQ账号", "出租自己的微信账号", "用自己的银行卡帮手收钱"], "id": "q334", "path": "screenshot/data/q334.png"}
+{"type": "判断题", "score": "5分", "question": ["在qq群中发现有人发布不良信息,群中只有管理员才有举报的权利"], "answer": ["错误"], "id": "q335", "path": "screenshot/data/q335.png"}
+{"type": "判断题", "score": "5分", "question": ["微信清理僵尸粉,有风险,要慎重。"], "answer": ["正确"], "id": "q336", "path": "screenshot/data/q336.png"}
+{"type": "判断题", "score": "5分", "question": ["国家高等教育智慧教育平台提供一站式搜索。一个入口,可以搜索国内个慕课平台的课程,并提供课程的访问链接。"], "answer": ["正确"], "id": "q337", "path": "screenshot/data/q337.png"}
+{"type": "判断题", "score": "5分", "question": ["共享屏幕时,自己设备上显示的内容,包括弹框中的短信内容,微信内其他PP推送的内容,对方都能看到。"], "answer": ["正确"], "id": "q338", "path": "screenshot/data/q338.png"}
+{"type": "判断题", "score": "5分", "question": ["腾讯医典中的内容,由专业人士撰写,经过了专业审核,相对比较靠"], "answer": ["正确"], "id": "q339", "path": "screenshot/data/q339.png"}
+{"type": "判断题", "score": "5分", "question": ["领导突然加微信,先是嘘寒问暖,然后说应急,让你转钱。这样的场很多时候可能是诈骗。"], "answer": ["正确"], "id": "q340", "path": "screenshot/data/q340.png"}
+{"type": "单选题", "score": "5分", "question": ["下列课程平台,能找到大量小学数学课程的是()。"], "answer": ["可汗学院"], "id": "q341", "path": "screenshot/data/q341.png"}
+{"type": "单选题", "score": "5分", "question": ["利用Word撰写专业学术论文时,需要在论文结尾处罗列出所有参考文献或书目,最优的操作方法是()。"], "answer": ["利用Word中“管理源”和“插入书目”功能,在论文结尾处插入参考文献或书目表。"], "id": "q342", "path": "screenshot/data/q342.png"}
+{"type": "单选题", "score": "5分", "question": ["在可汗学院的平台上,有一门名为《omputerprogramming》的课程,其中有一个章节是“lIntrotoSQL:Queryingandmanagingdata”,这个章节有一个知识点是“SQLbasics”,这个知识点有()视频,其中一个名为“reatingataoleandinsertingdata”的视频,其时长与下面哪个最接近?"], "answer": ["5个3分42秒"], "id": "q343", "path": "screenshot/data/q343.png"}
+{"type": "单选题", "score": "5分", "question": ["国家留学网的域名是()。"], "answer": ["https://www.csc.edu.cn/"], "id": "q344", "path": "screenshot/data/q344.png"}
+{"type": "单选题", "score": "5分", "question": ["网址https://www.uspto.gov是()的网站,这个网站可以找atentsearch这个专利检索平台。"], "answer": ["美国专利与商标局"], "id": "q345", "path": "screenshot/data/q345.png"}
+{"type": "单选题", "score": "5分", "question": ["在TE的官网上,有一个名为“Therealreasonmanufacturingjobsaredisappearing”的演讲,请问这个演讲的时长与下列哪个最接近?"], "answer": ["11分56秒"], "id": "q346", "path": "screenshot/data/q346.png"}
+{"type": "单选题", "score": "5分", "question": ["网址https://www.uspto.gov是()的网站,这个网站可以找到publicpatentsearch这个专利检索平台。"], "answer": ["美国专利与商标局"], "id": "q347", "path": "screenshot/data/q347.png"}
+{"type": "多选题", "score": "5分", "question": ["下列平台,可以找到TE演讲视频的有"], "answer": ["译学馆", "网易公开课", "站"], "id": "q348", "path": "screenshot/data/q348.png"}
+{"type": "多选题", "score": "5分", "question": ["除了名片,以下哪些信息可以做成二维码?"], "answer": ["短信", "网址", "地图位置"], "id": "q349", "path": "screenshot/data/q349.png"}
+{"type": "多选题", "score": "5分", "question": ["下列课程,可以在可汗学院的官网(https://www.khanacademy.org/上找到的有()。"], "answer": ["US history", "ig history", "US government and civics"], "id": "q350", "path": "screenshot/data/q350.png"}
+{"type": "多选题", "score": "5分", "question": ["关于菜鸟教程这个学习平台,下列说法正确的有("], "answer": ["菜鸟教程的学习资源,主要以计算机编程为主.", "3菜鸟教程,不仅有网站,还有微信公众号。", "菜鸟教程的网址是:https://www.runoob.com."], "id": "q351", "path": "screenshot/data/q351.png"}
+{"type": "多选题", "score": "5分", "question": ["万彩办公大师提供哪些功能合集?"], "answer": ["OR识别工具集", "PF合集", "c格式转换工具合集", "图片处理工具集"], "id": "q352", "path": "screenshot/data/q352.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,可以找到编程教程的有()。"], "answer": ["蚂蚁部落", "中国大学MOO", "站"], "id": "q353", "path": "screenshot/data/q353.png"}
+{"type": "多选题", "score": "5分", "question": ["下列可以帮助我们识别谣言的平台有()。"], "answer": ["中国互联网联合辟谣平台", "微信小程序:微信辟谣助手", "中国食品辟谣网", "微信公众号:谣言过滤器"], "id": "q354", "path": "screenshot/data/q354.png"}
+{"type": "判断题", "score": "5分", "question": ["共享屏幕和远程控制是一回事"], "answer": ["错误"], "id": "q356", "path": "screenshot/data/q356.png"}
+{"type": "判断题", "score": "5分", "question": ["陌生人发来的文件,不要贸然打开,有可能是病毒或者木马"], "answer": ["正确"], "id": "q357", "path": "screenshot/data/q357.png"}
+{"type": "判断题", "score": "5分", "question": ["在微信中,把一个好友加入黑名单后,你就无法再给ta发消息了。"], "answer": ["错误"], "id": "q358", "path": "screenshot/data/q358.png"}
+{"type": "判断题", "score": "5分", "question": ["腾讯医典,是一个医疗信息科普平台,有PP,也有微信小程序"], "answer": ["正确"], "id": "q359", "path": "screenshot/data/q359.png"}
+{"type": "判断题", "score": "5分", "question": ["复杂的固定字符,加上与平台有关的字母组合,这样的密码设置策略既呆证了密码的复杂度,也不容易忘掉,或者搞混。"], "answer": ["正确"], "id": "q360", "path": "screenshot/data/q360.png"}
+{"type": "单选题", "score": "5分", "question": ["在一席的平台上,有一个名为《被分成两半的人生》的演讲,演讲者是王天艾。请问,这个演讲的时长与下列哪个最接近?"], "answer": ["25分43秒"], "id": "q363", "path": "screenshot/data/q363.png"}
+{"type": "单选题", "score": "5分", "question": ["在一席的平台上,有一个名为《没有回家的士兵》的演讲,请问这个演#的演讲者是谁?"], "answer": ["孙春龙"], "id": "q364", "path": "screenshot/data/q364.png"}
+{"type": "单选题", "score": "5分", "question": ["正规的大学,需要得到教育主管部门的认可。请问:下列哪个学校,没有被教育主管部门认可?"], "answer": ["江河大学"], "id": "q365", "path": "screenshot/data/q365.png"}
+{"type": "单选题", "score": "5分", "question": ["O在Word中自动生成目录,需要先设置标题"], "answer": ["样式"], "id": "q366", "path": "screenshot/data/q366.png"}
+{"type": "单选题", "score": "5分", "question": ["下列不是二维码在线生成器的是()"], "answer": ["https://shimo.im/"], "id": "q367", "path": "screenshot/data/q367.png"}
+{"type": "单选题", "score": "5分", "question": ["查医疗器械的注册备案信息,可以去()网站。"], "answer": ["药品监督管理局"], "id": "q368", "path": "screenshot/data/q368.png"}
+{"type": "多选题", "score": "5分", "question": ["在市场监督管理总局网站上,可以查询()产品广告的审查备案信息"], "answer": ["药品", "特殊医疗食品", "保健食品", "医疗器械"], "id": "q369", "path": "screenshot/data/q369.png"}
+{"type": "多选题", "score": "5分", "question": ["下列可以找到在线课程的平台有()。"], "answer": ["学堂在线", "中国大学MOO", "网易公开课", "爱课程旗下的资源共享课"], "id": "q371", "path": "screenshot/data/q371.png"}
+{"type": "多选题", "score": "5分", "question": ["下列可以帮助我们识别谣言的平台有"], "answer": ["微信公众号:谣言过滤器", "中国食品辟谣网", "微信小程序:微信辟谣助手", "中国互联网联合辟谣平台"], "id": "q372", "path": "screenshot/data/q372.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些功能可以在万彩办公大师中找到?"], "answer": ["文本对比", "PF合并", "视频格式互转"], "id": "q373", "path": "screenshot/data/q373.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于不用编程的爬虫工具的有()。"], "answer": ["web scraper", "八爪鱼"], "id": "q374", "path": "screenshot/data/q374.png"}
+{"type": "判断题", "score": "5分", "question": ["国家高等教育智慧教育平台提供一站式搜索。一个入口,可以搜索国内多个慕课平台的课程,并提供课程的访问链接。"], "answer": ["正确"], "id": "q375", "path": "screenshot/data/q375.png"}
+{"type": "判断题", "score": "5分", "question": ["国家留学网,只提供公派出国留学资助,与自费留学生没有关系。"], "answer": ["错误"], "id": "q377", "path": "screenshot/data/q377.png"}
+{"type": "判断题", "score": "5分", "question": ["高校信息素养教育数据库(https://suyang.zxhnzq.com),微视频是其中主要的内容载体。"], "answer": ["正确"], "id": "q378", "path": "screenshot/data/q378.png"}
+{"type": "判断题", "score": "5分", "question": ["凡是教育主管部门认可的大学,其官方网站的域名一定是中国教育网的级域名,也就是说,一定以edu.cn结尾。"], "answer": ["错误"], "id": "q379", "path": "screenshot/data/q379.png"}
+{"type": "判断题", "score": "5分", "question": ["同样一个问题,可能有不同的解决方法。获取信息,查找攻略,也许找到效率比较高的那一个。"], "answer": ["正确"], "id": "q381", "path": "screenshot/data/q381.png"}
+{"type": "判断题", "score": "5分", "question": ["同样一个问题,可能有不同的解决方法。获取信息,查找攻略,也许找效率比较高的那一个。"], "answer": ["正确"], "id": "q382", "path": "screenshot/data/q382.png"}
+{"type": "单选题", "score": "5分", "question": ["查询化妆品的注册备案信息,可以去()网站。"], "answer": ["药品监督管理局"], "id": "q383", "path": "screenshot/data/q383.png"}
+{"type": "单选题", "score": "5分", "question": ["在Word的替换中,下列哪个符号表示段落比较(也就是换行符)"], "answer": ["^p"], "id": "q384", "path": "screenshot/data/q384.png"}
+{"type": "单选题", "score": "5分", "question": ["网易公开课上有翻译过的TE演讲,其中的一个,是个汤姆·查特菲尔德斤做的《游戏奖励大脑的7种方式》,请问这个演讲视频的时长最接近于下面哪个?"], "answer": ["16分28秒"], "id": "q385", "path": "screenshot/data/q385.png"}
+{"type": "单选题", "score": "5分", "question": ["在Word中自动生成目录,需要先设置标题()。"], "answer": ["样式"], "id": "q386", "path": "screenshot/data/q386.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,不属于思维导图的是()。"], "answer": ["微词云"], "id": "q388", "path": "screenshot/data/q388.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,能够爬取数据的是()。"], "answer": ["import.io"], "id": "q389", "path": "screenshot/data/q389.png"}
+{"type": "单选题", "score": "5分", "question": ["在微信中,可以添加应急联系人。其作用是,在你找回密码的时候,帮完成安全验证,最少要添加()个应急联系人。"], "answer": ["3"], "id": "q390", "path": "screenshot/data/q390.png"}
+{"type": "多选题", "score": "5分", "question": ["在Word中,下列内容可以替换的有()。"], "answer": ["字体", "空格", "字号", "文字"], "id": "q391", "path": "screenshot/data/q391.png"}
+{"type": "多选题", "score": "5分", "question": ["下列信息资源可以通过淘宝找到的有()。"], "answer": ["数码相机的说明书资料", "某地的特产", "某一款化妆品的使用方法", "某一本书的配套光盘内容"], "id": "q392", "path": "screenshot/data/q392.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于不用编程的爬虫工具的有()。"], "answer": ["八爪鱼", "web scraper"], "id": "q393", "path": "screenshot/data/q393.png"}
+{"type": "多选题", "score": "5分", "question": ["()。下列属于网络经验平台的有"], "answer": ["百度经验", "wikihow"], "id": "q394", "path": "screenshot/data/q394.png"}
+{"type": "多选题", "score": "5分", "question": ["求医问药,可以先搜索。下列哪些思路是正确的?"], "answer": ["查药品、化妆品、医疗器械注册备案信息,去药品监督管理局", "判断一个医生有没有资质,可以去卫生健康委员会网站查询", "了解医学常识,可以去医学微视"], "id": "q395", "path": "screenshot/data/q395.png"}
+{"type": "多选题", "score": "5分", "question": ["下列课程,可以在网易公开课这个平台上找到的有()"], "answer": ["麻省理工学院:西方世界的爱情哲学", "c北京大学:影片赏析", "牛津大学:批判性推理入门"], "id": "q396", "path": "screenshot/data/q396.png"}
+{"type": "多选题", "score": "5分", "question": ["在卫生健康委员会网站上,可以查询()。"], "answer": ["护士的资质", "医生的资质c", "医院的诊疗范围"], "id": "q397", "path": "screenshot/data/q397.png"}
+{"type": "判断题", "score": "5分", "question": ["尽管tableau是一个数据库可视化工具,但它也有一些数据处理功能如合并Excel表。"], "answer": ["正确"], "id": "q398", "path": "screenshot/data/q398.png"}
+{"type": "判断题", "score": "5分", "question": ["外观设计、实用新型专利说明书中有产品设计图纸,是学习设计的好素"], "answer": ["正确"], "id": "q401", "path": "screenshot/data/q401.png"}
+{"type": "判断题", "score": "5分", "question": ["dp不仅是一个数据分析工具,还可以获取数据。"], "answer": ["正确"], "id": "q402", "path": "screenshot/data/q402.png"}
+{"type": "单选题", "score": "5分", "question": ["在美国国会图书馆网站上找到名为《Freightdatasharingguidebook》1书。在检索结果题录页面的()字段下有这本书的电子书全文链接。"], "answer": ["links"], "id": "q403", "path": "screenshot/data/q403.png"}
+{"type": "单选题", "score": "5分", "question": ["下列平台可以找到数字方志的是()。"], "answer": ["中华古籍资源库"], "id": "q404", "path": "screenshot/data/q404.png"}
+{"type": "单选题", "score": "5分", "question": ["在中华古籍资源库中找到1750年出版的《榆次县志》。请问这个县志“卷”的总页码与下列哪个数字最接近?"], "answer": ["35"], "id": "q405", "path": "screenshot/data/q405.png"}
+{"type": "单选题", "score": "5分", "question": ["下列平台,可以找到慕课资源并且有学习激励机制的是()"], "answer": ["学习强国"], "id": "q406", "path": "screenshot/data/q406.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学电子学位论文库是一个向社会免费开放的资源平台。请在这平台上找到名为《 secondordershock-adaptiveGodunov-typeschemebaseontheorthogonal Lagrangianformulation》。请问这篇论文第一章的最后一个单是什么?"], "answer": ["thesis"], "id": "q409", "path": "screenshot/data/q409.png"}
+{"type": "单选题", "score": "5分", "question": ["“北上广曹”曾经的网络流行语,其中的“曹”,指的是山东曹县。请在山东省的标准地图服务系统中找到8开的曹县交通版地图。请问这张地图下载下来的P文件大小是?"], "answer": ["不大于5M"], "id": "q410", "path": "screenshot/data/q410.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学电子学位论文库是一个向社会免费开放的资源平台。请在个平台上找到名为《Passivenavigationbycooperativefusionofstereoandmdn》。请问这篇论文47页最后一个单词是什么?"], "answer": ["case"], "id": "q411", "path": "screenshot/data/q411.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学电子学位论文库是一个向社会免费开放的资源平台。请在这个平台上找到名为《llocatingtaskinteractiongraphstoprocessorsinheterogeneousnetworks》。请问这篇论文2.2.4节的标题是什么?"], "answer": ["shared communication medium"], "id": "q412", "path": "screenshot/data/q412.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学电子学位论文库是一个向社会免费开放的资源平台。请在这个平台上找到名为《utomatedimageanalysisusingactivecontourmode。请问这篇论文第35页的最后一个单词是什么?"], "answer": ["snaxel"], "id": "q413", "path": "screenshot/data/q413.png"}
+{"type": "单选题", "score": "5分", "question": ["请在中华古籍资源库中找到《四川名胜志》。请问该文献第一卷的全文页数与下面哪个数字最接近?"], "answer": ["22"], "id": "q414", "path": "screenshot/data/q414.png"}
+{"type": "单选题", "score": "5分", "question": ["SM期刊数据库主要收录()学科的文献。"], "answer": ["微生物"], "id": "q415", "path": "screenshot/data/q415.png"}
+{"type": "单选题", "score": "5分", "question": ["下列哪些渠道可以搜索微信公众号?"], "answer": ["以上都行"], "id": "q416", "path": "screenshot/data/q416.png"}
+{"type": "单选题", "score": "5分", "question": ["在中华古籍资源库中找到1785年出版的《济宁直隶州志》。请问这个方卷一第3页第一个字(最右上角)是下面的哪一个?"], "answer": ["重"], "id": "q417", "path": "screenshot/data/q417.png"}
+{"type": "单选题", "score": "5分", "question": ["在SM数据库中找到《With igataomesigResponsibilitiesforScienceEquityResearch》这篇O论文,并获取全文。请问这篇文献PF全文第三页第一个单词是什么?"], "answer": ["include"], "id": "q418", "path": "screenshot/data/q418.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以免费检索下载古旧地图的网站是O"], "answer": ["美国国会图书馆 (https://www.loc.gov/)"], "id": "q419", "path": "screenshot/data/q419.png"}
+{"type": "单选题", "score": "5分", "question": ["在ritishLibraryEThOS中找到博士论文《Musicopyright intheiital ge reators, ommerce and opyright n Empirical Studyof the UK Muicopyright?Industries》。请问这篇博士论文第71页最后一个单词是?"], "answer": ["submitted"], "id": "q420", "path": "screenshot/data/q420.png"}
+{"type": "单选题", "score": "5分", "question": ["图书平台上的中国古旧地图知识库中查找名为“围头巡司图说”的古旧地请问,这张地图在这个平台上标注的尺寸是()。"], "answer": ["宽37厘米,高27厘米"], "id": "q421", "path": "screenshot/data/q421.png"}
+{"type": "多选题", "score": "5分", "question": ["下列软件,属于下载工具的有()。"], "answer": ["idm", "motrix", "迅雷"], "id": "q422", "path": "screenshot/data/q422.png"}
+{"type": "单选题", "score": "5分", "question": ["2013年人大复印报刊资料从期刊《图书情报工作》全文转载的论文数量最接近于下面哪个数字?"], "answer": ["28"], "id": "q423", "path": "screenshot/data/q423.png"}
+{"type": "单选题", "score": "5分", "question": ["O(https://www.doabooks.org)可以查找的文献类型是()"], "answer": ["电子书"], "id": "q424", "path": "screenshot/data/q424.png"}
+{"type": "单选题", "score": "5分", "question": ["哈佛大学的在线课程,可以在哈佛大学的在线课程平台上搜索,实质性果程内容一般放在mooc平台()上。"], "answer": ["edX"], "id": "q425", "path": "screenshot/data/q425.png"}
+{"type": "单选题", "score": "5分", "question": ["下列电子书资源平台属于O(OPENESS,开放获取)资源平台的()。"], "answer": ["O"], "id": "q427", "path": "screenshot/data/q427.png"}
+{"type": "单选题", "score": "5分", "question": ["在SOP3学术平台上查找电子书《TheStandardModelandeyon获取全文。请问这本书159页的第一个单词是下面的哪一个?"], "answer": ["in"], "id": "q428", "path": "screenshot/data/q428.png"}
+{"type": "单选题", "score": "5分", "question": ["在Open中找到名为《Multi-frequencyandmulti-GNSSPPPphasebas estimation and ambiguity resolution》的电子书。请问这本书第60页(图书页面,不是PF文件的页码)最后一个单词是什么?"], "answer": ["of"], "id": "q429", "path": "screenshot/data/q429.png"}
+{"type": "单选题", "score": "5分", "question": ["在国家职业教育智慧教育平台上可以找到国家级的《影视动画》课程。请问,下列哪个学校的国家级《影视动画》课程可以在这个平台上找到?"], "answer": ["深圳职业技术学院"], "id": "q430", "path": "screenshot/data/q430.png"}
+{"type": "单选题", "score": "5分", "question": ["下列哪个平台有德温特专利的检索入口?"], "answer": ["web of science"], "id": "q431", "path": "screenshot/data/q431.png"}
+{"type": "多选题", "score": "5分", "question": ["发明专利申请单行本、发明专利单行本、实用新型专利单行本,这个三个类型的单行本包括()这几个组成部分。"], "answer": ["说明书附图", "权利要求书", "扉页", "说明书"], "id": "q432", "path": "screenshot/data/q432.png"}
+{"type": "多选题", "score": "5分", "question": ["高校信息素养教育数据库(https://suyang.zxhnzq.com),有多个栏目,其中包括()。"], "answer": ["科研工具篇", "信息资源篇", "知识管理篇", "检索技术篇"], "id": "q433", "path": "screenshot/data/q433.png"}
+{"type": "多选题", "score": "5分", "question": ["香港科技大学图书馆有一个在线的古籍及特藏阅览区,实质上是一个向会开放的机构知识库,里面有十多个资源库,其中包括()。"], "answer": ["Rare ooks on History of Science", "Thread ound ooks before 1949", "ntique Maps of hina", "Travelogs of hina by Westerners before 1949"], "id": "q434", "path": "screenshot/data/q434.png"}
+{"type": "多选题", "score": "5分", "question": ["下列平台可以找统计数据的有()。"], "answer": ["NKI", "国家统计局官网"], "id": "q436", "path": "screenshot/data/q436.png"}
+{"type": "多选题", "score": "5分", "question": ["在高校信息素养教育数据库(https://suyang.zxhnzq.com)中,有哪些内容形式?"], "answer": ["课件", "专家讲座", "微视频", "练习题"], "id": "q437", "path": "screenshot/data/q437.png"}
+{"type": "判断题", "score": "5分", "question": ["中国家谱知识服务平台是上海市图书馆开发的一个家谱数据库。社会用也可以免费使用。"], "answer": ["正确"], "id": "q438", "path": "screenshot/data/q438.png"}
+{"type": "判断题", "score": "5分", "question": ["2017年人大复印报刊资料从期刊《图书馆建设》全文转载的文章数量大于从期刊《图书馆杂志》全文转载的文章数量。"], "answer": ["错误"], "id": "q439", "path": "screenshot/data/q439.png"}
+{"type": "判断题", "score": "5分", "question": ["四川省图书馆特藏资源平台(http://guji.sclib.org)可以查找中医类的数字化古籍文献。"], "answer": ["正确"], "id": "q440", "path": "screenshot/data/q440.png"}
+{"type": "判断题", "score": "5分", "question": ["哈佛大学网站上有专门的在线课程平台,其中的在线课程都是免费的"], "answer": ["错误"], "id": "q441", "path": "screenshot/data/q441.png"}
+{"type": "判断题", "score": "5分", "question": ["我国专利单行本包括扉页、权利要求书、说明书和附图这几个组成部"], "answer": ["错误"], "id": "q442", "path": "screenshot/data/q442.png"}
+{"type": "单选题", "score": "5分", "question": ["在中国专利公布公告系统中查找名为“列车自动防护的方法和装置”的发专利申请单行本,找到全文。请问这个发明专利申请单行本第3页(说明书的第1最后一行的前六个字符是()。"], "answer": ["[0008]"], "id": "q445", "path": "screenshot/data/q445.png"}
+{"type": "单选题", "score": "5分", "question": ["找我国专利单行本,可以去()官网,这个网站上提供专利单行本的免查询。"], "answer": ["国家知识产权局"], "id": "q446", "path": "screenshot/data/q446.png"}
+{"type": "单选题", "score": "5分", "question": ["在国家科技报告服务系统中查找名为“基于大数据的金融实时智能决策应服务平台”的科技报告。请问下列哪个不是这个科技报告的关键词?"], "answer": ["金融"], "id": "q447", "path": "screenshot/data/q447.png"}
+{"type": "多选题", "score": "5分", "question": ["下列平台,可以找地图资源的有()。"], "answer": ["数位方舆 (https://digitalatlas.ascdc.sinica.edu.tw)", "自然资源部旗下的标准地图服务系统(http://bzdt.ch.mnr.gov.cn)", "地图窝 (http://www.onegreen.net/maps/m/world.htm)"], "id": "q448", "path": "screenshot/data/q448.png"}
+{"type": "多选题", "score": "5分", "question": ["在ncbi的bookshelf数据库中,在检索框中输入这样的检索表达式:“rmationservice\"[title],下列说法正确的有()。"], "answer": ["检索表达式中的[title]是检索点", "检索表达式中的“informationservice”是检索词", "检索表达式中用的双引号,作用是告诉系统,这两个单词是一个短语,不能斤分。"], "id": "q449", "path": "screenshot/data/q449.png"}
+{"type": "多选题", "score": "5分", "question": ["下列期刊,可以通过官网免费下载论文全文的有()"], "answer": ["图书情报工作 (http://www.lis.ac.cn)", "c法学研究 (http://www.faxueyanjiu.com/)", "Sustainable Futures(https://www.sciencedirect.com/journal/sustainable-futures"], "id": "q450", "path": "screenshot/data/q450.png"}
+{"type": "多选题", "score": "5分", "question": ["关于菜鸟教程这个学习平台,下列说法正确的有"], "answer": ["菜鸟教程的网址是:https://www.runoob.com.", "菜鸟教程,不仅有网站,还有微信公众号。", "菜鸟教程的学习资源,主要以计算机编程为主."], "id": "q451", "path": "screenshot/data/q451.png"}
+{"type": "多选题", "score": "5分", "question": ["请问国内哪个图书馆有《吴越钱氏宗谱全乘不分卷》这个家谱藏本?{提示:在中国家谱知识服务平台可以查找}"], "answer": ["上海图书馆", "国家图书馆"], "id": "q452", "path": "screenshot/data/q452.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些系统属于我国国家知识产权局旗下的专利检索平台"], "answer": ["c中国专利公布公告(http://epub.sipo.gov.cn/)", "专利检索及分析(https://pss-system.cponline.cnipa.gov.cn)"], "id": "q453", "path": "screenshot/data/q453.png"}
+{"type": "多选题", "score": "5分", "question": ["我国哪些类型的专利单行本包括扉页、权利要求书、说明书和附图这几个组成部分?"], "answer": ["发明专利单行本", "实用新型专利单行本", "c发明专利申请单行本"], "id": "q454", "path": "screenshot/data/q454.png"}
+{"type": "多选题", "score": "5分", "question": ["下列平台可以免费获取信息资源的有()。"], "answer": ["学堂在线", "淘宝网", "c中国大学MOO", "京东"], "id": "q455", "path": "screenshot/data/q455.png"}
+{"type": "多选题", "score": "5分", "question": ["一席是一个高质量中文演讲平台,一席的特点有哪些?"], "answer": ["质量高,选题广。", "演讲者往往是具体领域的开拓者。", "c内容平易近人,接地气。", "聚焦中文演讲。"], "id": "q456", "path": "screenshot/data/q456.png"}
+{"type": "判断题", "score": "5分", "question": ["在美国国会图书馆网站上找的电子书,有些会给出获取全文的链接,些链接可能是另外一个网站。"], "answer": ["正确"], "id": "q459", "path": "screenshot/data/q459.png"}
+{"type": "判断题", "score": "5分", "question": ["我国各省标准地图服务系统,界面和功能都是统一的,只是内容不同"], "answer": ["错误"], "id": "q460", "path": "screenshot/data/q460.png"}
+{"type": "判断题", "score": "5分", "question": ["在自然资源部旗下的标准地图服务系统(http://bzdt.ch.mnr.gov.cn可以找到各省标准地图服务系统的链接。"], "answer": ["正确"], "id": "q461", "path": "screenshot/data/q461.png"}
+{"type": "单选题", "score": "5分", "question": ["在中国家谱知识服务平台上,不仅可以查找家谱资源,而且有家规家训相资源。在这个平台可以找到“常德府武陵县皮氏宗规”,请问这个宗规的最后一句是么?"], "answer": ["非敢杜撰已也"], "id": "q462", "path": "screenshot/data/q462.png"}
+{"type": "单选题", "score": "5分", "question": ["在人大报刊复印资料数据库中开具转载证明,需要从首页的哪个入口进2"], "answer": ["转载查询"], "id": "q463", "path": "screenshot/data/q463.png"}
+{"type": "单选题", "score": "5分", "question": ["下列哪些渠道可以搜索微信公众号?"], "answer": ["以上都行"], "id": "q464", "path": "screenshot/data/q464.png"}
+{"type": "单选题", "score": "5分", "question": ["“北上广曹”曾经的网络流行语,其中的“曹”,指的是山东曹县。请在山东省的标准地图服务系统中找到8开的曹县交通版地图。请问这张地图下载下来的JPG文件大小是?"], "answer": ["不大于5M"], "id": "q465", "path": "screenshot/data/q465.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学图书馆有一个在线的古籍及特藏阅览区,实质上是一个向社会开放的机构知识库,里面有十多个资源库,其中包括hinesebooksbefore194。在这个资源库中查找名为《大食故宫载》的文献,这本文献在这个平台上有224。请问这本文献在这个平台上的第十二页右下角的字是什么?"], "answer": ["克"], "id": "q466", "path": "screenshot/data/q466.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以免费检索下载古旧地图的网站是()。"], "answer": ["美国国会图书馆 (https://www.loc.gov/)"], "id": "q467", "path": "screenshot/data/q467.png"}
+{"type": "多选题", "score": "5分", "question": ["下列系统,可以查找标准文献的有()。"], "answer": ["NKI", "国家标准化管理委员会旗下的国家标准全文公开系统"], "id": "q470", "path": "screenshot/data/q470.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些场景,适合查找专利文献?"], "answer": ["一个工业设计的学生想找一些产品设计图纸最为学习参考的素材", "企业想购买先进技术", "科研人员科研选题调研c", "企业了解竞争对手的技术发展情况"], "id": "q471", "path": "screenshot/data/q471.png"}
+{"type": "多选题", "score": "5分", "question": ["在自然资源部旗下的标准地图服务系统(http://bzdt.ch.mnr.gov.cn,可以找到哪些开本的中国地图?"], "answer": ["16开", "64开", "32开"], "id": "q472", "path": "screenshot/data/q472.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于专利文献的有()。"], "answer": ["专利文摘", "专利单行本", "c专利索引", "专利公报"], "id": "q473", "path": "screenshot/data/q473.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki的专利高级检索界面,系统提供的检索点包括()"], "answer": ["公开号", "关键词", "c申请人", "发明人"], "id": "q475", "path": "screenshot/data/q475.png"}
+{"type": "多选题", "score": "5分", "question": ["在数位方舆中找到嘉庆9年绘制、名为“浙江省城水利全图”的地图。请问下列说法正确的有()。"], "answer": ["c这张地图的颜色是单色", "这张地图的绘制者是阮元"], "id": "q476", "path": "screenshot/data/q476.png"}
+{"type": "多选题", "score": "5分", "question": ["在银符考试题库中,可以找到多种类型的考试题库,其中包括()"], "answer": ["中级审计师考试", "公共英语二级", "注册会计师", "全国计算机等级考试"], "id": "q477", "path": "screenshot/data/q477.png"}
+{"type": "判断题", "score": "5分", "question": ["四川省图书馆特藏资源平台(http://guji.sclib.org)是一个商业数据可以免费检索,获取全文需要付费。"], "answer": ["错误"], "id": "q478", "path": "screenshot/data/q478.png"}
+{"type": "判断题", "score": "5分", "question": ["在用数据看世界(https://ourworldindata.org)这个网站中,可以找到动图形。"], "answer": ["正确"], "id": "q480", "path": "screenshot/data/q480.png"}
+{"type": "单选题", "score": "5分", "question": ["在人大复印报刊资料数据库中可以开具电子版论文转载证明,请问这个论文转载证明下面盖的电子公章上是哪些文字?"], "answer": ["中国人民大学报刊资料中心总编室"], "id": "q482", "path": "screenshot/data/q482.png"}
+{"type": "单选题", "score": "5分", "question": ["在MITTHESe中查找题为《Echolocation-basedforagingbyharborporpoises and sperm whales, includingeffects of noise and acoustic propagatio的学位论文,并下载PF全文。请问这篇学位论文第39页的最后一个单词是()"], "answer": ["clicks3"], "id": "q483", "path": "screenshot/data/q483.png"}
+{"type": "单选题", "score": "5分", "question": ["下列平台,可以免费查找并获取专利文献全文的是()。"], "answer": ["国家专利公布公告(http://epub.cnipa.gov.cn/)"], "id": "q484", "path": "screenshot/data/q484.png"}
+{"type": "单选题", "score": "5分", "question": ["在中国家谱知识服务平台上可以找到《蓉城叶氏宗族全谱八卷》(194年撰修),请问第三卷(测)的影印页数是多少?"], "answer": ["139"], "id": "q485", "path": "screenshot/data/q485.png"}
+{"type": "单选题", "score": "5分", "question": ["在IPSR中找到名为“nalysisofSocialMediaiscourseandLifeycleEvolution”的数据集。这个数据集有两个excel文件,其中一个和推特相关,请问这个excel文件中最后一行内容的行号是多少?"], "answer": ["38644"], "id": "q486", "path": "screenshot/data/q486.png"}
+{"type": "单选题", "score": "5分", "question": ["在MITTheses中可以查到论文《Realityhedging :socialsystemapprach for understanding economic and financial dynamics》,请问这篇论文是"], "answer": ["博士论文"], "id": "q487", "path": "screenshot/data/q487.png"}
+{"type": "单选题", "score": "5分", "question": ["《Fresh water protection from pollution arising in the oil fields》这本书可以在Hathitrust数字图书馆中找的全文。这本书正文第70页(系统页面74页)两幅图。请问第一幅图是图几?"], "answer": ["9"], "id": "q488", "path": "screenshot/data/q488.png"}
+{"type": "多选题", "score": "5分", "question": ["我国哪些类型的专利单行本包括扉页、权利要求书、说明书和附图这几组成部分?"], "answer": ["实用新型专利单行本", "发明专利单行本", "发明专利申请单行本"], "id": "q489", "path": "screenshot/data/q489.png"}
+{"type": "多选题", "score": "5分", "question": ["下列可以查找古地图的网站是()。"], "answer": ["地图书平台上的中国古旧地图知识库", "数位方舆"], "id": "q490", "path": "screenshot/data/q490.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,可以免费找到外文电子书的有()。"], "answer": ["美国国会图书馆网站", "古腾堡", "hathitrust数字图书馆c", "世界数字图书馆"], "id": "q491", "path": "screenshot/data/q491.png"}
+{"type": "多选题", "score": "5分", "question": ["()排序。在Miner的专家搜索结果中,可以按照"], "answer": ["学术活跃度", "H指数", "论文数", "引用数"], "id": "q493", "path": "screenshot/data/q493.png"}
+{"type": "多选题", "score": "5分", "question": ["谷歌翻译 (https://translate.google.cn)支持的文档格式包括()"], "answer": ["OX", "PF", "PPTX", "XLSX"], "id": "q494", "path": "screenshot/data/q494.png"}
+{"type": "多选题", "score": "5分", "question": ["在党史学习教育官网的“党史资料”栏目下,可以找到()等子栏目。"], "answer": ["党的基本知识", "百年影像", "党史百科", "红色展馆"], "id": "q495", "path": "screenshot/data/q495.png"}
+{"type": "多选题", "score": "5分", "question": ["请问国内哪个图书馆有《吴越钱氏宗谱全乘不分卷》这个家谱藏本?{提示:在中国家谱知识服务平台可以查找}"], "answer": ["上海图书馆", "国家图书馆"], "id": "q496", "path": "screenshot/data/q496.png"}
+{"type": "判断题", "score": "5分", "question": ["基于信息素养,在持续的探究中解决问题的过程,也是一个终身学习和下断成长的过程。"], "answer": ["正确"], "id": "q498", "path": "screenshot/data/q498.png"}
+{"type": "判断题", "score": "5分", "question": ["在我国,一个授权专利除了发明专利单行本,在之前的发明专利申请公市阶段,会有一个发明专利申请单行本。发明专利单行本的内容与发明专利申请单行本的内容是完全一致的。"], "answer": ["错误"], "id": "q501", "path": "screenshot/data/q501.png"}
+{"type": "单选题", "score": "5分", "question": ["请问新华社旗下有一个学习平台-学习进行时,请问这个平台的网址是。"], "answer": ["http://www.xinhuanet.com/politics/xxjxs/"], "id": "q502", "path": "screenshot/data/q502.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学图书馆有一个在线的古籍及特藏阅览区,实质上是一个向社会开放的机构知识库,里面有十多个资源库,其中包括ntiqueMapsofhina。这个资源库收录不少中国古旧地图。在这个资源库中查找名为《Maptoilustratetheyarinhina》地图。请问这张题图的尺寸是?"], "answer": ["75×34"], "id": "q503", "path": "screenshot/data/q503.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学图书馆有一个在线的古籍及特藏阅览区,实质上是一个向社会开放的机构知识库,里面有十多个资源库,其中包括Threadoundooksbfo1949。这个资源库收录1949年之前的线装书。在这个资源库中查找名为《孟子音》的文献。请问这本文献在这个平台上共有多少个页面?"], "answer": ["102"], "id": "q506", "path": "screenshot/data/q506.png"}
+{"type": "单选题", "score": "5分", "question": ["在ritishLibraryEThOS中找到博士论文《Musicopyright intheigal ge reators, ommerce and opyright n Empirical Studyof the UK Musicopyright?Industries》。请问这篇博士论文第71页最后一个单词是?"], "answer": ["submitted"], "id": "q507", "path": "screenshot/data/q507.png"}
+{"type": "单选题", "score": "5分", "question": ["在美国国会图书馆网站上找到“大清万年一统天下全图”。请问,在这个网站上,这张图的TIFF格式下载文件是多大?"], "answer": ["1.3G"], "id": "q508", "path": "screenshot/data/q508.png"}
+{"type": "多选题", "score": "5分", "question": ["在Miner的专家搜索结果中,可以按照()排序。"], "answer": ["引用数", "论文数", "学术活跃度", "H指数"], "id": "q509", "path": "screenshot/data/q509.png"}
+{"type": "多选题", "score": "5分", "question": ["中国专利公布公告系统提供的查询功能包括()。"], "answer": ["高级查询", "LO分类查询", "IP分类查询"], "id": "q511", "path": "screenshot/data/q511.png"}
+{"type": "多选题", "score": "5分", "question": ["()。下列系统,可以查找标准文献的有"], "answer": ["NKI", "国家标准化管理委员会旗下的国家标准全文公开系统"], "id": "q512", "path": "screenshot/data/q512.png"}
+{"type": "多选题", "score": "5分", "question": ["请问国内哪个图书馆有《吴越钱氏宗谱全乘不分卷》这个家谱藏本?{提示:在中国家谱知识服务平台可以查找}"], "answer": ["国家图书馆", "上海图书馆"], "id": "q513", "path": "screenshot/data/q513.png"}
+{"type": "多选题", "score": "5分", "question": ["在党史学习教育官网的“党史资料”栏目下,可以找到()等子栏目。"], "answer": ["红色展馆", "党史百科", "c党的基本知识", "百年影像"], "id": "q514", "path": "screenshot/data/q514.png"}
+{"type": "多选题", "score": "5分", "question": ["我国哪些类型的专利单行本包括扉页、权利要求书、说明书和附图这几个组成部分?"], "answer": ["发明专利申请单行本", "发明专利单行本", "c实用新型专利单行本"], "id": "q515", "path": "screenshot/data/q515.png"}
+{"type": "多选题", "score": "5分", "question": ["在美国国会图书馆网站可以找到多种数字化文献。其中包括()。"], "answer": ["地图", "电子书", "照片", "报纸"], "id": "q516", "path": "screenshot/data/q516.png"}
+{"type": "判断题", "score": "5分", "question": ["在我国,一个授权专利除了发明专利单行本,在之前的发明专利申请公市阶段,会有一个发明专利申请单行本。发明专利单行本的内容与发明专利申请单行本的内容是完全一致的。"], "answer": ["错误"], "id": "q518", "path": "screenshot/data/q518.png"}
+{"type": "判断题", "score": "5分", "question": ["基于信息素养,在持续的探究中解决问题的过程,也是一个终身学习和下断成长的过程。"], "answer": ["正确"], "id": "q519", "path": "screenshot/data/q519.png"}
+{"type": "判断题", "score": "5分", "question": ["miner不仅可以找到作者的研究成果,而且能从文献计量的角度对作者进行评价。"], "answer": ["正确"], "id": "q520", "path": "screenshot/data/q520.png"}
+{"type": "判断题", "score": "5分", "question": ["在美国国会图书馆网站上找电子书,只要能找到,一般就能免费获取完全文。"], "answer": ["错误"], "id": "q521", "path": "screenshot/data/q521.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学电子学位论文库是一个向社会免费开放的资源平台。请在这个平台上找到名为《llocatingtaskinteractiongraphstoprocessorsinheterogeneousnetworks》。请问这篇论文2.2.4节的标题是什么?"], "answer": ["shared communication medium"], "id": "q524", "path": "screenshot/data/q524.png"}
+{"type": "单选题", "score": "5分", "question": ["下列网站,无需单位和个人付费,也可以查找浏览英文电子书的是"], "answer": ["Hathitrust数字图书馆"], "id": "q525", "path": "screenshot/data/q525.png"}
+{"type": "单选题", "score": "5分", "question": ["在美国国会图书馆网站上找到“大明一统山河图”。这事一个地图集。1,这个地图集共有几张地图?"], "answer": ["14"], "id": "q526", "path": "screenshot/data/q526.png"}
+{"type": "多选题", "score": "5分", "question": ["关于站,下列说法正确的有()。"], "answer": ["站是一个视频网站,里面有各种各样的视频资源。", "学习视频是站资源的重要内容。", "站中的学习资源,一般是免费的。"], "id": "q529", "path": "screenshot/data/q529.png"}
+{"type": "多选题", "score": "5分", "question": ["关于用万方数据库获取学位论文,下列说法正确的有()。"], "answer": ["在万方数据库中获取学位论文需要权限,如果学校购买了权限,不仅可以在线阅读,还可以下载全文。", "除了万方,NKI、PQT等数据库也可以找学位论文。", "万方数据库不仅可以查找学位论文,还可以找期刊论文,会议论文等。c", "万方数据库除了提供基本检索,还提供专业检索和高级检索功能。"], "id": "q531", "path": "screenshot/data/q531.png"}
+{"type": "多选题", "score": "5分", "question": ["关于预印本系统,下列说法正确的有()。"], "answer": ["预印本系统,大多是一个网站。", "预印本系统中的学术文献可以免费下载,对读者来说,这是一个资源宝库。", "对于作者来说,预印本系统是一个学术占坑神器。"], "id": "q532", "path": "screenshot/data/q532.png"}
+{"type": "多选题", "score": "5分", "question": ["关于ncbi的bookshelf数据库,下列说法正确的有()"], "answer": ["ncbi的bookshelf数据库中的图书全文,提供的下载格式是PF。", "ncbi的bookshelf数据库是一个全文库,可以获取图书全文。"], "id": "q533", "path": "screenshot/data/q533.png"}
+{"type": "多选题", "score": "5分", "question": ["除了名片,以下哪些信息可以做成二维码?"], "answer": ["网址", "WiFi", "短信", "地图位置"], "id": "q534", "path": "screenshot/data/q534.png"}
+{"type": "多选题", "score": "5分", "question": ["关于ncbi的PM数据库,下列说法正确的有()。"], "answer": ["PM数据的全称是pubmedcentral。", "在PM数据库中,可以查找学术论文的全文。", "ncbi的网站上集成了很多数据库,PM是其中的一个。c"], "id": "q535", "path": "screenshot/data/q535.png"}
+{"type": "多选题", "score": "5分", "question": ["Scienceirect全文文献数据库高级检索界面包括哪些限制条件?"], "answer": ["ISSN或ISN", "作者"], "id": "q536", "path": "screenshot/data/q536.png"}
+{"type": "判断题", "score": "5分", "question": ["搜索公众号,可以用手机微信,也可以用微信的P客户端,百度也有搜索微信的垂直搜索。"], "answer": ["错误"], "id": "q537", "path": "screenshot/data/q537.png"}
+{"type": "判断题", "score": "5分", "question": ["在美国国会图书馆网站上找的电子书,有些会给出获取全文的链接,有链接可能是另外一个网站。"], "answer": ["正确"], "id": "q538", "path": "screenshot/data/q538.png"}
+{"type": "判断题", "score": "5分", "question": ["京东本来是一个电商网站,是卖东西的平台。但这个平台积累了大量实用的信息,事实上就成了一个实用的资源库,而且是完全免费的。"], "answer": ["正确"], "id": "q539", "path": "screenshot/data/q539.png"}
+{"type": "判断题", "score": "5分", "question": ["在自然资源部旗下的标准地图服务系统(http://bzdt.ch.mnr.gov.cn可以找到各省标准地图服务系统的链接。"], "answer": ["正确"], "id": "q540", "path": "screenshot/data/q540.png"}
+{"type": "判断题", "score": "5分", "question": ["如果有人大复印报刊资料的访问权限,人大复印报刊资料提供转载证自己可以在线开具。"], "answer": ["正确"], "id": "q541", "path": "screenshot/data/q541.png"}
+{"type": "单选题", "score": "5分", "question": ["“北上广曹”曾经的网络流行语,其中的“曹”,指的是山东曹县。请在山东省的标准地图服务系统中找到8开的曹县交通版地图。请问这张地图下载下来的JPG文件大小是?"], "answer": ["不大于5M3"], "id": "q542", "path": "screenshot/data/q542.png"}
+{"type": "单选题", "score": "5分", "question": ["下列哪个网站是党史学习教育官网的网址?"], "answer": ["http://dangshi.people.com.cn/"], "id": "q543", "path": "screenshot/data/q543.png"}
+{"type": "单选题", "score": "5分", "question": ["在中国家谱知识服务平台上,不仅可以查找家谱资源,而且有家规家训相关资源。在这个平台可以找到“常德府武陵縣皮氏宗规”,请问这个宗规的最后一句是什么?"], "answer": ["非敢杜撰已也"], "id": "q545", "path": "screenshot/data/q545.png"}
+{"type": "单选题", "score": "5分", "question": ["下列平台,可以免费找到社科类科研数据的是()"], "answer": ["IPSR"], "id": "q546", "path": "screenshot/data/q546.png"}
+{"type": "多选题", "score": "5分", "question": ["在ncbi的bookshelf数据库中,在检索框中输入这样的检索表达式:ormationservice”[title],下列说法正确的有()。"], "answer": ["检索表达式中用的双引号,作用是告诉系统,这两个单词是一个短语,不能拆分。", "c检索表达式中的“informationservice”是检索词", "检索表达式中的[title]是检索点"], "id": "q552", "path": "screenshot/data/q552.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于预印本系统的有()。"], "answer": ["chemrxiv", "arXiv", "socarxiv", "chinaxiv"], "id": "q554", "path": "screenshot/data/q554.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,可以找到古籍影印版的有()。"], "answer": ["书格", "汉典", "国学大师"], "id": "q555", "path": "screenshot/data/q555.png"}
+{"type": "多选题", "score": "5分", "question": ["找设计图纸我们可以用到专利文献检索,除此之外,下列哪些场景可能需要检索专利文献?"], "answer": ["申请专利前检索", "产品出口前", "开发新产品前。", "引进技术前"], "id": "q556", "path": "screenshot/data/q556.png"}
+{"type": "判断题", "score": "5分", "question": ["用NKI检索标准文献,是完全免费的。获取全文,需要个人或者机构购"], "answer": ["正确"], "id": "q557", "path": "screenshot/data/q557.png"}
+{"type": "判断题", "score": "5分", "question": ["在用数据看世界(https://ourworldindata.org)这个网站中,可以找到动图形。"], "answer": ["正确"], "id": "q558", "path": "screenshot/data/q558.png"}
+{"type": "判断题", "score": "5分", "question": ["在Hathitrust数字图书馆中,可以免费找到英文电子书全文。无需登可以全文在线浏览,也一次性完整下载整本书的全文。"], "answer": ["错误"], "id": "q559", "path": "screenshot/data/q559.png"}
+{"type": "判断题", "score": "5分", "question": ["在美国国会图书馆网站上可以找到我国部分古籍文献的影印版,而且可以免费浏览和下载。"], "answer": ["正确"], "id": "q560", "path": "screenshot/data/q560.png"}
+{"type": "单选题", "score": "5分", "question": ["下列平台,可以免费找到社科类科研数据的是()。"], "answer": ["IPSR"], "id": "q562", "path": "screenshot/data/q562.png"}
+{"type": "单选题", "score": "5分", "question": ["下列平台,可以免费找到社科类科研数据的是()。"], "answer": ["IPSR"], "id": "q563", "path": "screenshot/data/q563.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学电子学位论文库是一个向社会免费开放的资源平台。请在这个平台上找到名为《utomatedimageanalysisusingactivecontourmodel》问这篇论文第35页的最后一个单词是什么?"], "answer": ["snaxel"], "id": "q564", "path": "screenshot/data/q564.png"}
+{"type": "单选题", "score": "5分", "question": ["找我国专利单行本,可以去()官网,这个网站上提供专利单行本的免查询。"], "answer": ["国家知识产权局"], "id": "q565", "path": "screenshot/data/q565.png"}
+{"type": "单选题", "score": "5分", "question": ["在国家科技报告服务系统中查找名为“基于大数据的金融实时智能决策应用服务平台”的科技报告。请问下列哪个不是这个科技报告的关键词?"], "answer": ["金融"], "id": "q566", "path": "screenshot/data/q566.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以免费查找并浏览中小学课本电子版全文的是()。"], "answer": ["国家中小学智慧教育平台"], "id": "q567", "path": "screenshot/data/q567.png"}
+{"type": "单选题", "score": "5分", "question": ["下列平台,可以找到慕课资源并且有学习激励机制的是()"], "answer": ["学习强国"], "id": "q568", "path": "screenshot/data/q568.png"}
+{"type": "单选题", "score": "5分", "question": ["下列哪个网站是党史学习教育官网的网址?"], "answer": ["http://dangshi.people.com.cn/"], "id": "q569", "path": "screenshot/data/q569.png"}
+{"type": "多选题", "score": "5分", "question": ["关于站,下列说法正确的有()。"], "answer": ["站中的学习资源,一般是免费的。", "学习视频是站资源的重要内容。c", "站是一个视频网站,里面有各种各样的视频资源。"], "id": "q571", "path": "screenshot/data/q571.png"}
+{"type": "多选题", "score": "5分", "question": ["在四川省图书馆查询“物种起源”,相关的索书号有以下哪些?"], "answer": ["2019/Q111.2/3", "2018/Q111.2/1", "2020/1247.55/21"], "id": "q573", "path": "screenshot/data/q573.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,可以找到编程教程的有()。"], "answer": ["蚂蚁部落", "中国大学MOO", "站"], "id": "q574", "path": "screenshot/data/q574.png"}
+{"type": "多选题", "score": "5分", "question": ["除了名片,以下哪些信息可以做成二维码?"], "answer": ["地图位置", "WiFi", "短信c", "网址"], "id": "q575", "path": "screenshot/data/q575.png"}
+{"type": "多选题", "score": "5分", "question": ["下列课程,可以在可汗学院的官网(https://www.khanacademy.or)上找到的有()。"], "answer": ["US government and civics", "US history", "ig history"], "id": "q576", "path": "screenshot/data/q576.png"}
+{"type": "多选题", "score": "5分", "question": ["在台湾博硕士论文知识加值系统中查找我国台湾地区部分高校的学位论请问:下列哪些学位论文可以免费下载到电子版全文?"], "answer": ["以不同統計模型分析基因型與環境交感效應之研究", "動態時間校準於聲控選單環境控制系統之應用c"], "id": "q577", "path": "screenshot/data/q577.png"}
+{"type": "判断题", "score": "5分", "question": ["ritishLibraryEThOS,是大英图书馆旗下的博士论文开放平台,收录了英文高校的博士学位论文,提供免费全文下载服务。在这个平台上找到的博士论,都能免费获取全文。"], "answer": ["错误"], "id": "q579", "path": "screenshot/data/q579.png"}
+{"type": "判断题", "score": "5分", "question": ["在NKI中,不仅可以检索我国专利,也可以检索海外专利。"], "answer": ["正确"], "id": "q580", "path": "screenshot/data/q580.png"}
+{"type": "判断题", "score": "5分", "question": ["高校信息素养教育数据库(https://suyang.zxhnzq.com),微视频是其中主要的内容载体。"], "answer": ["正确"], "id": "q582", "path": "screenshot/data/q582.png"}
+{"type": "单选题", "score": "5分", "question": ["WI是()推出的统计数据,我们可以从官方网站下载到EXEL版。"], "answer": ["世界银行"], "id": "q583", "path": "screenshot/data/q583.png"}
+{"type": "单选题", "score": "5分", "question": ["arXiv是一个预印本系统,在arXiv中检索“graphicalcalculusforintrationoverrandomdiagonal unitarymatrices”,可看到这篇文章的标识码为?"], "answer": ["arXiv:2007.11219"], "id": "q584", "path": "screenshot/data/q584.png"}
+{"type": "单选题", "score": "5分", "question": ["arXiv是一个预印本系统,在arXiv中检索“lmpactingthebioscienceprgressbybackportingsoftware forio-Linux”,查看本篇文章正文中第二句加粗子是什么?"], "answer": ["software environment?"], "id": "q585", "path": "screenshot/data/q585.png"}
+{"type": "单选题", "score": "5分", "question": ["网址https://www.uspto.gov是()的网站,这个网站可以找到publicpatentsearch这个专利检索平台。"], "answer": ["美国专利与商标局"], "id": "q586", "path": "screenshot/data/q586.png"}
+{"type": "单选题", "score": "5分", "question": ["下列不是二维码在线生成器的是()。"], "answer": ["https://shimo.im/"], "id": "q587", "path": "screenshot/data/q587.png"}
+{"type": "单选题", "score": "5分", "question": ["在一席的平台上,有一个名为《被分成两半的人生》的演讲,演讲者是天艾。请问,这个演讲的时长与下列哪个最接近?"], "answer": ["25分43秒"], "id": "q588", "path": "screenshot/data/q588.png"}
+{"type": "多选题", "score": "5分", "question": ["万彩办公大师提供哪些功能合集?"], "answer": ["PF合集", "格式转换工具合集", "OR识别工具集", "图片处理工具集"], "id": "q591", "path": "screenshot/data/q591.png"}
+{"type": "多选题", "score": "5分", "question": ["关于可汗学院,下列说法正确的有哪些()。"], "answer": ["可汗学院有官网网站,也有手机PP。", "国内有些平台,引进了一些可汗学院的课程,并且加了中文字幕,比如网开课。", "可汗学院是一个免费的课程平台。"], "id": "q592", "path": "screenshot/data/q592.png"}
+{"type": "多选题", "score": "5分", "question": ["下面哪些是政府部门的网站?"], "answer": ["国家企业信用信息公示网站(http://gsxt.gdgs.gov.cn/", "国家统计局 (http://www.stats.gov.cn/)", "c中华人民共和国教育部(http://www.moe.gov.cn/)", "中国政府网 (http://www.gov.cn/)"], "id": "q593", "path": "screenshot/data/q593.png"}
+{"type": "多选题", "score": "5分", "question": ["一席是一个高质量中文演讲平台,一席的特点有哪些?"], "answer": ["内容平易近人,接地气。", "质量高,选题广。", "聚焦中文演讲。c", "演讲者往往是具体领域的开拓者。"], "id": "q594", "path": "screenshot/data/q594.png"}
+{"type": "多选题", "score": "5分", "question": ["在图书馆查找图书可依据:"], "answer": ["分类号", "书名", "ISN"], "id": "q595", "path": "screenshot/data/q595.png"}
+{"type": "多选题", "score": "5分", "question": ["在菜鸟教程这个学习平台上,不仅有各种编程语言的学习资源,还有不在线编译工具,其中包括()。"], "answer": ["Perl", "Python", "java"], "id": "q596", "path": "screenshot/data/q596.png"}
+{"type": "判断题", "score": "5分", "question": ["“以公开换保护”是专利制度的核心,专利是要公开的。"], "answer": ["正确"], "id": "q598", "path": "screenshot/data/q598.png"}
+{"type": "判断题", "score": "5分", "question": ["在Miner首页的搜索框中,输入关键词,中英文都可以。"], "answer": ["正确"], "id": "q599", "path": "screenshot/data/q599.png"}
+{"type": "判断题", "score": "5分", "question": ["国家知识产权局旗下的专利检索与分析系统(https://pss-system.cpoline.cnipa.gov.cn/)可以把检索到的专利文献下载到本地。"], "answer": ["正确"], "id": "q601", "path": "screenshot/data/q601.png"}
+{"type": "判断题", "score": "5分", "question": ["知乎、微博、站上有不少微信公众号的推荐。"], "answer": ["正确"], "id": "q602", "path": "screenshot/data/q602.png"}
+{"type": "判断题", "score": "5分", "question": ["高校信息素养教育数据库(https://suyang.zxhnzq.com)中有微视频和习题。"], "answer": ["正确"], "id": "q603", "path": "screenshot/data/q603.png"}
+{"type": "判断题", "score": "5分", "question": ["在Miner首页的搜索框中,输入关键词,中英文都可以。"], "answer": ["正确"], "id": "q604", "path": "screenshot/data/q604.png"}
+{"type": "单选题", "score": "5分", "question": ["NKI还可以查询会议文献,在NKI中查询2020年7月“I的权利义务与去治实践一—2020世界人工智能大会法治论坛”上、题目中含有“人工智能”的会议文南有多少篇?"], "answer": ["13篇"], "id": "q605", "path": "screenshot/data/q605.png"}
+{"type": "单选题", "score": "5分", "question": ["https://www.bilibili.com/video/av68177551/?spm_id_from=333.788deocard.0这是站上的一个有关excle的系列教程,共有81个视频,总时长7个半小左右。请问这套教程中的第27个视频(标号为2.1)的内容是()。"], "answer": ["页面背景的设置"], "id": "q606", "path": "screenshot/data/q606.png"}
+{"type": "单选题", "score": "5分", "question": ["在Te的官网上,有一个名为“Thereal reasonmanufacturing jobsardisappearing”的演讲,请问这个演讲的时长与下列哪个最接近?"], "answer": ["11分56秒"], "id": "q607", "path": "screenshot/data/q607.png"}
+{"type": "单选题", "score": "5分", "question": ["在hinaXiv系统中发表于2020的篇名为“新型冠状病毒肺炎疫情的动力分析和预测”的文章一共有多少篇参考文献?"], "answer": ["12"], "id": "q608", "path": "screenshot/data/q608.png"}
+{"type": "单选题", "score": "5分", "question": ["通过国家统计局网站(https://www.stats.gov.cn)查询我国普通高等学交在校学生数这个指标最近20年的数据,请问:这个指标1997年、2006年、2015年为数据分别是多少万人?"], "answer": ["317.4362、1738.8000、2625.2968"], "id": "q609", "path": "screenshot/data/q609.png"}
+{"type": "单选题", "score": "5分", "question": ["在NKI中查询2020年7月“2020年南国博览学术研讨会”上篇名中包含互联网”和“教育”,并且关键词中包含“教学模式”的会议文献,下列哪篇文献出现在检结果中?"], "answer": ["移动互联网环境下高等教育面临的挑战与对策"], "id": "q610", "path": "screenshot/data/q610.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库检索中华医学会举办的会议名称包含”骨科“会议,下面选项引用次数最多的会议论文是:"], "answer": ["脊柱结核的手术治疗进展及焦点问题"], "id": "q611", "path": "screenshot/data/q611.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于预印本系统的有()。"], "answer": ["chemrxiv", "chinaxiv", "arXiv", "socarxiv"], "id": "q613", "path": "screenshot/data/q613.png"}
+{"type": "多选题", "score": "5分", "question": ["ncbi的pmc数据库,可以免费获取生物医学领域的全文文献,请问,mc提供的全文格式有()。"], "answer": ["PF", "HTML(网页版)c"], "id": "q614", "path": "screenshot/data/q614.png"}
+{"type": "多选题", "score": "5分", "question": ["世界发展指标(Wl,worlddevelopmentindicators)是世界银行开数据平台提供的一个数据集,包含全球大多数国家和地区的发展数据,提供多种格的数据文件下载。请问,这个数据集提供的数据格式,包括()。"], "answer": ["sv", "Excel"], "id": "q615", "path": "screenshot/data/q615.png"}
+{"type": "多选题", "score": "5分", "question": ["关于ncbi,下列说法正确的有()。"], "answer": ["ncbi指的是美国国家生物技术信息中心,是美国国家卫生图书馆的一个下属几构。", "ncbi负责存储、维护一系列生物医学方面的基因数据库、文献数据库,官网整合了很多很多数字资源。", "ncbi是NationalenterforiotechnologyInformation的简称。"], "id": "q616", "path": "screenshot/data/q616.png"}
+{"type": "多选题", "score": "5分", "question": ["找设计图纸我们可以用到专利文献检索,除此之外,下列哪些场景可能需要检索专利文献?"], "answer": ["申请专利前检索", "引进技术前", "产品出口前", "开发新产品前。"], "id": "q617", "path": "screenshot/data/q617.png"}
+{"type": "多选题", "score": "5分", "question": ["关于中图分类号描述正确的是"], "answer": ["国内图书馆的索书号大多数是按中图分类号编写的", "由字母和数字组成,部分还带有标记符号c"], "id": "q618", "path": "screenshot/data/q618.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,可以找到古籍影印版的有()。"], "answer": ["书格", "国学大师", "汉典"], "id": "q619", "path": "screenshot/data/q619.png"}
+{"type": "判断题", "score": "5分", "question": ["我国的专利单行本和专利公报由国家知识产权局负责出版,在其网站上可以找到电子版。"], "answer": ["正确"], "id": "q620", "path": "screenshot/data/q620.png"}
+{"type": "判断题", "score": "5分", "question": ["习近平系列重要讲话数据,由新华社出品,免费开放,可以导航,也检索。"], "answer": ["错误"], "id": "q622", "path": "screenshot/data/q622.png"}
+{"type": "判断题", "score": "5分", "question": ["银符考试题库,是一个完全免费的数据库,只要能上互联网,即可使"], "answer": ["错误"], "id": "q624", "path": "screenshot/data/q624.png"}
+{"type": "单选题", "score": "5分", "question": ["通过国家统计局网站(https://www.stats.gov.cn)查询我国普通高等学交在校学生数这个指标最近20年的数据,请问:这个指标1997年、2006年、2015年数据分别是多少万人?"], "answer": ["317.4362、1738.8000、2625.2968"], "id": "q625", "path": "screenshot/data/q625.png"}
+{"type": "单选题", "score": "5分", "question": ["pubmed中找到《ryotherapy for the Treatment of hronic RhinitisQualitativeSystematicReview》这篇文献。请问这篇文献的PMI和ol分别是?"], "answer": ["PMI: 30229670 0I: 10.1177/1945892418800879"], "id": "q627", "path": "screenshot/data/q627.png"}
+{"type": "单选题", "score": "5分", "question": ["请问,10.3772/j.issn.1673-2286.2020.04.005这个0i对应的学术文题目是()"], "answer": ["基于图数据库的贵州省大数据政策知识建模研究"], "id": "q628", "path": "screenshot/data/q628.png"}
+{"type": "单选题", "score": "5分", "question": ["在图书馆阅览室,1、G642.0/050;2、G812.2-49;3、G811.01;G40/656/2018这些图书排架顺序是:"], "answer": ["4132"], "id": "q629", "path": "screenshot/data/q629.png"}
+{"type": "单选题", "score": "5分", "question": ["在可汗学院的平台上,有一门名为《omputerprogramming》的课程,其中有一个章节是“lntrotoSQL:Queryingandmanagingdata”,这个章节有一个知识点是“SQLbasics”,这个知识点有()视频,其中一个名为“reatingataleandinsertingdata”的视频,其时长与下面哪个最接近?"], "answer": ["5个3分42秒"], "id": "q630", "path": "screenshot/data/q630.png"}
+{"type": "单选题", "score": "5分", "question": ["arXiv是一个预印本系统,在arXiv中检索“lmpactingthebioscienceppgressbybackportingsoftwareforio-Linux”,查看本篇文章正文中第二句加粗子是什么?"], "answer": ["software environment?"], "id": "q631", "path": "screenshot/data/q631.png"}
+{"type": "多选题", "score": "5分", "question": ["ncbi的pmc数据库,可以免费获取生物医学领域的全文文献,请问,pmc提供的全文格式有()。"], "answer": ["HTML(网页版)", "PubReader", "PF"], "id": "q632", "path": "screenshot/data/q632.png"}
+{"type": "多选题", "score": "5分", "question": ["请问,在arXiv中可以分学科查询文献,请问这个网站上可以找到哪些学科大类?"], "answer": ["物理学", "数学", "生物学"], "id": "q633", "path": "screenshot/data/q633.png"}
+{"type": "多选题", "score": "5分", "question": ["在四川省图书馆查询“物种起源”,相关的索书号有以下哪些?"], "answer": ["2018/Q111.2/1", "2019/Q111.2/3", "2020/|247.55/21"], "id": "q634", "path": "screenshot/data/q634.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,可以在线查阅康熙字典的有()"], "answer": ["https://www.zdic.net/zd/kx/", "http://tool.httpcn.com/KangXi/", "http://www.guoxuedashi.com/kangxi/"], "id": "q635", "path": "screenshot/data/q635.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于预印本系统的有()。"], "answer": ["arXiv", "socarxiv", "chemrxiv", "chinaxiv"], "id": "q636", "path": "screenshot/data/q636.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,可以找到编程教程的有()。"], "answer": ["蚂蚁部落", "c中国大学MOO", "站"], "id": "q637", "path": "screenshot/data/q637.png"}
+{"type": "多选题", "score": "5分", "question": ["很多东西都有国家标准,其中包括()。"], "answer": ["道路交通信号灯设置与安装规范", "参考文献的格式", "c自来水", "汽车轮胎"], "id": "q638", "path": "screenshot/data/q638.png"}
+{"type": "多选题", "score": "5分", "question": ["下列课程,可以在可汗学院的官网(https://www.khanacademy.org/)上找到的有()。"], "answer": ["US history", "US government and civics", "ig history"], "id": "q639", "path": "screenshot/data/q639.png"}
+{"type": "判断题", "score": "5分", "question": ["传统期刊发表需要经过同行评议,预印本系统无需同行评议,发表速度但不是所有发表在预印本系统中的文章都有机会发表在期刊上。"], "answer": ["正确"], "id": "q640", "path": "screenshot/data/q640.png"}
+{"type": "判断题", "score": "5分", "question": ["站,既有网页版,也有手机PP。"], "answer": ["正确"], "id": "q641", "path": "screenshot/data/q641.png"}
+{"type": "判断题", "score": "5分", "question": ["在国家统计局的网站上不仅可以查询具体统计指标的多年数据,而且可以进行可视化数据分析。"], "answer": ["正确"], "id": "q643", "path": "screenshot/data/q643.png"}
+{"type": "判断题", "score": "5分", "question": ["medline中的数据,只能通过pubmed检索。"], "answer": ["错误"], "id": "q644", "path": "screenshot/data/q644.png"}
+{"type": "单选题", "score": "5分", "question": ["大多数专利文献我们可以免费获取,请问名为“一种MR眼镜的延长续航系统及其续航方法”的专利文献中,重点解决什么问题?"], "answer": ["解决景区MR眼镜用电模式的合理切换控制问题。"], "id": "q645", "path": "screenshot/data/q645.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中查找2010-2020年,中华医学会举办的,会议名称中包含“骨科”的会议论文,请问:这些论文中,发文量最大的机构是()。"], "answer": ["四川大学华西临床医学院"], "id": "q646", "path": "screenshot/data/q646.png"}
+{"type": "单选题", "score": "5分", "question": ["在台湾博硕士论文知识加值系统中检索“研究泰國使用F及IG对於个人隱、孤獨感及互联網的關係”并下载全文,全文共有多少页?"], "answer": ["88页"], "id": "q647", "path": "screenshot/data/q647.png"}
+{"type": "单选题", "score": "5分", "question": ["在汇雅电子书数据库中查找由广西人民出版社出版的王国维的著作《词话》第11页引用了谁的话?"], "answer": ["尼采"], "id": "q648", "path": "screenshot/data/q648.png"}
+{"type": "单选题", "score": "5分", "question": ["在台湾博硕士论文知识加值系统中检索“基於多维数據模型的动态大数據析方法”,在检索结果页面可以看到这篇论文的学位授予单位是?"], "answer": ["南華大學/資訊管理學系"], "id": "q649", "path": "screenshot/data/q649.png"}
+{"type": "单选题", "score": "5分", "question": ["在可汗学院的平台上,有一门名为《omputerprogramming》的课呈,其中有一个章节是“lntrotoSQL:Queryingandmanagingdata”,这个章节有个知识点是“SQLbasics”,这个知识点有()视频,其中一个名为“reatingataeandinsertingdata”的视频,其时长与下面哪个最接近?"], "answer": ["5个3分42秒"], "id": "q652", "path": "screenshot/data/q652.png"}
+{"type": "多选题", "score": "5分", "question": ["国学大师这个网站(http://www.guoxuedashi.net),有多个栏目,种功能。请问,下列哪些任务可以在这个网站上探索?"], "answer": ["查阅二十四史", "查阅四库全书", "c查一本古籍文献的影印版"], "id": "q653", "path": "screenshot/data/q653.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,能够搜索图片的有()。"], "answer": ["https://huaban.com/", "https://pic.sogou.com/", "https://pixabay.com/"], "id": "q654", "path": "screenshot/data/q654.png"}
+{"type": "多选题", "score": "5分", "question": ["在台湾博硕士论文知识加值系统中查找我国台湾地区部分高校的学位论请问:下列哪些学位论文可以免费下载到电子版全文?"], "answer": ["動態時間校准於聲控選單環境控制系統之應用", "以不同統計模型分析基因型與環境交感效應之研究"], "id": "q655", "path": "screenshot/data/q655.png"}
+{"type": "多选题", "score": "5分", "question": ["关于书格(https://new.shuge.org),下列说法正确的有()。"], "answer": ["书格提供一站式检索,也可以分类浏览。", "c书格中的数字化古籍资源,一般提供在线阅览和PF文档下载两种获取方式。", "书格是一个查找古籍影印本的网站,收录了很多高质量的数字化古籍善本。"], "id": "q656", "path": "screenshot/data/q656.png"}
+{"type": "多选题", "score": "5分", "question": ["古腾堡(http://www.gutenberg.org/)提供哪些书籍格式下载?"], "answer": ["Kindle", "EPU", "Plain text"], "id": "q657", "path": "screenshot/data/q657.png"}
+{"type": "多选题", "score": "5分", "question": ["关于译学馆,下列说法正确的有()。"], "answer": ["译学馆这个平台上有大量外文的短视频内容,而且都有中英文字幕", "译学馆专注知识短视频。", "译学馆,是一个PP,也是一个网站。"], "id": "q659", "path": "screenshot/data/q659.png"}
+{"type": "多选题", "score": "5分", "question": ["想知道具体汉字在书法作品中是什么样子,可以用下面哪些网站查询?)"], "answer": ["http://www.shufami.com/", "chttps://www.cidianwang.com/shufa/", "http://www.shufazidian.com/"], "id": "q660", "path": "screenshot/data/q660.png"}
+{"type": "判断题", "score": "5分", "question": ["Medline、Pubmed、PM都是NI机构推出的数字资源产品,主要由LM负责运行和维护。"], "answer": ["错误"], "id": "q661", "path": "screenshot/data/q661.png"}
+{"type": "判断题", "score": "5分", "question": ["用联图网二维码生成器生成的二维码,用微信和QQ都可以扫描出来"], "answer": ["正确"], "id": "q662", "path": "screenshot/data/q662.png"}
+{"type": "判断题", "score": "5分", "question": ["On the use of big data frameworks for big service composition这篇文章,可以在arXiv中找到。"], "answer": ["错误"], "id": "q664", "path": "screenshot/data/q664.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中查找2010-2020年,中华医学会举办的,会议名称中包“骨科”的会议论文,请问:这些论文中,发文量最大的机构是()。"], "answer": ["四川大学华西临床医学院"], "id": "q666", "path": "screenshot/data/q666.png"}
+{"type": "单选题", "score": "5分", "question": ["在图书馆阅览室,1、G642.0/050;2、G812.2-49;3、G811.01;G40/656/2018这些图书排架顺序是:"], "answer": ["4132"], "id": "q667", "path": "screenshot/data/q667.png"}
+{"type": "单选题", "score": "5分", "question": ["网易公开课上有翻译过的TE演讲,其中的一个,是个汤姆·查特菲尔德做的《游戏奖励大脑的7种方式》,请问这个演讲视频的时长最接近于下面哪个?"], "answer": ["16分28秒"], "id": "q668", "path": "screenshot/data/q668.png"}
+{"type": "单选题", "score": "5分", "question": ["大多数专利文献我们可以免费获取,请问名为“一种MR眼镜的延长续航系统及其续航方法”的专利文献中,重点解决什么问题?"], "answer": ["解决景区MR眼镜用电模式的合理切换控制问题。"], "id": "q669", "path": "screenshot/data/q669.png"}
+{"type": "单选题", "score": "5分", "question": ["在台湾博硕士论文知识加值系统中检索“基於多维数據模型的动態大數據析方法”,在检索结果页面可以看到这篇论文的学位授予单位是?"], "answer": ["南華大學/資訊管理學系"], "id": "q671", "path": "screenshot/data/q671.png"}
+{"type": "多选题", "score": "5分", "question": ["国学大师这个网站(http://www.guoxuedashi.net),有多个栏目,种功能。请问,下列哪些任务可以在这个网站上探索?"], "answer": ["查阅四库全书", "查一本古籍文献的影印版", "查一个字在康熙字典中的解释c"], "id": "q672", "path": "screenshot/data/q672.png"}
+{"type": "多选题", "score": "5分", "question": ["在汉典这个网站上,可以查一个字在()中的解释。"], "answer": ["《说文解字》", "《汉语词典》", "《音韵方言》c", "《康熙字典》"], "id": "q673", "path": "screenshot/data/q673.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于政府网站上信息资源特点的有()。"], "answer": ["c一般免费", "比较权威"], "id": "q674", "path": "screenshot/data/q674.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,能够搜索图片的有()。"], "answer": ["https://pic.sogou.com/", "https://pixabay.com/", "https://huaban.com/"], "id": "q675", "path": "screenshot/data/q675.png"}
+{"type": "多选题", "score": "5分", "question": ["想知道具体汉字在书法作品中是什么样子,可以用下面哪些网站查询"], "answer": ["https://www.cidianwang.com/shufa/", "http://www.shufazidian.com/", "http://www.shufami.com/"], "id": "q676", "path": "screenshot/data/q676.png"}
+{"type": "多选题", "score": "5分", "question": ["比较常见的查图书馆馆藏信息的渠道有()。"], "answer": ["图书馆手机PP", "c图书馆微信公众号", "图书馆官网"], "id": "q677", "path": "screenshot/data/q677.png"}
+{"type": "多选题", "score": "5分", "question": ["下列可以找到在线课程的平台有()。"], "answer": ["学堂在线", "中国大学MOO", "c爱课程旗下的资源共享课", "网易公开课"], "id": "q678", "path": "screenshot/data/q678.png"}
+{"type": "多选题", "score": "5分", "question": ["关于译学馆,下列说法正确的有()。"], "answer": ["译学馆这个平台上有大量外文的短视频内容,而且都有中英文字幕", "译学馆专注知识短视频。", "译学馆,是一个PP,也是一个网站。"], "id": "q679", "path": "screenshot/data/q679.png"}
+{"type": "判断题", "score": "5分", "question": ["找墓志拓片影印版,可以试试中国历代墓志数据库。访问这个数据库,需要购买。"], "answer": ["错误"], "id": "q680", "path": "screenshot/data/q680.png"}
+{"type": "判断题", "score": "5分", "question": ["万彩办公大师使用时必须连接互联网。"], "answer": ["错误"], "id": "q681", "path": "screenshot/data/q681.png"}
+{"type": "判断题", "score": "5分", "question": ["MITTheses,这是麻省理工的学位论文数据库。2000年来的论文,者能找到,并能免费获取全文。"], "answer": ["错误"], "id": "q682", "path": "screenshot/data/q682.png"}
+{"type": "判断题", "score": "5分", "question": ["用数据看世界(https://ourworldindata.org),是一个免费的数据网站不仅可以下载数据,而且可以对数据进行可视化。"], "answer": ["正确"], "id": "q684", "path": "screenshot/data/q684.png"}
+{"type": "单选题", "score": "5分", "question": ["查医疗器械的注册备案信息,可以去()网站。"], "answer": ["药品监督管理局"], "id": "q685", "path": "screenshot/data/q685.png"}
+{"type": "单选题", "score": "5分", "question": ["在图书馆阅览室,1、G642.0/050;2、G812.2-49;3、G811.01;、G40/656/2018这些图书排架顺序是:"], "answer": ["4132T"], "id": "q686", "path": "screenshot/data/q686.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中检索2010--2015年间,中华医学会举办的,题名中包含基因工程”,并且会议名称不包含“中华医学会走向世界医药卫生科学技术新进展学术议”的会议论文,检索结果显示的论文数量最接近下列哪个选项?"], "answer": ["36"], "id": "q687", "path": "screenshot/data/q687.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以找到外文电子书的是()。"], "answer": ["古腾堡计划"], "id": "q689", "path": "screenshot/data/q689.png"}
+{"type": "单选题", "score": "5分", "question": ["用汉典查询。“王”这个字的解释,下列哪个出首《说文解字》"], "answer": ["天下所歸往也。"], "id": "q690", "path": "screenshot/data/q690.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中查找学位论文时,时间限定为2010年-2018年,检索点择“题名”检索词输入“终身学习”,匹配方式选择“精确”。请问:下列哪篇文献不在索结果中?"], "answer": ["终身道德学习理念及其教育启示"], "id": "q691", "path": "screenshot/data/q691.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,能够把图片转换成PF的有()"], "answer": ["https://www.pdfdo.com/", "https://smallpdf.com/"], "id": "q692", "path": "screenshot/data/q692.png"}
+{"type": "多选题", "score": "5分", "question": ["关于人大复印资料这个数据库,下列说法正确的有"], "answer": ["这个数据库中,可以看到论文的在线全文。", "这个数据库提供word版全文。"], "id": "q693", "path": "screenshot/data/q693.png"}
+{"type": "多选题", "score": "5分", "question": ["可以查阅到图书目录的网站有()。"], "answer": ["京东", "淘宝/天猫", "c当当", "亚马逊"], "id": "q694", "path": "screenshot/data/q694.png"}
+{"type": "多选题", "score": "5分", "question": ["在卫生健康委员会网站上,可以查询()。"], "answer": ["护士的资质", "医院的诊疗范围c", "医生的资质"], "id": "q695", "path": "screenshot/data/q695.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些功能可以在万彩办公大师中找到?()"], "answer": ["文本对比", "PF合并", "视频格式互转"], "id": "q696", "path": "screenshot/data/q696.png"}
+{"type": "多选题", "score": "5分", "question": ["下列课程,可以在网易公开课这个平台上找到的有()。"], "answer": ["麻省理工学院:西方世界的爱情哲学", "c牛津大学:批判性推理入门", "北京大学:影片赏析"], "id": "q697", "path": "screenshot/data/q697.png"}
+{"type": "多选题", "score": "5分", "question": ["通过习近平系列重要数据库查找,看下列哪些报道中习近平提到了“数字货币”这个词?"], "answer": ["《求是》发表的习近平文章:国家中长期经济社会发展战略若干重大问题", "习近平在二十国集团领导人第十五次峰会第一阶段会议上的讲话"], "id": "q698", "path": "screenshot/data/q698.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于学术期刊特征的有()。"], "answer": ["连续出版", "一般有一个固定的名称", "一期内容一般由多个作者的多篇文章组成", "定期出版"], "id": "q699", "path": "screenshot/data/q699.png"}
+{"type": "判断题", "score": "5分", "question": ["在国家统计局的网站上不仅可以查询具体统计指标的多年数据,而且可以进行可视化数据分析。"], "answer": ["正确"], "id": "q701", "path": "screenshot/data/q701.png"}
+{"type": "判断题", "score": "5分", "question": ["Medline、Pubmed、PM都是NI机构推出的数字资源产品,主要由ILM负责运行和维护。"], "answer": ["错误"], "id": "q702", "path": "screenshot/data/q702.png"}
+{"type": "判断题", "score": "5分", "question": ["知道一篇文章的OI,可以根据这个OI查找这篇文献的初始来源地址面。可以通过OI的官网查询,也可以直接在OI前面加上“https://doi.org/”组成个网址,然后把这个网址放到浏览器地址栏中回车。"], "answer": ["正确"], "id": "q704", "path": "screenshot/data/q704.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度脑图中,Tab键的默认功能是?"], "answer": ["插入下级节点"], "id": "q705", "path": "screenshot/data/q705.png"}
+{"type": "单选题", "score": "5分", "question": ["QQ有屏幕截图的功能,请问QQ屏幕截图的快捷键是?"], "answer": ["ctrl+alt+a"], "id": "q706", "path": "screenshot/data/q706.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度中,能够用site、inurl等语法提升搜索效率。这体现了信息素养中()能力。"], "answer": ["信息检索"], "id": "q707", "path": "screenshot/data/q707.png"}
+{"type": "单选题", "score": "5分", "question": ["下列在线工具,可以进行中文词频统计的是()。"], "answer": ["微词云"], "id": "q708", "path": "screenshot/data/q708.png"}
+{"type": "单选题", "score": "5分", "question": ["下列网站,属于网络导航的有()。"], "answer": ["hao123 (https://www.hao123.com)"], "id": "q709", "path": "screenshot/data/q709.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,可以进行文件整理的是()。"], "answer": ["droplt"], "id": "q710", "path": "screenshot/data/q710.png"}
+{"type": "单选题", "score": "5分", "question": ["下列网站提供英文大小写在线转换功能的是()"], "answer": ["https://www.iamwawa.cn"], "id": "q711", "path": "screenshot/data/q711.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以在手机上以大纲的形式转为思维导图的软件是?"], "answer": ["幕布"], "id": "q712", "path": "screenshot/data/q712.png"}
+{"type": "单选题", "score": "5分", "question": ["QQ有屏幕截图的功能,请问QQ屏幕录制的快捷键是?"], "answer": ["ctrl+alt+s"], "id": "q716", "path": "screenshot/data/q716.png"}
+{"type": "单选题", "score": "5分", "question": ["0)下列导航网站,以古典文献为主题的是"], "answer": ["奎章阁"], "id": "q717", "path": "screenshot/data/q717.png"}
+{"type": "单选题", "score": "5分", "question": ["QQ有屏幕截图的功能,请问QQ屏幕翻译的快捷键是?"], "answer": ["ctrl+alt+f"], "id": "q718", "path": "screenshot/data/q718.png"}
+{"type": "单选题", "score": "5分", "question": ["下列是批处理文件后缀的是()。"], "answer": ["bat"], "id": "q719", "path": "screenshot/data/q719.png"}
+{"type": "单选题", "score": "5分", "question": ["在为知笔记中添加Markdown笔记,“**信息素养**”代表?“>教育心理学”,其中的星号和大于号的作用是?"], "answer": ["加粗、引用"], "id": "q720", "path": "screenshot/data/q720.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,可以实现文件批量重命名的是()"], "answer": ["菲菲更名宝贝"], "id": "q721", "path": "screenshot/data/q721.png"}
+{"type": "单选题", "score": "5分", "question": ["QQ有屏幕截图的功能,请问QQ屏幕文字识别的快捷键是?"], "answer": ["ctrl+alt+o"], "id": "q723", "path": "screenshot/data/q723.png"}
+{"type": "单选题", "score": "5分", "question": ["()下列工具,属于剪贴板增强工具的是"], "answer": ["ditto"], "id": "q724", "path": "screenshot/data/q724.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,属于按键显示工具的是()。"], "answer": ["KeyastOw"], "id": "q725", "path": "screenshot/data/q725.png"}
+{"type": "多选题", "score": "5分", "question": ["使用qq,可以实现的功能有()。"], "answer": ["屏幕录制", "屏幕翻译", "屏幕翻译", "屏幕截图"], "id": "q726", "path": "screenshot/data/q726.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于菲菲更名宝贝这个效率工具的功能的有()"], "answer": ["文件属性处理", "图片信息处理", "c文件批量更名", "PF文档属性处理"], "id": "q729", "path": "screenshot/data/q729.png"}
+{"type": "多选题", "score": "5分", "question": ["0)下列工具,属于按键显示工具的有"], "answer": ["carnac", "signpost", "KeyastOW"], "id": "q730", "path": "screenshot/data/q730.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于笔记软件的有()?"], "answer": ["印象笔记", "为知笔记", "c有道云笔记", "微软OneNote"], "id": "q731", "path": "screenshot/data/q731.png"}
+{"type": "多选题", "score": "5分", "question": ["印象笔记提供了哪些模板供用户使用?"], "answer": ["客户咨询模板", "旅行日历模板", "c学习效率模板", "每日反思模板"], "id": "q733", "path": "screenshot/data/q733.png"}
+{"type": "多选题", "score": "5分", "question": ["使用droplt整理文件,可以自定义文件整理的规则,可以根据()设置规"], "answer": ["文件名称", "文件大小", "文件类型", "修改时间"], "id": "q734", "path": "screenshot/data/q734.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki的期刊导航中,在学科导航→信息科技→图书情报与数字图书馆类别下,有几十种期刊,其中包括()。"], "answer": ["信息资源管理学报", "数据分析与知识发现", "图书情报工作"], "id": "q735", "path": "screenshot/data/q735.png"}
+{"type": "多选题", "score": "5分", "question": ["关于语料库在线(http://corpus.zhonghuayuwen.org)字、词频统计具,下列说法正确的有()。"], "answer": ["语料库在线这个网站中提供字词频统计软件,可以免费下载使用。", "语料库在线这个网站可以统计字频。", "语料库在线这个网站进行字频统计、词频统计是免费的。c", "语料库在线这个网站可以统计词频。"], "id": "q736", "path": "screenshot/data/q736.png"}
+{"type": "判断题", "score": "5分", "question": ["在windows命令提示符窗口中输入:dir/s/b>123.xls,作用是把当前文牛夹中的所有文件名及其存储路径保存到一个名为123.xls的excel文件中。"], "answer": ["正确"], "id": "q739", "path": "screenshot/data/q739.png"}
+{"type": "判断题", "score": "5分", "question": ["解决问题,不仅要搜索,更要探索,在提升效率的同时提升自己。"], "answer": ["正确"], "id": "q741", "path": "screenshot/data/q741.png"}
+{"type": "判断题", "score": "5分", "question": ["奎章阁(https://www.kuizhangge.cn)是一个以设计素材为主题的导网站。"], "answer": ["错误"], "id": "q743", "path": "screenshot/data/q743.png"}
+{"type": "判断题", "score": "5分", "question": ["菲菲更名宝贝是一个实用的效率工具,文件批量重命名是她的重要功能。"], "answer": ["正确"], "id": "q744", "path": "screenshot/data/q744.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,具有文件同步功能的是()。"], "answer": ["坚果云"], "id": "q746", "path": "screenshot/data/q746.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具软件,可以把屏幕操作录制成GIF动图的是()"], "answer": ["licecap"], "id": "q747", "path": "screenshot/data/q747.png"}
+{"type": "单选题", "score": "5分", "question": ["下列网站可以进行词频统计的是()。"], "answer": ["语料库在线 (http://corpus.zhonghuayuwen.org)"], "id": "q748", "path": "screenshot/data/q748.png"}
+{"type": "单选题", "score": "5分", "question": ["阿里图标是阿里巴巴旗下的一个免费搜索图标的网站,龙喵网这个网址导航链接了阿里图标这个网址。请问,阿里图标被收录在龙喵网的哪个栏目下?"], "answer": ["设计"], "id": "q750", "path": "screenshot/data/q750.png"}
+{"type": "单选题", "score": "5分", "question": ["科塔学术是一个学术类的网址导航,里面有十几个大类,每个大类下面分为多个小类。请问,“可视化”这个小类,属于哪个大类?"], "answer": ["科研软件"], "id": "q751", "path": "screenshot/data/q751.png"}
+{"type": "多选题", "score": "5分", "question": ["请问,下列哪些功能是www.txttool.com这个在线工具具有的"], "answer": ["文本打乱", "文本左边保留N个字符", "文本字频统计c", "文本左边删除N个字符"], "id": "q752", "path": "screenshot/data/q752.png"}
+{"type": "多选题", "score": "5分", "question": ["万彩办公大师提供哪些功能合集?"], "answer": ["PF合集", "格式转换工具合集", "图片处理工具集"], "id": "q754", "path": "screenshot/data/q754.png"}
+{"type": "多选题", "score": "5分", "question": ["在印象笔记中,可以"], "answer": ["加密文本", "制作目录", "合并笔记c", "标注文件"], "id": "q755", "path": "screenshot/data/q755.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,能够把图片转换成PF的有()"], "answer": ["https://smallpdf.com/", "https://www.pdfdo.com/"], "id": "q756", "path": "screenshot/data/q756.png"}
+{"type": "多选题", "score": "5分", "question": ["除了名片,以下哪些信息可以做成二维码?"], "answer": ["短信", "网址", "地图位置"], "id": "q757", "path": "screenshot/data/q757.png"}
+{"type": "多选题", "score": "5分", "question": ["百度网盘的功能有哪些?"], "answer": ["自动备份", "c云端存储", "文件在线分享"], "id": "q758", "path": "screenshot/data/q758.png"}
+{"type": "判断题", "score": "5分", "question": ["在腾讯微云中,文件共享和文件分享是一回事"], "answer": ["错误"], "id": "q759", "path": "screenshot/data/q759.png"}
+{"type": "判断题", "score": "5分", "question": ["印象笔记可以做文字笔记,也可手做写笔记,设置笔记提醒,录音,添附件,拍照,进行文字识别。"], "answer": ["正确"], "id": "q760", "path": "screenshot/data/q760.png"}
+{"type": "判断题", "score": "5分", "question": ["语料库在线(http://corpus.zhonghuayuwen.org)是一个在线工具其中有字频和词频统计的功能。"], "answer": ["正确"], "id": "q761", "path": "screenshot/data/q761.png"}
+{"type": "判断题", "score": "5分", "question": ["良好的信息素养,可以帮助我们找到好的资源,找到好的方法,找到合的工具。综合利用这些资源、方法、工具,可以创造性地解决问题,提升解决问题率。"], "answer": ["正确"], "id": "q763", "path": "screenshot/data/q763.png"}
+{"type": "判断题", "score": "5分", "question": ["互联网上有很多免费的效率工具,善用这些工具,可以提升解决问题的"], "answer": ["正确"], "id": "q764", "path": "screenshot/data/q764.png"}
+{"type": "判断题", "score": "5分", "question": ["在为知笔记中,可以拖拽本地文件到笔记中用作附件。"], "answer": ["正确"], "id": "q765", "path": "screenshot/data/q765.png"}
+{"type": "单选题", "score": "5分", "question": ["下列不是二维码在线生成器的是()。"], "answer": ["https://shimo.im/"], "id": "q766", "path": "screenshot/data/q766.png"}
+{"type": "单选题", "score": "5分", "question": ["阿里图标是阿里巴巴旗下的一个免费搜索图标的网站,龙喵网这个网址导航链接了阿里图标这个网址。请问,阿里图标被收录在龙喵网的哪个栏目下?"], "answer": ["设计"], "id": "q767", "path": "screenshot/data/q767.png"}
+{"type": "单选题", "score": "5分", "question": ["十九大报告中使用频次最高的字是下面哪个?{提醒:用词频统计工具ttp://corpus.zhonghuayuwen.org)}"], "answer": ["的"], "id": "q768", "path": "screenshot/data/q768.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以在手机上以大纲的形式转为思维导图的软件是?"], "answer": ["幕布"], "id": "q769", "path": "screenshot/data/q769.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度脑图中,Tab键的默认功能是?"], "answer": ["插入下级节点"], "id": "q771", "path": "screenshot/data/q771.png"}
+{"type": "单选题", "score": "5分", "question": ["()下列工具软件,可以把屏幕操作录制成GIF动图的是"], "answer": ["licecap"], "id": "q772", "path": "screenshot/data/q772.png"}
+{"type": "多选题", "score": "5分", "question": ["如果要截取屏幕中的任意部分区域,下列方法可行的有()"], "answer": ["用word2016中的屏幕截图功能", "用QQ中的屏幕截图功能", "在电脑上启动微信客户端,然后按下alt+这组快捷键"], "id": "q774", "path": "screenshot/data/q774.png"}
+{"type": "多选题", "score": "5分", "question": ["如果要截取屏幕中的任意部分区域,下列方法可行的有()"], "answer": ["用word2016中的屏幕截图功能", "用QQ中的屏幕截图功能", "在电脑上启动微信客户端,然后按下alt+这组快捷键"], "id": "q775", "path": "screenshot/data/q775.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,与龙喵网类似,都属于网址导航网站的有()"], "answer": ["虫部落·快搜(https://search.chongbuluo.com)", "科塔学术导航 (https://site.sciping.com)", "优设导航(https://hao.uisdc.com)"], "id": "q776", "path": "screenshot/data/q776.png"}
+{"type": "多选题", "score": "5分", "question": ["xmind支持的功能有"], "answer": ["做思维导图", "做甘特图"], "id": "q777", "path": "screenshot/data/q777.png"}
+{"type": "多选题", "score": "5分", "question": ["快剪辑是360出品的一个免费视频剪辑工具,在导出剪辑结果时,可以选择的格式有有()。"], "answer": ["gif", "mp4", "avi"], "id": "q778", "path": "screenshot/data/q778.png"}
+{"type": "多选题", "score": "5分", "question": ["关于腾讯微云,下列说法正确的有()。"], "answer": ["腾讯微云的基本功能是免费的。", "c腾讯微云是一个云盘。", "腾讯微云中PPT文档可以在线分享"], "id": "q779", "path": "screenshot/data/q779.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,能够把图片转换成PF的有()"], "answer": ["https://smallpdf.com/", "https://www.pdfdo.com/"], "id": "q780", "path": "screenshot/data/q780.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,能够把图片转换成PF的有()"], "answer": ["https://smallpdf.com/", "https://www.pdfdo.com/"], "id": "q781", "path": "screenshot/data/q781.png"}
+{"type": "判断题", "score": "5分", "question": ["遇到未知问题,搜攻略,找思路,有时候可以大幅度提升解决问题的效率和质量。"], "answer": ["正确"], "id": "q782", "path": "screenshot/data/q782.png"}
+{"type": "判断题", "score": "5分", "question": ["同样一个问题,可能有不同的解决方法。获取信息,查找攻略,也许找到效率比较高的那一个。"], "answer": ["正确"], "id": "q783", "path": "screenshot/data/q783.png"}
+{"type": "判断题", "score": "5分", "question": ["百度网盘支持将本地文件拖拽上传到指定的文件夹。"], "answer": ["正确"], "id": "q784", "path": "screenshot/data/q784.png"}
+{"type": "判断题", "score": "5分", "question": ["万彩办公大师使用时必须连接互联网,"], "answer": ["错误"], "id": "q785", "path": "screenshot/data/q785.png"}
+{"type": "判断题", "score": "5分", "question": ["“copya*.txtb.txt”,这个命令的作用是把当前目录下以字母“a”开头的事本文件合并成一个名为b.txt的记事本文件中。"], "answer": ["正确"], "id": "q786", "path": "screenshot/data/q786.png"}
+{"type": "判断题", "score": "5分", "question": ["获取信息,解决问题,可以从找攻略开始。"], "answer": ["正确"], "id": "q787", "path": "screenshot/data/q787.png"}
+{"type": "单选题", "score": "5分", "question": ["下列关于屏幕画笔工具pointofix的说法,不正确的是()。"], "answer": ["pointofix是一个收费软件,可以试用,正式版需要付费。"], "id": "q788", "path": "screenshot/data/q788.png"}
+{"type": "单选题", "score": "5分", "question": ["下列功能,百度网盘不支持的是()。"], "answer": ["制作思维导图"], "id": "q789", "path": "screenshot/data/q789.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,不属于思维导图的是()。"], "answer": ["微词云"], "id": "q790", "path": "screenshot/data/q790.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具软件,可以把屏幕操作录制成GIF动图的是()。"], "answer": ["licecap"], "id": "q791", "path": "screenshot/data/q791.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,不属于笔记软件的是()。"], "answer": ["xmind"], "id": "q792", "path": "screenshot/data/q792.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,具有文件同步功能的是()。"], "answer": ["坚果云"], "id": "q793", "path": "screenshot/data/q793.png"}
+{"type": "单选题", "score": "5分", "question": ["阿里图标是阿里巴巴旗下的一个免费搜索图标的网站,龙喵网这个网址导链接了阿里图标这个网址。请问,阿里图标被收录在龙喵网的哪个栏目下?"], "answer": ["设计"], "id": "q794", "path": "screenshot/data/q794.png"}
+{"type": "多选题", "score": "5分", "question": ["关于腾讯微云,下列说法正确的有()。"], "answer": ["腾讯微云是一个云盘。", "3腾讯微云的基本功能是免费的。", "腾讯微云中PPT文档可以在线分享"], "id": "q796", "path": "screenshot/data/q796.png"}
+{"type": "多选题", "score": "5分", "question": ["哇哇工具(https://www.iamwawa.cn)是一个在线工具网站,里面有艮多实用功能,其中包括()。"], "answer": ["3英文字母大小写转换", "文本反转排序工具", "文本增加序号工具"], "id": "q797", "path": "screenshot/data/q797.png"}
+{"type": "多选题", "score": "5分", "question": ["如果要截取屏幕中的任意部分区域,下列方法可行的有()。"], "answer": ["用QQ中的屏幕截图功能", "用word2016中的屏幕截图功能", "在电脑上启动微信客户端,然后按下alt+这组快捷键"], "id": "q798", "path": "screenshot/data/q798.png"}
+{"type": "多选题", "score": "5分", "question": ["xmind支持的功能有()。"], "answer": ["做思维导图", "做甘特图"], "id": "q799", "path": "screenshot/data/q799.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站,能够把图片转换成PF的有()"], "answer": ["https://smallpdf.com/", "https://www.pdfdo.com/"], "id": "q800", "path": "screenshot/data/q800.png"}
+{"type": "多选题", "score": "5分", "question": ["快剪辑是360出品的一个免费视频剪辑工具,在导出剪辑结果时,可以择的格式有()。"], "answer": ["mp4T", "gif"], "id": "q801", "path": "screenshot/data/q801.png"}
+{"type": "判断题", "score": "5分", "question": ["百度网盘支持将本地文件拖拽上传到指定的文件夹。"], "answer": ["正确"], "id": "q802", "path": "screenshot/data/q802.png"}
+{"type": "判断题", "score": "5分", "question": ["万彩办公大师使用时必须连接互联网。"], "answer": ["错误"], "id": "q804", "path": "screenshot/data/q804.png"}
+{"type": "判断题", "score": "5分", "question": ["在腾讯微云中,文件共享和文件分享是一回事。"], "answer": ["错误"], "id": "q806", "path": "screenshot/data/q806.png"}
+{"type": "判断题", "score": "5分", "question": ["遇到未知问题,搜攻略,找思路,有时候可以大幅度提升解决问题的效率和质量。"], "answer": ["正确"], "id": "q807", "path": "screenshot/data/q807.png"}
+{"type": "单选题", "score": "5分", "question": ["在connectedpapers这个在线工具中,输入一个检索词,可以得到一张识图谱。请问知识图谱中的圆圈大小是什么意思?"], "answer": ["圈的大小表示文献的被引量。"], "id": "q808", "path": "screenshot/data/q808.png"}
+{"type": "单选题", "score": "5分", "question": ["在citespace中做共被引分析,在notetypes中可以选择下列哪个字段。(5.8.r3及以上版本)"], "answer": ["Reference"], "id": "q809", "path": "screenshot/data/q809.png"}
+{"type": "单选题", "score": "5分", "question": ["()。下列工具,能够爬取数据的是"], "answer": ["import.io"], "id": "q810", "path": "screenshot/data/q810.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,可以实现数据可视化的有()。"], "answer": ["echarts"], "id": "q811", "path": "screenshot/data/q811.png"}
+{"type": "单选题", "score": "5分", "question": ["下列文献管理软件,完全免费的是()。"], "answer": ["mendeley"], "id": "q813", "path": "screenshot/data/q813.png"}
+{"type": "单选题", "score": "5分", "question": ["下列关于zetero这个文献管理工具的说法,错误的是"], "answer": ["zetero是一个付费工具。"], "id": "q815", "path": "screenshot/data/q815.png"}
+{"type": "单选题", "score": "5分", "question": ["在connectedpapers这个在线工具中,输入一个检索词,可以得到一张和识图谱。请问知识图谱中的圆圈颜色代表什么意思?"], "answer": ["圈的颜色表示文献的发表时间远近。"], "id": "q816", "path": "screenshot/data/q816.png"}
+{"type": "单选题", "score": "5分", "question": ["下列在线工具,可以进行中文词频统计的是()。"], "answer": ["微词云"], "id": "q817", "path": "screenshot/data/q817.png"}
+{"type": "多选题", "score": "5分", "question": ["青提学术支持多种平台,其中包括()。"], "answer": ["windows", "linux", "ndroid"], "id": "q820", "path": "screenshot/data/q820.png"}
+{"type": "多选题", "score": "5分", "question": ["下列软件,属于下载工具的有()。"], "answer": ["motrix", "idm"], "id": "q821", "path": "screenshot/data/q821.png"}
+{"type": "多选题", "score": "5分", "question": ["使用浏览器RSS插件,在操作层面涉及的操作有()"], "answer": ["安装RSS阅读器插件", "查找RSSfeed", "c搜索RSS阅读器插件", "在RSS阅读器中设置RSSfeed"], "id": "q822", "path": "screenshot/data/q822.png"}
+{"type": "多选题", "score": "5分", "question": ["微词云(https:/www.weiciyun.com)这个在线工具的功能包括o"], "answer": ["用一篇文本中的高频词做文字云", "统计中篇小说《被雨淋湿的河》中的高频动词c", "统计今年政府工作报告中的高频名词"], "id": "q823", "path": "screenshot/data/q823.png"}
+{"type": "判断题", "score": "5分", "question": ["JR是一种期刊评价工具。"], "answer": ["正确"], "id": "q824", "path": "screenshot/data/q824.png"}
+{"type": "判断题", "score": "5分", "question": ["微词云是一个在线工具,不用安装,登录账号即可使用,所有功能都是色费的。"], "answer": ["错误"], "id": "q825", "path": "screenshot/data/q825.png"}
+{"type": "判断题", "score": "5分", "question": ["pubmed提供文献追踪功能,如果用RSS方式追踪pubmed中的文献,必须先注册ncbi的账号。"], "answer": ["错误"], "id": "q826", "path": "screenshot/data/q826.png"}
+{"type": "判断题", "score": "5分", "question": ["青提学术支持多个平台,数据实时同步."], "answer": ["正确"], "id": "q827", "path": "screenshot/data/q827.png"}
+{"type": "单选题", "score": "5分", "question": ["在JR中可以查看期刊的JI分值。JI是期刊过去三年发表论文的()平数。"], "answer": ["NI"], "id": "q828", "path": "screenshot/data/q828.png"}
+{"type": "单选题", "score": "5分", "question": ["如果要删除文本中多余的空格,可以用excel中的()函数。"], "answer": ["trim ()"], "id": "q829", "path": "screenshot/data/q829.png"}
+{"type": "单选题", "score": "5分", "question": ["在webofscience中导出citespace支持的题录数据,要选择“全记录与用的参考文献”这种格式,最多一次可以导出()条。"], "answer": ["500"], "id": "q830", "path": "screenshot/data/q830.png"}
+{"type": "单选题", "score": "5分", "question": ["基于SSl题录数据,用citespace进行文献分析,下载的题录数据,文件名要以()开头。"], "answer": ["download"], "id": "q831", "path": "screenshot/data/q831.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具最适合做文字云(词云)的是()。"], "answer": ["wordart"], "id": "q832", "path": "screenshot/data/q832.png"}
+{"type": "单选题", "score": "5分", "question": ["中科院分区表收录的期刊范围不包括()。"], "answer": ["SSI"], "id": "q833", "path": "screenshot/data/q833.png"}
+{"type": "多选题", "score": "5分", "question": ["在期刊分区中(包括JR分区和中科院分区),曾经或者正在作为分区数据基础的指标有()。"], "answer": ["超越指数", "影响因子", "期刊引文指标(JI)"], "id": "q835", "path": "screenshot/data/q835.png"}
+{"type": "多选题", "score": "5分", "question": ["置()。在wordart中,可以设置"], "answer": ["字体", "生成文字云的图形", "c生成文字云所用的文字", "字号"], "id": "q836", "path": "screenshot/data/q836.png"}
+{"type": "多选题", "score": "5分", "question": ["下列检索平台的检索条件设置界面中,有S限制项的有()"], "answer": ["3维普的期刊论文数据库高级检索界面", "NKI的期刊论文数据库高级检索界面"], "id": "q837", "path": "screenshot/data/q837.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些数据库,在检索条件设置界面有SSI的限制项?"], "answer": ["万方的期刊论文高级检索界面", "维普的期刊论文高级检索界面", "NKI的期刊论文高级检索界面"], "id": "q838", "path": "screenshot/data/q838.png"}
+{"type": "多选题", "score": "5分", "question": ["下列期刊评价指标,在JR期刊主页,可以查看计算公式的有()"], "answer": ["Journal Impact Factor", "Immediacy Index"], "id": "q839", "path": "screenshot/data/q839.png"}
+{"type": "多选题", "score": "5分", "question": ["在计算超越指数的时候,要保证比较被引数的论文具有相同的()"], "answer": ["文献类型", "主题"], "id": "q840", "path": "screenshot/data/q840.png"}
+{"type": "多选题", "score": "5分", "question": ["超越指数替代影响因子作为中科院分区的数据基础,背后的原因是超越旨数具有影响因子没有的优势,其中包括()。"], "answer": ["小众学科也有可能得到较高的分值,之前细分领域顶级期刊被分到三、四区的情况,应该会有改观。", "c突破了均值指标的瓶颈,避免极端值影响总体。"], "id": "q841", "path": "screenshot/data/q841.png"}
+{"type": "多选题", "score": "5分", "question": ["关于索引,下列说法正确的有()。"], "answer": ["SIE,指的是网络版的SI。在我国,SIE收录的论文,都被称为SI论文。", "SSI,社会科学引文索引,侧重于人文社会科学。c", "SI,科学引文索引,侧重于理工类学科。"], "id": "q842", "path": "screenshot/data/q842.png"}
+{"type": "判断题", "score": "5分", "question": ["cSScl数据库(http:/cssci.nju.edu.cn)是一个商业数据库,下载全文需要付费,但检索是免费的。"], "answer": ["错误"], "id": "q844", "path": "screenshot/data/q844.png"}
+{"type": "判断题", "score": "5分", "question": ["在JR分区中,一种期刊可能有多个分区值。"], "answer": ["正确"], "id": "q846", "path": "screenshot/data/q846.png"}
+{"type": "判断题", "score": "5分", "question": ["基于SSl题录数据,用citespace进行文献分析,下载的题录数据,以直接使用,无需进行格式转换。"], "answer": ["错误"], "id": "q847", "path": "screenshot/data/q847.png"}
+{"type": "单选题", "score": "5分", "question": ["一本期刊,2021年、2022年、2023年发表的论文数量分别是200篇、300篇、500篇。这三年的论文在2023年的被引量分别500次、400次、100次。请,这本期刊在2023年的影响因子是()。"], "answer": ["1.8"], "id": "q848", "path": "screenshot/data/q848.png"}
+{"type": "单选题", "score": "5分", "question": ["pubmed提供两种文献追踪功能,一种是用邮箱接收提醒,另一种是RS请问,如果使用邮箱接收提醒功能,应该在检索结果界面的检索框下面点击链接"], "answer": ["create alert"], "id": "q850", "path": "screenshot/data/q850.png"}
+{"type": "多选题", "score": "5分", "question": ["关于SSI、SSI,下列说法正确的有()。"], "answer": ["SSI和SSI都侧重于人文社会科学领域。", "SSI是中文社会科学引文索引,南京大学研制。"], "id": "q851", "path": "screenshot/data/q851.png"}
+{"type": "多选题", "score": "5分", "question": ["pubmed提供文献追踪功能,如果要使用这个功能,可以在检索结果界面检索框下面点击链接()。"], "answer": ["create alert", "create rss"], "id": "q853", "path": "screenshot/data/q853.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪篇文章发表在SSI期刊上?(以发表当年所在期刊是否为SS扩展版不算)"], "answer": ["陈琴.微视频在高校图书馆培训讲座中的应用探析[J].图书馆学研究,2016(04):88-93.", "周建芳.图书馆众筹研究[J].图书馆建设,2014(09):35-39.", "黄春毅.RSS技术在虚拟参考咨询系统中应用的设计与实现[J].情报理论与实钱,2007(02):262-264."], "id": "q854", "path": "screenshot/data/q854.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki的文献分析中,我们可以查看检索结果的()。"], "answer": ["机构分布", "基金分布", "作者分布", "期刊分布"], "id": "q855", "path": "screenshot/data/q855.png"}
+{"type": "多选题", "score": "5分", "question": ["S有核心库和扩展版。下列期刊,属于S(2021-2022年度)扩展()反的有O"], "answer": ["热带气象学报", "热带亚热带植物学报"], "id": "q856", "path": "screenshot/data/q856.png"}
+{"type": "多选题", "score": "5分", "question": ["在JR的期刊主页,可以查看这个期刊的()。"], "answer": ["JI分区", "总被引量", "出版频率", "机构分布"], "id": "q857", "path": "screenshot/data/q857.png"}
+{"type": "多选题", "score": "5分", "question": ["如果一个学者的H指数是16,下列说法正确的有()。"], "answer": ["这位学者发表的论文至少有16篇。", "这位学者的论文,其中16篇每篇至少被引16次。"], "id": "q858", "path": "screenshot/data/q858.png"}
+{"type": "判断题", "score": "5分", "question": ["cSc,指的是hinese Scienceitation atabase,也就是中国科学文数据库。这是一个完全开放的资源平台。"], "answer": ["错误"], "id": "q859", "path": "screenshot/data/q859.png"}
+{"type": "多选题", "score": "5分", "question": ["JR期刊分区基于一定的指标,其中包括()。"], "answer": ["journal citation index (JcI)", "journal impact factor (JIF)"], "id": "q860", "path": "screenshot/data/q860.png"}
+{"type": "判断题", "score": "5分", "question": ["尽管tableau是一个数据库可视化工具,但它也有一些数据处理功能比如合并Excel表。"], "answer": ["正确"], "id": "q861", "path": "screenshot/data/q861.png"}
+{"type": "判断题", "score": "5分", "question": ["dp不仅是一个数据分析工具,还可以获取数据。"], "answer": ["正确"], "id": "q862", "path": "screenshot/data/q862.png"}
+{"type": "判断题", "score": "5分", "question": ["JR不仅提供每个期刊的JI分值,而且给出了基于JI的学科排名、区和百分位。"], "answer": ["正确"], "id": "q864", "path": "screenshot/data/q864.png"}
+{"type": "判断题", "score": "5分", "question": ["SSI,指的是社会科学引文索引。"], "answer": ["错误"], "id": "q865", "path": "screenshot/data/q865.png"}
+{"type": "判断题", "score": "5分", "question": ["在cnki中,我们可以对全部检索结果进行文献分析。"], "answer": ["正确"], "id": "q866", "path": "screenshot/data/q866.png"}
+{"type": "判断题", "score": "5分", "question": ["用数据看世界(https://ourworldindata.org),是一个数据资源网站,以下载数据集."], "answer": ["正确"], "id": "q867", "path": "screenshot/data/q867.png"}
+{"type": "单选题", "score": "5分", "question": ["中科院分区表收录的期刊范围不包括()。"], "answer": ["SSI"], "id": "q869", "path": "screenshot/data/q869.png"}
+{"type": "单选题", "score": "5分", "question": ["在webofscience中导出citespace支持的题录数据,要选择“全记录与用的参考文献”这种格式,最多一次可以导出()条。"], "answer": ["500"], "id": "q871", "path": "screenshot/data/q871.png"}
+{"type": "单选题", "score": "5分", "question": ["在中科院分区中,使用超越指数替代影响因子作为分区的数据基础,对应一些小众领域的顶级期刊来说,是个()。"], "answer": ["好消息"], "id": "q872", "path": "screenshot/data/q872.png"}
+{"type": "单选题", "score": "5分", "question": ["如果要删除文本中多余的空格,可以用excel中的()函数。"], "answer": ["trim ()"], "id": "q874", "path": "screenshot/data/q874.png"}
+{"type": "多选题", "score": "5分", "question": ["在JR中,导出一个学科的期刊评价数据,用户可以自定义导出的具体指标,其中包括()。"], "answer": ["5年影响因子", "即时指数", "影响因子", "JI"], "id": "q875", "path": "screenshot/data/q875.png"}
+{"type": "多选题", "score": "5分", "question": ["如果一个学者的H指数是16,下列说法正确的有()"], "answer": ["这位学者的论文,其中16篇每篇至少被引16次。", "这位学者发表的论文至少有16篇。"], "id": "q876", "path": "screenshot/data/q876.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki中,选择对已选结果分析,可以看到的分析项目包括()"], "answer": ["分布分析", "关系网络分析c", "总体趋势分析"], "id": "q877", "path": "screenshot/data/q877.png"}
+{"type": "判断题", "score": "5分", "question": ["JR是一个网站,也是一个期刊评价工具,可以查SI、SSI、SSESI等索引收录的期刊。"], "answer": ["错误"], "id": "q879", "path": "screenshot/data/q879.png"}
+{"type": "判断题", "score": "5分", "question": ["从NKI中导出的题录数据可以做共被引分析。"], "answer": ["错误"], "id": "q880", "path": "screenshot/data/q880.png"}
+{"type": "判断题", "score": "5分", "question": ["在JR分区中,一种期刊可能有多个分区值。"], "answer": ["正确"], "id": "q881", "path": "screenshot/data/q881.png"}
+{"type": "判断题", "score": "5分", "question": ["在JR中,可以一次性导出所有期刊的评价指标数据。"], "answer": ["错误"], "id": "q882", "path": "screenshot/data/q882.png"}
+{"type": "判断题", "score": "5分", "question": ["cSScl数据库(http://cssci.nju.edu.cn)是一个商业数据库,下载全文需要付费,但检索是免费的。"], "answer": ["错误"], "id": "q883", "path": "screenshot/data/q883.png"}
+{"type": "判断题", "score": "5分", "question": ["一篇文献,被写在其他文献的参考文献中,这样,这篇文献就成了施引文献,引用它的文献,就成了被引文献,他们之间关系就是被引与施引的关系。"], "answer": ["错误"], "id": "q885", "path": "screenshot/data/q885.png"}
+{"type": "判断题", "score": "5分", "question": ["在SSI的题录数据中,包括参考文献等内容。NKI中下载的题录数不包括参考文献。"], "answer": ["正确"], "id": "q886", "path": "screenshot/data/q886.png"}
+{"type": "判断题", "score": "5分", "question": ["H指数是一个学术评价指标,只能评价学者。"], "answer": ["错误"], "id": "q887", "path": "screenshot/data/q887.png"}
+{"type": "单选题", "score": "5分", "question": ["在JR中可以查看期刊的JI分值。JI是期刊过去三年发表论文的()数。"], "answer": ["NI"], "id": "q888", "path": "screenshot/data/q888.png"}
+{"type": "单选题", "score": "5分", "question": ["文献导入进网页版Endnote,可通过下面哪个功能模块?"], "answer": ["收集"], "id": "q889", "path": "screenshot/data/q889.png"}
+{"type": "单选题", "score": "5分", "question": ["pubmed提供两种文献追踪功能,一种是用邮箱接收提醒,另一种是RS。请问,如果使用邮箱接收提醒功能,应该在检索结果界面的检索框下面点击链接"], "answer": ["create alert"], "id": "q891", "path": "screenshot/data/q891.png"}
+{"type": "单选题", "score": "5分", "question": ["中科院分区表收录的期刊范围不包括()。"], "answer": ["SSI"], "id": "q892", "path": "screenshot/data/q892.png"}
+{"type": "单选题", "score": "5分", "question": ["一本期刊,2021年、2022年、2023年发表的论文数量分别是200篇、0篇、500篇。这三年的论文在2023年的被引量分别500次、400次、100次。请这本期刊在2023年的影响因子是()。"], "answer": ["1.8"], "id": "q893", "path": "screenshot/data/q893.png"}
+{"type": "多选题", "score": "5分", "question": ["JR期刊分区,覆盖的文献范围包括(。)"], "answer": ["SI/SSI", "&HI", "ESI"], "id": "q896", "path": "screenshot/data/q896.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于文献管理工具的有()。"], "answer": ["青提学术", "EndNote"], "id": "q897", "path": "screenshot/data/q897.png"}
+{"type": "多选题", "score": "5分", "question": ["如果一个学者的H指数是16,下列说法正确的有()"], "answer": ["这位学者发表的论文至少有16篇。", "这位学者的论文,其中16篇每篇至少被引16次。"], "id": "q898", "path": "screenshot/data/q898.png"}
+{"type": "判断题", "score": "5分", "question": ["endnote是一个付费软件,无法免费使用。"], "answer": ["错误"], "id": "q899", "path": "screenshot/data/q899.png"}
+{"type": "判断题", "score": "5分", "question": ["echarts是一个数据可视化工具,开源免费。尽管涉及JS代码,但可以通过修改实例快速生成想要的图表。"], "answer": ["正确"], "id": "q901", "path": "screenshot/data/q901.png"}
+{"type": "判断题", "score": "5分", "question": ["如果两篇文献共同引用了另外一篇文献,我们就说这两篇文献是共被"], "answer": ["错误"], "id": "q902", "path": "screenshot/data/q902.png"}
+{"type": "判断题", "score": "5分", "question": ["dp不仅是一个数据分析工具,还可以获取数据。"], "answer": ["正确"], "id": "q903", "path": "screenshot/data/q903.png"}
+{"type": "判断题", "score": "5分", "question": ["vosviewer是一个文献追踪工具。"], "answer": ["错误"], "id": "q904", "path": "screenshot/data/q904.png"}
+{"type": "判断题", "score": "5分", "question": ["把结构化的数据转换成非结构的数据,是数据清洗的一个重要内容"], "answer": ["错误"], "id": "q905", "path": "screenshot/data/q905.png"}
+{"type": "判断题", "score": "5分", "question": ["尽管tableau是一个数据库可视化工具,但它也有一些数据处理功能,如合并Excel表。"], "answer": ["正确"], "id": "q907", "path": "screenshot/data/q907.png"}
+{"type": "单选题", "score": "5分", "question": ["下列关于zetero这个文献管理工具的说法,错误的是()"], "answer": ["zetero是一个付费工具。"], "id": "q910", "path": "screenshot/data/q910.png"}
+{"type": "单选题", "score": "5分", "question": ["下列文献管理软件,完全免费的是()。"], "answer": ["mendeley"], "id": "q911", "path": "screenshot/data/q911.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具不属于文献管理工具的是()。"], "answer": ["Springer"], "id": "q912", "path": "screenshot/data/q912.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,不属于爬虫工具的有()。"], "answer": ["天眼查"], "id": "q913", "path": "screenshot/data/q913.png"}
+{"type": "多选题", "score": "5分", "question": ["在wordart中,可以设置()。"], "answer": ["字号", "字体", "c生成文字云所用的文字", "生成文字云的图形"], "id": "q915", "path": "screenshot/data/q915.png"}
+{"type": "多选题", "score": "5分", "question": ["使用浏览器RSS插件,在操作层面涉及的操作有()"], "answer": ["搜索RSS阅读器插件", "在RSS阅读器中设置RSSfeed", "安装RSS阅读器插件", "查找RSS feed"], "id": "q917", "path": "screenshot/data/q917.png"}
+{"type": "多选题", "score": "5分", "question": ["使用浏览器RSS插件,在操作层面涉及的操作有()"], "answer": ["搜索RSS阅读器插件", "在RSS阅读器中设置RSSfeed", "安装RSS阅读器插件", "查找RSS feed"], "id": "q917", "path": "screenshot/data/q917.png"}
+{"type": "多选题", "score": "5分", "question": ["超越指数替代影响因子作为中科院分区的数据基础,背后的原因是超越指数具有影响因子没有的优势,其中包括()。"], "answer": ["冷门的基础研究也可能得到较高的分值,避免大家挤热门、追热点、忽略基础研究。", "c突破了均值指标的瓶颈,避免极端值影响总体。"], "id": "q918", "path": "screenshot/data/q918.png"}
+{"type": "多选题", "score": "5分", "question": ["ESI可以"], "answer": ["查一个高校有多少学科进入了ESI。", "查一个学科的高被引论文。"], "id": "q919", "path": "screenshot/data/q919.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于不用编程的爬虫工具的有()"], "answer": ["web scraper", "八爪鱼"], "id": "q920", "path": "screenshot/data/q920.png"}
+{"type": "多选题", "score": "5分", "question": ["关于学术评价,下列说法正确的是:"], "answer": ["学术评价的主要指标有被引次数,影响因子,索引和H指数。", "影响因子不是评价单篇文章的,而是评价一本期刊的。", "H指数既考虑了文章质量也考虑了文章数量。c"], "id": "q921", "path": "screenshot/data/q921.png"}
+{"type": "判断题", "score": "5分", "question": ["在cnki的可视化分析中,有两个选项,一个是对选定结果进行分析,是对全部结果进行分析。这两个分析功能的具体项目,有一样的地方,也有区别"], "answer": ["正确"], "id": "q923", "path": "screenshot/data/q923.png"}
+{"type": "判断题", "score": "5分", "question": ["一篇文献,被写在其他文献的参考文献中,这样,这篇文献就成了施引献,引用它的文献,就成了被引文献,他们之间关系就是被引与施引的关系。"], "answer": ["错误"], "id": "q926", "path": "screenshot/data/q926.png"}
+{"type": "判断题", "score": "5分", "question": ["与JI相比,影响因子更适合不同学科类别期刊之间的比较"], "answer": ["错误"], "id": "q927", "path": "screenshot/data/q927.png"}
+{"type": "单选题", "score": "5分", "question": ["如果想查询一个企业或个人有没有涉诉案件,可以通过哪个地方进行查在这个系统中可以免费查到各种判决书。"], "answer": ["裁判文书网"], "id": "q928", "path": "screenshot/data/q928.png"}
+{"type": "单选题", "score": "5分", "question": ["正规的大学,需要得到教育主管部门的认可。请问:下列哪个学校,被教育主管部门认可?"], "answer": ["江河大学"], "id": "q929", "path": "screenshot/data/q929.png"}
+{"type": "单选题", "score": "5分", "question": ["Mdigital library主要聚焦()领域。"], "answer": ["计算机"], "id": "q930", "path": "screenshot/data/q930.png"}
+{"type": "单选题", "score": "5分", "question": ["查医疗器械的注册备案信息,可以去()网站。"], "answer": ["药品监督管理局"], "id": "q931", "path": "screenshot/data/q931.png"}
+{"type": "单选题", "score": "5分", "question": ["可以查询学历与学籍的网站是()。"], "answer": ["学信网 (https://www.chsi.com.cn)"], "id": "q932", "path": "screenshot/data/q932.png"}
+{"type": "单选题", "score": "5分", "question": ["关于百度学术,下列说法错误的是()。"], "answer": ["通过百度学术找到的每一篇学术文献,都可以获得全文。"], "id": "q933", "path": "screenshot/data/q933.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库(万方数据知识服务平台)中查找2020年发表的、题名中含“二甲双胍”这个关键词的期刊论文,请问找到的结果数量与下列哪个数字最接"], "answer": ["1684"], "id": "q934", "path": "screenshot/data/q934.png"}
+{"type": "单选题", "score": "5分", "question": ["查询化妆品的注册备案信息,可以去()网站。"], "answer": ["药品监督管理局"], "id": "q935", "path": "screenshot/data/q935.png"}
+{"type": "单选题", "score": "5分", "question": ["某一款医疗器械,注册证编号为:黑械临注20202140101,查询商品名称和注册人。"], "answer": ["医用外科口罩,黑龙江万康医用口罩有限公司"], "id": "q936", "path": "screenshot/data/q936.png"}
+{"type": "单选题", "score": "5分", "question": ["因被执行人未按执行通知书指定的期间履行生效法律文书确定的给付义务,且有履行能力而拒不履行,将被纳入失信被执行人名单,这个名单我们可以通过()查询。"], "answer": ["全国法院失信被执行人查询 (https://shixin.court.gov.cn/index.html)"], "id": "q937", "path": "screenshot/data/q937.png"}
+{"type": "单选题", "score": "5分", "question": ["在中国记者网上查询到“人民日报”,记录有几条?可以看到单位地址和者名单吗?"], "answer": ["2,都可以"], "id": "q938", "path": "screenshot/data/q938.png"}
+{"type": "单选题", "score": "5分", "question": ["国家留学网的域名是()。"], "answer": ["https://www.csc.edu.cn/"], "id": "q939", "path": "screenshot/data/q939.png"}
+{"type": "单选题", "score": "5分", "question": ["()如果要找学术文献,最合适的检索系统是"], "answer": ["cnki"], "id": "q940", "path": "screenshot/data/q940.png"}
+{"type": "单选题", "score": "5分", "question": ["与综合搜索引擎对应的是()搜索引擎。"], "answer": ["垂直"], "id": "q941", "path": "screenshot/data/q941.png"}
+{"type": "单选题", "score": "5分", "question": ["下列不属于检索系统的是()。"], "answer": ["辽宁省博物馆馆藏的欧阳询《仲尼梦奠帖》"], "id": "q942", "path": "screenshot/data/q942.png"}
+{"type": "单选题", "score": "5分", "question": ["下列软件可以下载字体并使用的是?"], "answer": ["字由"], "id": "q943", "path": "screenshot/data/q943.png"}
+{"type": "多选题", "score": "5分", "question": ["关于读秀,下列说法正确的有()。"], "answer": ["读秀是一个学术搜索引擎。", "读秀是一个网站。"], "id": "q946", "path": "screenshot/data/q946.png"}
+{"type": "单选题", "score": "5分", "question": ["探索一下,看下面哪个网址是习近平系列重要讲话数据库的地址。"], "answer": ["http://jhsjk.people.cn"], "id": "q948", "path": "screenshot/data/q948.png"}
+{"type": "单选题", "score": "5分", "question": ["()下列平台,可以找到慕课资源并且有学习激励机制的是"], "answer": ["学习强国"], "id": "q949", "path": "screenshot/data/q949.png"}
+{"type": "单选题", "score": "5分", "question": ["请问这个网址(http://www.12371.cn/special/xxzd/)是哪个学习平"], "answer": ["中组部旗下的共产党员网学习平台"], "id": "q951", "path": "screenshot/data/q951.png"}
+{"type": "单选题", "score": "5分", "question": ["下列哪个网站是党史学习教育官网的网址?"], "answer": ["http://dangshi.people.com.cn/"], "id": "q952", "path": "screenshot/data/q952.png"}
+{"type": "多选题", "score": "5分", "question": ["在中国记者网上,我们需要输入哪些信息才能够查询某一个记者?"], "answer": ["单位名称", "记者姓名"], "id": "q954", "path": "screenshot/data/q954.png"}
+{"type": "多选题", "score": "5分", "question": ["关于国家留学网,下列说法正确的有()。"], "answer": ["出国留学网,可以查国家留学基金资助出国留学人员选派简章", "出国留学网,可以查公派留学资助项目。", "出国留学网,可以查出国留学申请受理单位。"], "id": "q955", "path": "screenshot/data/q955.png"}
+{"type": "多选题", "score": "5分", "question": ["想知道有没有人顶替自己上大学,用自己的身份就可以在()平台上查"], "answer": ["学信网", "个人所得税PP"], "id": "q957", "path": "screenshot/data/q957.png"}
+{"type": "多选题", "score": "5分", "question": ["在什么情况下,我们会用到学信网?"], "answer": ["高中生想查询“阳光高考”相关信息", "想了解应征入伍的信息", "c公司招聘高材生,想查询学历是否真实", "大学生想出国,准备学籍资料"], "id": "q959", "path": "screenshot/data/q959.png"}
+{"type": "判断题", "score": "5分", "question": ["腾讯医典,是一个医疗信息科普平台,有PP,也有微信小程序"], "answer": ["正确"], "id": "q960", "path": "screenshot/data/q960.png"}
+{"type": "判断题", "score": "5分", "question": ["维度学术资源在线,是一个软件,也是一个学术搜索工具,可以跨库找文,可以深度查期刊。"], "answer": ["错误"], "id": "q961", "path": "screenshot/data/q961.png"}
+{"type": "判断题", "score": "5分", "question": ["我们在搜索引擎中输入一个检索词回车后,搜索引擎返回的结果直接来自于自己的数据库。"], "answer": ["正确"], "id": "q962", "path": "screenshot/data/q962.png"}
+{"type": "判断题", "score": "5分", "question": ["万方数据库,一般指的是万方数据知识服务平台。这是一个商业数据检索和获取全文需要付费。"], "answer": ["错误"], "id": "q963", "path": "screenshot/data/q963.png"}
+{"type": "判断题", "score": "5分", "question": ["习近平系列重要讲话数据,由新华社出品,免费开放,可以导航,也可检索。"], "answer": ["错误"], "id": "q964", "path": "screenshot/data/q964.png"}
+{"type": "判断题", "score": "5分", "question": ["在cm digital library中可以找到“omputer literacy bycomputer”982出版)这篇文章,而且可以免费获取PF格式全文。"], "answer": ["正确"], "id": "q965", "path": "screenshot/data/q965.png"}
+{"type": "判断题", "score": "5分", "question": ["维度学术资源在线的学术搜索,类似于百度学术,会给出文献的多个来这些来源都可以免费获取全文。"], "answer": ["错误"], "id": "q966", "path": "screenshot/data/q966.png"}
+{"type": "判断题", "score": "5分", "question": ["找一个合适的检索系统、掌握一些必要的检索技巧,可以提升检索效"], "answer": ["正确"], "id": "q967", "path": "screenshot/data/q967.png"}
+{"type": "多选题", "score": "5分", "question": ["下列可以以图识图的有()。"], "answer": ["https://image.baidu.com/", "https://pic.sogou.com/?"], "id": "q969", "path": "screenshot/data/q969.png"}
+{"type": "多选题", "score": "5分", "question": ["在卫生健康委员会网站上,可以查询()。"], "answer": ["护士的资质", "c医院的诊疗范围", "医生的资质"], "id": "q970", "path": "screenshot/data/q970.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些数据库包含在ncbi的数据库列表中?"], "answer": ["pubmed", "books (bookshelf)", "PM (pubmed central)", "Mesh"], "id": "q972", "path": "screenshot/data/q972.png"}
+{"type": "多选题", "score": "5分", "question": ["通过习近平系列重要数据库查找,看下列哪些报道中习近平提到了“数字货币”这个词?"], "answer": ["《求是》发表的习近平文章:国家中长期经济社会发展战略若干重大问题", "c习近平在二十国集团领导人第十五次峰会第一阶段会议上的讲话"], "id": "q973", "path": "screenshot/data/q973.png"}
+{"type": "多选题", "score": "5分", "question": ["关于“万不得已,不用百度”这句话,正确的理解有()。"], "answer": ["尽量选择专业的资源系统,综合类搜索引擎找到的信息比较杂。", "这句话与“万不得已,不用综合类的搜索引擎”意思类似。"], "id": "q974", "path": "screenshot/data/q974.png"}
+{"type": "多选题", "score": "5分", "question": ["下列关于百度指数,正确的有()。"], "answer": ["使用百度指数需要登录百度账号。", "百度指数可以对比多个词的指数数据", "百度指数可以定制时间段查看数据"], "id": "q975", "path": "screenshot/data/q975.png"}
+{"type": "多选题", "score": "5分", "question": ["下面哪些是政府部门的网站?"], "answer": ["国家统计局 (http://www.stats.gov.cn/)", "中国政府网 (http://www.gov.cn/)", "c国家企业信用信息公示网站(http://gsxt.gdgs.gov.cn/)", "中华人民共和国教育部(http://www.moe.gov.cn/)"], "id": "q976", "path": "screenshot/data/q976.png"}
+{"type": "多选题", "score": "5分", "question": ["下列网站可以识别字体的有"], "answer": ["识字体https://www.likefont.com/", "求字体 http://www.qiuziti.com/"], "id": "q977", "path": "screenshot/data/q977.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于政府网站上信息资源特点的有()。"], "answer": ["比较权威", "一般免费"], "id": "q978", "path": "screenshot/data/q978.png"}
+{"type": "多选题", "score": "5分", "question": ["在选择检索系统时,需要考虑的因素有()。"], "answer": ["收录资源的类型", "检索功能", "c访问权限", "收录资源的范围"], "id": "q979", "path": "screenshot/data/q979.png"}
+{"type": "多选题", "score": "5分", "question": ["下列系统,支持布尔逻辑中或者关系的有()。"], "answer": ["pqdt", "springer", "cnkic", "百度"], "id": "q980", "path": "screenshot/data/q980.png"}
+{"type": "判断题", "score": "5分", "question": ["通过百度学术可以导出G7714标准的参考文献,既可以导出单篇文也可以批量导出。"], "answer": ["正确"], "id": "q981", "path": "screenshot/data/q981.png"}
+{"type": "判断题", "score": "5分", "question": ["中国记者网还能查看“记者证核发公告”、“记者证注销公告”等信息鉴别假记者,这些信息有时候也用的到。"], "answer": ["正确"], "id": "q982", "path": "screenshot/data/q982.png"}
+{"type": "判断题", "score": "5分", "question": ["ncbi的官网上整合了很多数据库,检索这些数据库一般是免费的。"], "answer": ["正确"], "id": "q983", "path": "screenshot/data/q983.png"}
+{"type": "判断题", "score": "5分", "question": ["国家留学网,只提供公派出国留学资助,与自费留学生没有关系"], "answer": ["错误"], "id": "q985", "path": "screenshot/data/q985.png"}
+{"type": "判断题", "score": "5分", "question": ["如何判断一个记者证的真伪,在中国记者网上可以查询。只需知道记者生名和所在媒体名称就可以了,不需要记者证编号。"], "answer": ["正确"], "id": "q986", "path": "screenshot/data/q986.png"}
+{"type": "判断题", "score": "5分", "question": ["姓名为张晓旭,编号为104691201506010709,毕业学校为郑州大学本科毕业证书,可以在学信网查到对应的信息。"], "answer": ["错误"], "id": "q987", "path": "screenshot/data/q987.png"}
+{"type": "单选题", "score": "5分", "question": ["在中国记者网上查询到“人民日报”,记录有几条?可以看到单位地址和记者名单吗?"], "answer": ["2,都可以"], "id": "q988", "path": "screenshot/data/q988.png"}
+{"type": "单选题", "score": "5分", "question": ["因被执行人未按执行通知书指定的期间履行生效法律文书确定的给付义各,且有履行能力而拒不履行,将被纳入失信被执行人名单,这个名单我们可以通过)查询。"], "answer": ["全国法院失信被执行人查询 (https://shixin.court.gov.cn/index.html)"], "id": "q989", "path": "screenshot/data/q989.png"}
+{"type": "单选题", "score": "5分", "question": ["0国家留学网的域名是"], "answer": ["https://www.csc.edu.cn/"], "id": "q990", "path": "screenshot/data/q990.png"}
+{"type": "单选题", "score": "5分", "question": ["关于百度学术,下列说法错误的是()。"], "answer": ["通过百度学术找到的每一篇学术文献,都可以获得全文。"], "id": "q991", "path": "screenshot/data/q991.png"}
+{"type": "单选题", "score": "5分", "question": ["查医疗器械的注册备案信息,可以去()网站。"], "answer": ["药品监督管理局"], "id": "q992", "path": "screenshot/data/q992.png"}
+{"type": "多选题", "score": "5分", "question": ["下列关于百度指数,正确的有()。"], "answer": ["查询普通词条,百度指数是免费的。", "百度指数可以对比多个词的指数数据", "c使用百度指数需要登录百度账号。", "百度指数可以定制时间段查看数据"], "id": "q994", "path": "screenshot/data/q994.png"}
+{"type": "多选题", "score": "5分", "question": ["在市场监督管理总局网站上,可以查询()产品广告的审查备案信息"], "answer": ["医疗器械", "药品", "c特殊医疗食品", "保健食品"], "id": "q997", "path": "screenshot/data/q997.png"}
+{"type": "多选题", "score": "5分", "question": ["0下列属于政府网站上信息资源特点的有"], "answer": ["一般免费", "比较权威"], "id": "q998", "path": "screenshot/data/q998.png"}
+{"type": "多选题", "score": "5分", "question": ["在选择检索系统时,需要考虑的因素有()。"], "answer": ["收录资源的范围", "检索功能", "收录资源的类型c", "访问权限"], "id": "q999", "path": "screenshot/data/q999.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于信息检索系统的有()。"], "answer": ["购买火车票的PP12306", "NKI知网", "百度图片", "站內置的搜索"], "id": "q1000", "path": "screenshot/data/q1000.png"}
+{"type": "多选题", "score": "5分", "question": ["()。可以查阅到图书目录的网站有"], "answer": ["亚马逊", "京东", "淘宝/天猫c", "当当"], "id": "q1001", "path": "screenshot/data/q1001.png"}
+{"type": "多选题", "score": "5分", "question": ["()下列网站,能够搜索图片的有"], "answer": ["https://pixabay.com/", "https://pic.sogou.com/", "https://huaban.com/"], "id": "q1002", "path": "screenshot/data/q1002.png"}
+{"type": "判断题", "score": "5分", "question": ["姓名为张晓旭,编号为104691201506010709,毕业学校为郑州大学本科毕业证书,可以在学信网查到对应的信息。"], "answer": ["错误"], "id": "q1003", "path": "screenshot/data/q1003.png"}
+{"type": "判断题", "score": "5分", "question": ["慢慢买是一个比价搜索引擎。"], "answer": ["正确"], "id": "q1004", "path": "screenshot/data/q1004.png"}
+{"type": "判断题", "score": "5分", "question": ["查药品注册信息,可以去卫生健康委员会网站。"], "answer": ["错误"], "id": "q1005", "path": "screenshot/data/q1005.png"}
+{"type": "判断题", "score": "5分", "question": ["凡是教育主管部门认可的大学,其官方网站的域名一定是中国教育网的级域名,也就是说,一定以edu.cn结尾。"], "answer": ["错误"], "id": "q1006", "path": "screenshot/data/q1006.png"}
+{"type": "判断题", "score": "5分", "question": ["国家留学网,只提供公派出国留学资助,与自费留学生没有关系。"], "answer": ["错误"], "id": "q1007", "path": "screenshot/data/q1007.png"}
+{"type": "多选题", "score": "5分", "question": ["信息素养为什么能促进效率的提示?"], "answer": ["良好的信息素养有助于发现新资源", "良好的信息素养有助于发现新方法c", "良好的信息素养有助于资源、工具和方法的融会贯通"], "id": "q1009", "path": "screenshot/data/q1009.png"}
+{"type": "单选题", "score": "5分", "question": ["信息素养和终身学习是信息社会的灯塔,照亮了通向发展、繁荣和自由的道路。这句话的出处是()。"], "answer": ["亚历山大宣言"], "id": "q1010", "path": "screenshot/data/q1010.png"}
+{"type": "多选题", "score": "5分", "question": ["下列能够体现一个人信息素养的有()。"], "answer": ["能够用合适的信息工具管理自己获取的信息及信息资源。", "确定了信息需求,知道从什么地方获取信息。", "能够把自己遇到的问题,转化为具体的信息需求。"], "id": "q1011", "path": "screenshot/data/q1011.png"}
+{"type": "多选题", "score": "5分", "question": ["良好的信息素养,可以帮助我们()。"], "answer": ["培养终身学习的能力", "找到解决问题的方法和思路", "提升解决问题的质量", "可以把问题解决的更快"], "id": "q1012", "path": "screenshot/data/q1012.png"}
+{"type": "多选题", "score": "5分", "question": ["下列能力属于信息素养范畴的有()。"], "answer": ["信息检索能力", "信息应用能力", "c信息评价能力", "信息获取能力"], "id": "q1013", "path": "screenshot/data/q1013.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些宣言提到了“信息素养”和“终身学习”这两个概念?"], "answer": ["布拉格宣言", "亚历山大宣言"], "id": "q1014", "path": "screenshot/data/q1014.png"}
+{"type": "判断题", "score": "5分", "question": ["将信息素养教育置于终身学习能力培养的语境下,从培养信息意识、探究精神出发,训练学生基于信息解决问题的能力和素质,这也许是新时代信息素养教育的突破点和着力点。"], "answer": ["正确"], "id": "q1016", "path": "screenshot/data/q1016.png"}
+{"type": "判断题", "score": "5分", "question": ["一个具有信息素养的人,不仅具有各种信息能力,而且还要具有信息意"], "answer": ["正确"], "id": "q1017", "path": "screenshot/data/q1017.png"}
+{"type": "判断题", "score": "5分", "question": ["通过获取信息,在探究中解决问题的过程,其实也是终身学习的过程。"], "answer": ["正确"], "id": "q1018", "path": "screenshot/data/q1018.png"}
+{"type": "判断题", "score": "5分", "question": ["信息素养教育就是教学生掌握学术文献检索的方法。"], "answer": ["错误"], "id": "q1019", "path": "screenshot/data/q1019.png"}
+{"type": "判断题", "score": "5分", "question": ["信息素养有助于我们找到解决问题的思路。"], "answer": ["正确"], "id": "q1020", "path": "screenshot/data/q1020.png"}
+{"type": "判断题", "score": "5分", "question": ["获取信息,自主学习,既能学会想学的知识和技能,又能培养终身学习7"], "answer": ["正确"], "id": "q1021", "path": "screenshot/data/q1021.png"}
+{"type": "判断题", "score": "5分", "question": ["良好的信息素养可以提升解决问题的效率和质量。"], "answer": ["正确"], "id": "q1022", "path": "screenshot/data/q1022.png"}
+{"type": "判断题", "score": "5分", "question": ["良好的信息素养有助于发现新资源、新工具、新方法,这些新资源、新工具、新方法不仅可以直接提升解决问题效率和质量,而且在解决问题的过程中促进自身能力的提升。"], "answer": ["正确"], "id": "q1023", "path": "screenshot/data/q1023.png"}
+{"type": "判断题", "score": "5分", "question": ["终身学习指的是,为适应社会发展和实现个体发展的需要,贯穿于人的生的,持续不断的学习过程。"], "answer": ["正确"], "id": "q1024", "path": "screenshot/data/q1024.png"}
+{"type": "判断题", "score": "5分", "question": ["一个具有信息素养的人,要有信息意识。无论遇到什么事,都能够首先到必须先了解相关信息,用信息来解决。"], "answer": ["正确"], "id": "q1025", "path": "screenshot/data/q1025.png"}
