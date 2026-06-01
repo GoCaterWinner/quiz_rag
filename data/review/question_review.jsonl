@@ -1,150 +1,218 @@
-{"id": "q005", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q005.png"}
-{"id": "q022", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q022.png"}
-{"id": "q049", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q049.png"}
-{"id": "q058", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q058.png"}
-{"id": "q061", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q061.png"}
-{"id": "q073", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q073.png"}
-{"id": "q118", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q118.png"}
-{"id": "q129", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q129.png"}
-{"id": "q141", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q141.png"}
-{"id": "q156", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q156.png"}
-{"id": "q179", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q179.png"}
-{"id": "q190", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["多选题出现答案数目问题"], "path": "screenshot/data/q190.png"}
-{"id": "q210", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q210.png"}
-{"id": "q211", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["多选题出现答案数目问题"], "path": "screenshot/data/q211.png"}
-{"id": "q218", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q218.png"}
-{"id": "q219", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q219.png"}
-{"id": "q230", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["多选题出现答案数目问题"], "path": "screenshot/data/q230.png"}
-{"id": "q254", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q254.png"}
-{"id": "q283", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q283.png"}
-{"id": "q316", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q316.png"}
-{"id": "q355", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q355.png"}
-{"id": "q361", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q361.png"}
-{"id": "q362", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q362.png"}
-{"id": "q370", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q370.png"}
-{"id": "q376", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q376.png"}
-{"id": "q380", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q380.png"}
-{"id": "q387", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q387.png"}
-{"id": "q399", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q399.png"}
-{"id": "q400", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q400.png"}
-{"id": "q407", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q407.png"}
-{"id": "q408", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q408.png"}
-{"id": "q426", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误"], "path": "screenshot/data/q426.png"}
-{"id": "q435", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q435.png"}
-{"id": "q443", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q443.png"}
-{"id": "q444", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q444.png"}
-{"id": "q457", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q457.png"}
-{"id": "q458", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q458.png"}
-{"id": "q468", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q468.png"}
-{"id": "q469", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q469.png"}
-{"id": "q474", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q474.png"}
-{"id": "q479", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q479.png"}
-{"id": "q481", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q481.png"}
-{"id": "q492", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q492.png"}
-{"id": "q497", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q497.png"}
-{"id": "q499", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": ["答案出现空集合错误"], "path": "screenshot/data/q499.png"}
-{"id": "q500", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q500.png"}
-{"id": "q504", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q504.png"}
-{"id": "q505", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q505.png"}
-{"id": "q510", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": ["答案出现空集合错误"], "path": "screenshot/data/q510.png"}
-{"id": "q517", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q517.png"}
-{"id": "q522", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q522.png"}
-{"id": "q523", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q523.png"}
-{"id": "q527", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q527.png"}
-{"id": "q528", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q528.png"}
-{"id": "q530", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["多选题出现答案数目问题"], "path": "screenshot/data/q530.png"}
-{"id": "q544", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q544.png"}
-{"id": "q547", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q547.png"}
-{"id": "q548", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q548.png"}
-{"id": "q549", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q549.png"}
-{"id": "q550", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q550.png"}
-{"id": "q551", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q551.png"}
-{"id": "q553", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q553.png"}
-{"id": "q561", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q561.png"}
-{"id": "q570", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q570.png"}
-{"id": "q572", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q572.png"}
-{"id": "q578", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q578.png"}
-{"id": "q581", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q581.png"}
-{"id": "q589", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q589.png"}
-{"id": "q590", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q590.png"}
-{"id": "q597", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["多选题出现答案数目问题"], "path": "screenshot/data/q597.png"}
-{"id": "q600", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q600.png"}
-{"id": "q612", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q612.png"}
-{"id": "q621", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q621.png"}
-{"id": "q623", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q623.png"}
-{"id": "q626", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q626.png"}
-{"id": "q642", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q642.png"}
-{"id": "q650", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q650.png"}
-{"id": "q651", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q651.png"}
-{"id": "q658", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["多选题出现答案数目问题"], "path": "screenshot/data/q658.png"}
-{"id": "q663", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q663.png"}
-{"id": "q665", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q665.png"}
-{"id": "q670", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q670.png"}
-{"id": "q683", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q683.png"}
-{"id": "q688", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q688.png"}
-{"id": "q700", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q700.png"}
-{"id": "q703", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q703.png"}
-{"id": "q713", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q713.png"}
-{"id": "q714", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q714.png"}
-{"id": "q715", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q715.png"}
-{"id": "q722", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q722.png"}
-{"id": "q727", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": ["答案出现空集合错误"], "path": "screenshot/data/q727.png"}
-{"id": "q728", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q728.png"}
-{"id": "q732", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q732.png"}
-{"id": "q737", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q737.png"}
-{"id": "q738", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q738.png"}
-{"id": "q740", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q740.png"}
-{"id": "q742", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q742.png"}
-{"id": "q745", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q745.png"}
-{"id": "q749", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q749.png"}
-{"id": "q753", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q753.png"}
-{"id": "q762", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q762.png"}
-{"id": "q770", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q770.png"}
-{"id": "q773", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q773.png"}
-{"id": "q795", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q795.png"}
-{"id": "q803", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q803.png"}
-{"id": "q805", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q805.png"}
-{"id": "q812", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q812.png"}
-{"id": "q814", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q814.png"}
-{"id": "q818", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q818.png"}
-{"id": "q819", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["多选题出现答案数目问题"], "path": "screenshot/data/q819.png"}
-{"id": "q834", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误"], "path": "screenshot/data/q834.png"}
-{"id": "q843", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q843.png"}
-{"id": "q845", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q845.png"}
-{"id": "q849", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q849.png"}
-{"id": "q852", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q852.png"}
-{"id": "q863", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q863.png"}
-{"id": "q868", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误"], "path": "screenshot/data/q868.png"}
-{"id": "q870", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q870.png"}
-{"id": "q873", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["多选题出现答案数目问题"], "path": "screenshot/data/q873.png"}
-{"id": "q878", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q878.png"}
-{"id": "q884", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q884.png"}
-{"id": "q890", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q890.png"}
-{"id": "q894", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q894.png"}
-{"id": "q895", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q895.png"}
-{"id": "q900", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q900.png"}
-{"id": "q906", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q906.png"}
-{"id": "q908", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q908.png"}
-{"id": "q909", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q909.png"}
-{"id": "q914", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q914.png"}
-{"id": "q916", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["多选题出现答案数目问题"], "path": "screenshot/data/q916.png"}
-{"id": "q922", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q922.png"}
-{"id": "q924", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q924.png"}
-{"id": "q925", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q925.png"}
-{"id": "q944", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": ["答案出现空集合错误"], "path": "screenshot/data/q944.png"}
-{"id": "q945", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q945.png"}
-{"id": "q947", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q947.png"}
-{"id": "q950", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q950.png"}
-{"id": "q953", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q953.png"}
-{"id": "q956", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q956.png"}
-{"id": "q958", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q958.png"}
-{"id": "q968", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q968.png"}
-{"id": "q971", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q971.png"}
-{"id": "q984", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q984.png"}
-{"id": "q993", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "分数错误, 只有5分的好吗!", "question_error": [], "answer_error": [], "path": "screenshot/data/q993.png"}
-{"id": "q995", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q995.png"}
-{"id": "q996", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q996.png"}
-{"id": "q1008", "type_error": "", "score_error": "", "question_error": [], "answer_error": ["答案出现空集合错误", "单选题出现答案数目问题"], "path": "screenshot/data/q1008.png"}
-{"id": "q1015", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q1015.png"}
-{"id": "q1026", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q1026.png"}
-{"id": "q1027", "type_error": "题目类型错误, 极可能出现错位现象", "score_error": "", "question_error": [], "answer_error": [], "path": "screenshot/data/q1027.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中检索2010--2015年间,中华医学会举办的,题名中包含基因工程”,并且会议名称不包含“中华医学会走向世界医药卫生科学技术新进展学术议”的会议论文,检索结果显示的论文数量最接近下列哪个选项?"], "answer": [], "id": "q005", "path": "screenshot/data/q005.png"}
+{"type": "5分", "score": "CNKI还可以查询会议文献，在CNKI中查询2020年7月“AI的权利义务与", "question": ["NKI还可以查询会议文献,在NKI中查询2020年7月“I的权利义务与2020世界人工智能大会法治论坛”上、题目中含有“人工智能”的会议文献专?"], "answer": ["13篇"], "id": "q022", "path": "screenshot/data/q022.png"}
+{"type": "单选题", "score": "5分", "question": ["在国家知识产权局旗下的专利检索及分析系统中可以找到一个名为“种物关网应用充电宝加工用夹持装置”专利文献(发明专利申请单行本),这个专利文献共8页,最后两页是附图。请问第7页(也就是附图的第一页)有几张图?"], "answer": [], "id": "q049", "path": "screenshot/data/q049.png"}
+{"type": "川断题", "score": "5分", "question": ["川断题PZ格式是超星数据库独有的电子书格式,需要安装超星阅读器才可以h°"], "answer": ["正确"], "id": "q058", "path": "screenshot/data/q058.png"}
+{"type": "可断题", "score": "5分", "question": ["做自己的大学四年规划,最好先看别人的反思。别人的反思,可以从互可断题关网上查找。"], "answer": ["正确"], "id": "q061", "path": "screenshot/data/q061.png"}
+{"type": "题", "score": "5分", "question": ["题在webofscience的检索结果界面,有多个筛选项,其中包括"], "answer": ["研究类型", "研究方向", "出版年"], "id": "q073", "path": "screenshot/data/q073.png"}
+{"type": "题", "score": "5分", "question": ["题NKI检索是免费的,只要能上互联网,就能用NKI检索文献。"], "answer": ["正确"], "id": "q118", "path": "screenshot/data/q118.png"}
+{"type": "选题", "score": "5分", "question": ["选题卜列属于webofscience核心合集子库的有()。"], "answer": ["ESI", "SIE", "PI"], "id": "q129", "path": "screenshot/data/q129.png"}
+{"type": "题", "score": "5分", "question": ["题在Miner首页的搜索框中,输入关键词,中英文都可以。"], "answer": ["正确"], "id": "q141", "path": "screenshot/data/q141.png"}
+{"type": "判断题", "score": "5分", "question": ["在cnki中,我们可以对全部检索结果进行文献分析。"], "answer": [], "id": "q156", "path": "screenshot/data/q156.png"}
+{"type": "断题", "score": "5分", "question": ["断题在Miner首页的搜索框中,输入关键词,中英文都可以。"], "answer": ["正确"], "id": "q179", "path": "screenshot/data/q179.png"}
+{"type": "多选题", "score": "5分", "question": ["关于pubmed,下列说法中正确的有()。"], "answer": ["pubmed是一个生物医学方面的学术检索系统。"], "id": "q190", "path": "screenshot/data/q190.png"}
+{"type": "选题", "score": "5分", "question": ["选题在MeSH医学主题词表中,下列哪些词对应的主题词是“MedicallnformS\""], "answer": ["linical Informatics", "Medical omputer Science", "Health Information Technology"], "id": "q210", "path": "screenshot/data/q210.png"}
+{"type": "多选题", "score": "5分", "question": ["关于pubmed,下列说法中正确的有()。"], "answer": ["pubmed是一个生物医学方面的学术检索系统。"], "id": "q211", "path": "screenshot/data/q211.png"}
+{"type": "断题", "score": "5分", "question": ["有些国外专利,NKI提供了外链,在这些外链的网站,也许能找到专利断题文。"], "answer": ["正确"], "id": "q218", "path": "screenshot/data/q218.png"}
+{"type": "川断题", "score": "5分", "question": ["川断题GoO是一个O资源搜索平台,只能搜索学术论文。"], "answer": ["错误"], "id": "q219", "path": "screenshot/data/q219.png"}
+{"type": "多选题", "score": "5分", "question": ["在NKI中查询,复旦大学2020年之前发表的篇名中既含“人工智能”又合大数据”的SSI论文,下列论文符合上述条件的有?"], "answer": ["大数据就意味着大智慧吗一一兼论作为信息技术发展新方向的“绿色人工智"], "id": "q230", "path": "screenshot/data/q230.png"}
+{"type": "5分", "score": "pubmed的高级检索是通过PubMedAdvancedSearchBuilder构造检", "question": ["pubmed的高级检索是通过PubMeddvancedSearchuilder构造检达式实现的。"], "answer": ["正确"], "id": "q254", "path": "screenshot/data/q254.png"}
+{"type": "单选题", "score": "5分", "question": ["国家知识产权局旗下的专利检索与分析系统(https://pss-system.cporne.cnipa.gov.cn/)有一个高级检索功能。在这个高级检索界面,有一个设置申请日的选项,可以设置两个时间点之间的时间区间。请问要设置这个时间区间,需要选择勺连接符是()。"], "answer": [], "id": "q283", "path": "screenshot/data/q283.png"}
+{"type": "利断题", "score": "5分", "question": ["有些平台,我们无需注册平台自身的账号密码,可以直接用qq或微信进利断题授权登录。"], "answer": ["正确"], "id": "q316", "path": "screenshot/data/q316.png"}
+{"type": "项", "score": "5分", "question": ["银符考试题目,只能通过电脑浏览器访问,没有手机PP。项"], "answer": ["错误"], "id": "q355", "path": "screenshot/data/q355.png"}
+{"type": "选题", "score": "5分", "question": ["选题查询化妆品的注册备案信息,可以去()网站。"], "answer": ["药品监督管理局"], "id": "q361", "path": "screenshot/data/q361.png"}
+{"type": "川断题", "score": "5分", "question": ["川断题用联图网二维码生成器生成的二维码,用微信和QQ都可以扫描出来"], "answer": ["正确"], "id": "q362", "path": "screenshot/data/q362.png"}
+{"type": "多", "score": "选题", "question": ["多选题关于腾讯微云,下列说法正确的有()。"], "answer": ["腾讯微云中PPT文档可以在线分享", "腾讯微云的基本功能是免费的。", "腾讯微云是一个云盘。c"], "id": "q370", "path": "screenshot/data/q370.png"}
+{"type": "断题", "score": "5分", "question": ["断题用联图网二维码生成器生成的二维码,用微信和QQ都可以扫描出来。"], "answer": ["正确"], "id": "q376", "path": "screenshot/data/q376.png"}
+{"type": "5分", "score": "有些平台，我们无需注册平台自身的账号密码，可以直接用qq或微信进", "question": ["有些平台,我们无需注册平台自身的账号密码,可以直接用qq或微信进录。"], "answer": ["正确"], "id": "q380", "path": "screenshot/data/q380.png"}
+{"type": "单选题", "score": "5分", "question": ["查医疗器械的注册备案信息,可以去()网站。"], "answer": [], "id": "q387", "path": "screenshot/data/q387.png"}
+{"type": "题", "score": "5分", "question": ["中国大学MOO的课程只能在手机上安装PP进行学习,在电脑端是无题用的。"], "answer": ["错误"], "id": "q399", "path": "screenshot/data/q399.png"}
+{"type": "利断题", "score": "5分", "question": ["做自己的大学四年规划,最好先看别人的反思。别人的反思,可以从互利断题网上查找。"], "answer": ["正确"], "id": "q400", "path": "screenshot/data/q400.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学图书馆有一个在线的古籍及特藏阅览区,实质上是一个同社会开放的机构知识库,里面有十多个资源库,其中包括Threadoundooksbefoe1949。这个资源库收录1949年之前的线装书。在这个资源库中查找名为《孟子音羲》的文献。请问这本文献在这个平台上共有多少个页面?"], "answer": [], "id": "q407", "path": "screenshot/data/q407.png"}
+{"type": "单选题", "score": "5分", "question": ["在美国国会图书馆网站上找到“大明一统山河图”。这事一个地图集。,这个地图集共有几张地图?"], "answer": [], "id": "q408", "path": "screenshot/data/q408.png"}
+{"type": "选题", "score": "5分", "question": ["2022年以前武汉大学黄如花教授发表的论文被人大复印报刊资料数据库选题文转载的数量与下列哪个数字最接近?"], "answer": [], "id": "q426", "path": "screenshot/data/q426.png"}
+{"type": "选题", "score": "5分", "question": ["选题在cnki的专利高级检索界面,系统提供的检索点包括()。"], "answer": ["申请人", "发明人", "c公开号", "关键词"], "id": "q435", "path": "screenshot/data/q435.png"}
+{"type": "选题", "score": "5分", "question": ["选题探索一下,看下面哪个网址是习近平系列重要讲话数据库的地址。"], "answer": ["http://jhsjk.people.cn"], "id": "q443", "path": "screenshot/data/q443.png"}
+{"type": "单选题", "score": "5分", "question": ["请在MiTTheses找到博士论文《Theroleofreal-worldsize inobjecepresentation》。请问这个网站上这篇博士论文全文pdf文件大小与下面哪个最接"], "answer": [], "id": "q444", "path": "screenshot/data/q444.png"}
+{"type": "选题", "score": "5分", "question": ["选题国家知识产权局旗下的专利检索与分析系统(https://pss-system.cpqline.cnipa.gov.cn)提供检索结果统计功能,请问具体的统计字段包括()。"], "answer": ["发明人", "申请日", "代理人"], "id": "q457", "path": "screenshot/data/q457.png"}
+{"type": "川断题", "score": "5分", "question": ["miner不仅可以找到作者的研究成果,而且能从文献计量的角度对作者川断题行评价。"], "answer": ["正确"], "id": "q458", "path": "screenshot/data/q458.png"}
+{"type": "选题", "score": "5分", "question": ["下列可以查找古地图的网站是选题()。"], "answer": ["数位方舆"], "id": "q468", "path": "screenshot/data/q468.png"}
+{"type": "题", "score": "5分", "question": ["题在美国国会图书馆网站可以找到多种数字化文献。其中包括()"], "answer": ["地图", "电子书", "报纸", "照片"], "id": "q469", "path": "screenshot/data/q469.png"}
+{"type": "选题", "score": "5分", "question": ["通过国家高等教育智慧教育平台,可以找到下列哪些平台的课程?选题"], "answer": ["中国大学MOO", "学堂在线", "智慧树"], "id": "q474", "path": "screenshot/data/q474.png"}
+{"type": "断题", "score": "5分", "question": ["断题SOP3(后面这3,是次方)一般指的是高能物理开放获取出版资助"], "answer": ["正确"], "id": "q479", "path": "screenshot/data/q479.png"}
+{"type": "5分", "score": "哈佛大学网站上有专门的在线课程平台，其中的在线课程都是免费的。", "question": ["哈佛大学网站上有专门的在线课程平台,其中的在线课程都是免费的。"], "answer": ["错误"], "id": "q481", "path": "screenshot/data/q481.png"}
+{"type": "选题", "score": "5分", "question": ["选题0中国专利公布公告系统提供的查询功能包括"], "answer": ["LO分类查询", "IP分类查询", "高级查询"], "id": "q492", "path": "screenshot/data/q492.png"}
+{"type": "6分", "score": "在美国国会图书馆网站上找电子书，只要能找到，一般就能免费获取完", "question": ["在美国国会图书馆网站上找电子书,只要能找到,一般就能免费获取完6分"], "answer": ["错误"], "id": "q497", "path": "screenshot/data/q497.png"}
+{"type": "Aminer不仅可以找到作者的研究成果，而且能从文献计量的角度对作者", "score": "错误", "question": ["miner不仅可以找到作者的研究成果,而且能从文献计量的角度对作者"], "answer": [], "id": "q499", "path": "screenshot/data/q499.png"}
+{"type": "5分", "score": "Aminer不仅可以找到作者的研究成果，而且能从文献计量的角度对作者", "question": ["miner不仅可以找到作者的研究成果,而且能从文献计量的角度对作者"], "answer": ["正确"], "id": "q500", "path": "screenshot/data/q500.png"}
+{"type": "单选题", "score": "5分", "question": ["在美国国会图书馆网站上找到“大明一统山河图”。这事一个地图集。请,这个地图集共有几张地图?"], "answer": [], "id": "q504", "path": "screenshot/data/q504.png"}
+{"type": "单选题", "score": "5分", "question": ["图书平台上的中国古旧地图知识库中查找名为“围头巡司图说”的古旧地图。请问,这张地图在这个平台上标注的尺寸是()。"], "answer": [], "id": "q505", "path": "screenshot/data/q505.png"}
+{"type": "PDF", "score": "DOCX", "question": ["PF"], "answer": [], "id": "q510", "path": "screenshot/data/q510.png"}
+{"type": "斤题", "score": "5分", "question": ["斤题有些国外专利,NKI提供了外链,在这些外链的网站,也许能找到专利"], "answer": ["正确"], "id": "q517", "path": "screenshot/data/q517.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学图书馆有一个在线的古籍及特藏阅览区,实质上是一个向社会开放的机构知识库,里面有十多个资源库,其中包括Threadoundooksbefore1949。这个资源库收录1949年之前的线装书。在这个资源库中查找名为《孟子音义》为文献。请问这本文献在这个平台上共有多少个页面?"], "answer": [], "id": "q522", "path": "screenshot/data/q522.png"}
+{"type": "选题", "score": "5分", "question": ["在美国国会图书馆网站上找到“大清万年一统天下全图”。请问,在这选题站上,这张图的TIFF格式下载文件是多大?"], "answer": ["1.3G"], "id": "q523", "path": "screenshot/data/q523.png"}
+{"type": "单选题", "score": "5分", "question": ["香港科技大学图书馆有一个在线的古籍及特藏阅览区,实质上是一个向社会开放的机构知识库,里面有十多个资源库,其中包括ntiqueMapsofhina。这个资源库收录不少中国古旧地图。在这个资源库中查找名为《Maptoillustratethevarinhina》地图。请问这张题图的尺寸是?"], "answer": [], "id": "q527", "path": "screenshot/data/q527.png"}
+{"type": "选题", "score": "5分", "question": ["选题探索一下,看下面哪个网址是习近平系列重要讲话数据库的地址"], "answer": ["http://jhsjk.people.cn"], "id": "q528", "path": "screenshot/data/q528.png"}
+{"type": "多选题", "score": "5分", "question": ["在Scienceirect中查找标题中含有psychology,且来源于期刊MethodinPsychology的文章,下列符合条件的有?"], "answer": ["checklist to assess the quality of survey studies in psychology"], "id": "q530", "path": "screenshot/data/q530.png"}
+{"type": "选题", "score": "5分", "question": ["选题找我国专利单行本,可以去()官网,这个网站上提供专利单行本的免询。"], "answer": ["国家知识产权局"], "id": "q544", "path": "screenshot/data/q544.png"}
+{"type": "单选题", "score": "5分", "question": ["在中国家谱知识服务平台上可以找到《蓉城叶氏宗族全谱八卷》(194撰修),请问第三卷(测)的影印页数是多少?"], "answer": [], "id": "q547", "path": "screenshot/data/q547.png"}
+{"type": "选题", "score": "5分", "question": ["下列可以免费检索下载古旧地图的网站是()。选题"], "answer": ["美国国会图书馆 (https://www.loc.gov/)"], "id": "q548", "path": "screenshot/data/q548.png"}
+{"type": "选题", "score": "5分", "question": ["Scienceirect全文文献数据库高级检索界面包括哪些限制条件?选题"], "answer": ["作者", "ISSN或ISN", "参考文献"], "id": "q549", "path": "screenshot/data/q549.png"}
+{"type": "选题", "score": "5分", "question": ["选题ncbi的pmc数据库,可以免费获取生物医学领域的全文文献,请问,pm是供的全文格式有()。"], "answer": ["PF", "HTML(网页版)", "PubReader"], "id": "q550", "path": "screenshot/data/q550.png"}
+{"type": "选题", "score": "5分", "question": ["选题在菜鸟教程这个学习平台上,可以找到()等方面的教程内容。"], "answer": ["Python", "RSS", "++", "R语言"], "id": "q551", "path": "screenshot/data/q551.png"}
+{"type": "选题", "score": "5分", "question": ["关于用万方数据库获取学位论文,下列说法正确的有()。选题"], "answer": ["万方数据库不仅可以查找学位论文,还可以找期刊论文,会议论文等。", "除了万方,NKI、PQT等数据库也可以找学位论文。", "万方数据库除了提供基本检索,还提供专业检索和高级检索功能。", "在万方数据库中获取学位论文需要权限,如果学校购买了权限,不仅可以在阅读,还可以下载全文。"], "id": "q553", "path": "screenshot/data/q553.png"}
+{"type": "新题", "score": "5分", "question": ["新题找墓志拓片影印版,可以试试中国历代墓志数据库。访问这个数据库购买。"], "answer": ["错误"], "id": "q561", "path": "screenshot/data/q561.png"}
+{"type": "5分", "score": "关于书格（https://new.shuge.org），下列说法正确的有（）。", "question": ["关于书格(https://new.shuge.org),下列说法正确的有()。"], "answer": ["书格是一个查找古籍影印本的网站,收录了很多高质量的数字化古籍善本。", "c书格提供一站式检索,也可以分类浏览。"], "id": "q570", "path": "screenshot/data/q570.png"}
+{"type": "选题", "score": "5分", "question": ["选题请问,在arXiv中可以分学科查询文献,请问这个网站上可以找到哪些学大类?"], "answer": ["数学", "物理学", "生物学"], "id": "q572", "path": "screenshot/data/q572.png"}
+{"type": "新题5分", "score": "CNKI中获取的某些标准文献，PDF全文做了加密处理，需要特殊的阅读", "question": ["新题5分NKI中获取的某些标准文献,PF全文做了加密处理,需要特殊的阅读才能打开。"], "answer": ["正确"], "id": "q578", "path": "screenshot/data/q578.png"}
+{"type": "5分", "score": "我国各省标准地图服务系统，界面和功能都是统一的，只是内容不同", "question": ["我国各省标准地图服务系统,界面和功能都是统一的,只是内容不同"], "answer": ["错误"], "id": "q581", "path": "screenshot/data/q581.png"}
+{"type": "选题", "score": "5分", "question": ["选题在一席的平台上,有一个名为《没有回家的士兵》的演讲,请问这个演讲演讲者是谁?"], "answer": ["孙春龙"], "id": "q589", "path": "screenshot/data/q589.png"}
+{"type": "选题", "score": "5分", "question": ["选题下列古籍影印版,能在书格这个网站上找到,且PF文件大小超过200M()有0"], "answer": ["新修成都府志.58卷.明.冯任.修.张世雍等纂.明天启元年刊本", "c北京皇城建筑装饰.附图80叶.东京帝国大学工科大学编.小川一真出版部刊.1906年 (原色版)", "(原色版)绘事琐言"], "id": "q590", "path": "screenshot/data/q590.png"}
+{"type": "多选题", "score": "5分", "question": ["关于pubmed,下列说法中正确的有()。"], "answer": ["pubmed是一个生物医学方面的学术检索系统。"], "id": "q597", "path": "screenshot/data/q597.png"}
+{"type": "5分", "score": "高校信息素养教育数据库（https://suyang.zxhnzq.com）中有微视频", "question": ["高校信息素养教育数据库(https://suyang.zxhnzq.com)中有微视频"], "answer": ["正确"], "id": "q600", "path": "screenshot/data/q600.png"}
+{"type": "题", "score": "5分", "question": ["题古腾堡(http://www.gutenberg.org/)提供哪些书籍格式下载?"], "answer": ["Kindle", "Plain text", "EPU"], "id": "q612", "path": "screenshot/data/q612.png"}
+{"type": "断题", "score": "5分", "question": ["断题用联图网二维码生成器生成的二维码,用微信和QQ都可以扫描出来。"], "answer": ["正确"], "id": "q621", "path": "screenshot/data/q621.png"}
+{"type": "断题", "score": "5分", "question": ["断题Miner是一个网站,也是一个检索系统,还是一个数据挖掘平台,由清大学唐杰教授领衔研发,使用需要付费。"], "answer": ["错误"], "id": "q623", "path": "screenshot/data/q623.png"}
+{"type": "选题", "score": "5分", "question": ["NKI还可以查询会议文献,在NKI中查询2020年7月“I的权利义务与选题治实践一—2020世界人工智能大会法治论坛”上、题目中含有“人工智能”的会议文献多少篇?"], "answer": ["13篇"], "id": "q626", "path": "screenshot/data/q626.png"}
+{"type": "利断题", "score": "5分", "question": ["利断题ncbi的官网上整合了很多数据库,检索这些数据库一般是免费的。"], "answer": ["正确"], "id": "q642", "path": "screenshot/data/q642.png"}
+{"type": "选题", "score": "5分", "question": ["请问,10.3772/j.issn.1673-2286.2020.04.005这个0i对应的学术论选题()目是"], "answer": ["基于图数据库的贵州省大数据政策知识建模研究"], "id": "q650", "path": "screenshot/data/q650.png"}
+{"type": "选题", "score": "5分", "question": ["专利名为“电子图像的自动播放方法、装置、设备及存储介质”的申请号及选题月人为()。"], "answer": ["N202010728370.2,叶春毅;刘美兰;"], "id": "q651", "path": "screenshot/data/q651.png"}
+{"type": "多选题", "score": "5分", "question": ["关于中图分类号描述正确的是"], "answer": ["由字母和数字组成,部分还带有标记符号"], "id": "q658", "path": "screenshot/data/q658.png"}
+{"type": "题", "score": "5分", "question": ["题PZ格式是超星数据库独有的电子书格式,需要安装超星阅读器才可以"], "answer": ["正确"], "id": "q663", "path": "screenshot/data/q663.png"}
+{"type": "选题", "score": "5分", "question": ["在汇雅电子书数据库中查找由广西人民出版社出版的王国维的著作《人间选题话》第11页引用了谁的话?"], "answer": ["尼采"], "id": "q665", "path": "screenshot/data/q665.png"}
+{"type": "选题", "score": "5分", "question": ["专利名为“电子图像的自动播放方法、装置、设备及存储介质”的申请号选题发明人为()。"], "answer": ["N202010728370.2,叶春毅;刘美兰;"], "id": "q670", "path": "screenshot/data/q670.png"}
+{"type": "断题", "score": "5分", "question": ["国家知识产权局旗下的专利检索与分析系统(https://pss-system.cpo断题ne.cnipa.gov.cn),,无需注册登录,检索完全免费,可以获取专利全文。"], "answer": ["错误"], "id": "q683", "path": "screenshot/data/q683.png"}
+{"type": "单选题", "score": "5分", "question": ["网易公开课上有翻译过的TE演讲,其中的一个,是个汤姆·查特菲尔德所做的《游戏奖励大脑的7种方式》,请问这个演讲视频的时长最接近于下面哪个?"], "answer": [], "id": "q688", "path": "screenshot/data/q688.png"}
+{"type": "断题", "score": "5分", "question": ["断题PZ格式是超星数据库独有的电子书格式,需要安装超星阅读器才可以Lo"], "answer": ["正确"], "id": "q700", "path": "screenshot/data/q700.png"}
+{"type": "J断题", "score": "5分", "question": ["J断题万彩办公大师使用时必须连接互联网"], "answer": ["错误"], "id": "q703", "path": "screenshot/data/q703.png"}
+{"type": "选题", "score": "5分", "question": ["选题下列命令,可以合并当前目录下所有记事本文件到一个名为“1.txt”文件()。"], "answer": ["copy *.txt 1.txt"], "id": "q713", "path": "screenshot/data/q713.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,属于鼠标手势工具的是()。"], "answer": [], "id": "q714", "path": "screenshot/data/q714.png"}
+{"type": "单选题", "score": "5分", "question": ["十九大报告中使用频次最高的字是下面哪个?{提醒:用词频统计工具nttp://corpus.zhonghuayuwen.org)}"], "answer": [], "id": "q715", "path": "screenshot/data/q715.png"}
+{"type": "5分", "score": "遇到问题，知道需要什么信息。这体现了信息素养中的（）能力", "question": ["遇到问题,知道需要什么信息。这体现了信息素养中的()能力"], "answer": ["信息需求识别"], "id": "q722", "path": "screenshot/data/q722.png"}
+{"type": "+", "score": "口", "question": ["口+G文suyang.zxhnzq.com6New chat******手机号:姓名:***学/工号:上海海事大学欢迎您~QSearchSkills8高校信息素养教育数据库学习记录搜索ProjectsInformation Literacy Tutorials atabase for Higher Education软件测试论文撰写论文竞赛平台教学资源O资源特色专题考试题库直播讲座精品微课首页quiz_rag_projeo评估项目简历加优化 vector_sea检查脚本到src迁53213.下列属于WGestures中操作的有()。检查当前实现810摩擦边796现在你要做的就Showmore文件整理1512131411Igent新增流程图文件201718批量更名1619修正PPT图片越nnUNet_ttenti触发角这个代码逻辑有iVMamba广へ★No chats正确答案:你的答案:未作答hatsNochats解析批量更名和文件整理不是WGestures的操作0FullaccessSettingsright_code5.5Medium个屏"], "answer": [], "id": "q727", "path": "screenshot/data/q727.png"}
+{"type": "下列属于WGestures中操作的有", "score": "（）。", "question": ["下列属于WGestures中操作的有()。"], "answer": ["摩擦边", "触发角"], "id": "q728", "path": "screenshot/data/q728.png"}
+{"type": "选题", "score": "5分", "question": ["选题在cnki的期刊导航中,在学科导航→信息科技学科大类下,有十多个学科,其中包括"], "answer": ["出版", "图书情报与数字图书馆"], "id": "q732", "path": "screenshot/data/q732.png"}
+{"type": "川断题", "score": "5分", "question": ["川断题查找资源,既可以搜索,也可以用导航。比如cnki,就提供了期刊导航七。"], "answer": ["正确"], "id": "q737", "path": "screenshot/data/q737.png"}
+{"type": "斤题", "score": "5分", "question": ["斤题WGestures是一个文件整理工具,使用需要付费。"], "answer": ["错误"], "id": "q738", "path": "screenshot/data/q738.png"}
+{"type": "新题", "score": "5分", "question": ["新题用联图网二维码生成器生成的二维码,用微信和QQ都可以扫描出来"], "answer": ["正确"], "id": "q740", "path": "screenshot/data/q740.png"}
+{"type": "J断题", "score": "5分", "question": ["J断题万彩办公大师使用时必须连接互联网"], "answer": ["错误"], "id": "q742", "path": "screenshot/data/q742.png"}
+{"type": "断题", "score": "5分", "question": ["断题遇到未知问题,搜攻略,找思路,有时候可以大幅度提升解决问题的效和质量。"], "answer": ["正确"], "id": "q745", "path": "screenshot/data/q745.png"}
+{"type": "单选题", "score": "5分", "question": ["下列关于屏幕画笔工具pointofix的说法,不正确的是()"], "answer": [], "id": "q749", "path": "screenshot/data/q749.png"}
+{"type": "选题", "score": "5分", "question": ["关于坚果云这个工具,下列说法正确的有()。选题"], "answer": ["坚果云是一个同步工具", "使用坚果云进行多端同步,需要安装坚果云客户端", "坚果云可以免费使用,但使用会受到限制"], "id": "q753", "path": "screenshot/data/q753.png"}
+{"type": "断题", "score": "5分", "question": ["断题微词云是一个在线工具,不用安装,登录账号即可使用,所有功能都是的。"], "answer": ["错误"], "id": "q762", "path": "screenshot/data/q762.png"}
+{"type": "单选题", "score": "5分", "question": ["下列关于屏幕画笔工具pointofix的说法,不正确的是("], "answer": [], "id": "q770", "path": "screenshot/data/q770.png"}
+{"type": "选题", "score": "5分", "question": ["使用浏览器RSS插件,在操作层面涉及的操作有()选题"], "answer": ["安装RSS阅读器插件", "查找RSSfeed", "搜索RSS阅读器插件", "在RSS阅读器中设置RSSfeed"], "id": "q773", "path": "screenshot/data/q773.png"}
+{"type": "5分", "score": "使用浏览器RSS插件，在操作层面涉及的操作有（)", "question": ["使用浏览器RSS插件,在操作层面涉及的操作有()"], "answer": ["搜索RSS阅读器插件", "查找RSS feed", "c安装RSS阅读器插件", "在RSS阅读器中设置RSSfeed"], "id": "q795", "path": "screenshot/data/q795.png"}
+{"type": "折题", "score": "5分", "question": ["折题互联网上有很多免费的效率工具,善用这些工具,可以提升解决问题的"], "answer": ["正确"], "id": "q803", "path": "screenshot/data/q803.png"}
+{"type": "断题", "score": "5分", "question": ["良好的信息素养,可以帮助我们找到好的资源,找到好的方法,找到合断题的工具。综合利用这些资源、方法、工具,可以创造性地解决问题,提升解决问题率。"], "answer": ["正确"], "id": "q805", "path": "screenshot/data/q805.png"}
+{"type": "选题", "score": "5分", "question": ["使用citespace进行文献分析,需要先采集数据。采集的数据文件,命名选题以()开头。"], "answer": ["download"], "id": "q812", "path": "screenshot/data/q812.png"}
+{"type": "选题", "score": "5分", "question": ["选题下列工具不属于文献管理工具的是()。"], "answer": ["Springer"], "id": "q814", "path": "screenshot/data/q814.png"}
+{"type": "选题", "score": "5分", "question": ["选题文献导入进网页版Endnote,可通过下面哪个功能模块?"], "answer": ["收集"], "id": "q818", "path": "screenshot/data/q818.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于文献管理工具的有()。"], "answer": ["青提学术"], "id": "q819", "path": "screenshot/data/q819.png"}
+{"type": "选题", "score": "5分", "question": ["选题()JR支持期刊评价指标数据的批量导出,导出文件格式大部分是"], "answer": [], "id": "q834", "path": "screenshot/data/q834.png"}
+{"type": "断题", "score": "5分", "question": ["断题citespace是一个文献分析工具,付费后可以使用全部功能。"], "answer": ["错误"], "id": "q843", "path": "screenshot/data/q843.png"}
+{"type": "5分", "score": "在用数据看世界(https://ourworldindata.org)这个网站中，可以找到动", "question": ["在用数据看世界(https://ourworldindata.org)这个网站中,可以找到动"], "answer": ["正确"], "id": "q845", "path": "screenshot/data/q845.png"}
+{"type": "单选题", "score": "5分", "question": ["一本期刊,2021年和2022发表的论文数量分别是400篇和600篇。这两年的论文在2023年的被引量分别800次和700次。请问,这本期刊在2023年的影响因是()。"], "answer": [], "id": "q849", "path": "screenshot/data/q849.png"}
+{"type": "颐", "score": "5分", "question": ["颐同时按下列的哪些键,可以快速在excel单元格中输入当前的时间?"], "answer": ["ctrl", "shift"], "id": "q852", "path": "screenshot/data/q852.png"}
+{"type": "断题", "score": "5分", "question": ["断题用wordart做文字云,可以选择系统内置的图形,也可以上传自己的图文件。"], "answer": ["正确"], "id": "q863", "path": "screenshot/data/q863.png"}
+{"type": "选题", "score": "5分", "question": ["选题JR支持期刊评价指标数据的批量导出,导出文件格式大部分是()。"], "answer": [], "id": "q868", "path": "screenshot/data/q868.png"}
+{"type": "选题", "score": "5分", "question": ["期刊《ppliedPhysiologyNutrition andMetabolism》(ISSN:1715-选题2)在JR基于HI的分区中,被分在()个学科中,2020年在这些学科内都属于区。"], "answer": ["3.2"], "id": "q870", "path": "screenshot/data/q870.png"}
+{"type": "多选题", "score": "5分", "question": ["关于ESI,下列说法正确的有()。"], "answer": ["ESI和SI都在webofscience核心合集中,如果有权限,都可以查到。"], "id": "q873", "path": "screenshot/data/q873.png"}
+{"type": "选题", "score": "5分", "question": ["JR期刊分区,覆盖的文献范围包括(。)选题"], "answer": ["SI/SSI", "ESI", "&HI"], "id": "q878", "path": "screenshot/data/q878.png"}
+{"type": "5分", "score": "JCR不仅提供每个期刊的JCI分值，而且给出了基于JCI的学科排名、", "question": ["JR不仅提供每个期刊的JI分值,而且给出了基于JI的学科排名、分位。"], "answer": ["正确"], "id": "q884", "path": "screenshot/data/q884.png"}
+{"type": "选题", "score": "5分", "question": ["选题在webofscience中导出citespace支持的题录数据,要选择“全记录与用的参考文献”这种格式,最多一次可以导出()条。"], "answer": ["500"], "id": "q890", "path": "screenshot/data/q890.png"}
+{"type": "选题", "score": "5分", "question": ["关于ESI,下列说法正确的有()。选题"], "answer": ["ESI和SI都在webofscience核心合集中,如果有权限,都可以查到。", "ESI不是真正意义上的SI,可以认为是候补SI,以后表现好,可能会被S"], "id": "q894", "path": "screenshot/data/q894.png"}
+{"type": "题", "score": "5分", "question": ["题在cnki中,选择对已选结果分析,可以看到的分析项目包括()"], "answer": ["分布分析", "总体趋势分析", "关系网络分析"], "id": "q895", "path": "screenshot/data/q895.png"}
+{"type": "题", "score": "5分", "question": ["题作为一个数据可视化工具,tableau是一个收费工具,没有免费版本。"], "answer": ["错误"], "id": "q900", "path": "screenshot/data/q900.png"}
+{"type": "利断题", "score": "5分", "question": ["利断题cnki提供了所有期刊的RSSfeed。"], "answer": ["错误"], "id": "q906", "path": "screenshot/data/q906.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,可以实现数据可视化的有()。"], "answer": [], "id": "q908", "path": "screenshot/data/q908.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具,能够爬取数据的是()。"], "answer": [], "id": "q909", "path": "screenshot/data/q909.png"}
+{"type": "选题", "score": "5分", "question": ["关于索引,下列说法正确的有()。选题"], "answer": ["SI,科学引文索引,侧重于理工类学科。", "SSI,社会科学引文索引,侧重于人文社会科学。", "SIE,指的是网络版的SI。在我国,SIE收录的论文,都被称为SI论文"], "id": "q914", "path": "screenshot/data/q914.png"}
+{"type": "多选题", "score": "5分", "question": ["pubmed提供文献追踪功能,如果要使用这个功能,可以在检索结果界面勺检索框下面点击链接()。"], "answer": ["create alert"], "id": "q916", "path": "screenshot/data/q916.png"}
+{"type": "题", "score": "5分", "question": ["题关于endnote,下列说法正确的有("], "answer": ["endnote是一款文献管理工具。", "endnote与noteexpress是同类软件。", "在电脑上安装endnote后,word中会出现一个endnote插件"], "id": "q922", "path": "screenshot/data/q922.png"}
+{"type": "断题", "score": "5分", "question": ["断题探究精神就是一种想通过自己的主动探索解决问题的意识。"], "answer": ["正确"], "id": "q924", "path": "screenshot/data/q924.png"}
+{"type": "断题", "score": "5分", "question": ["在用数据看世界(https://ourworldindata.org)这个网站中,可以找到动断题形。"], "answer": ["正确"], "id": "q925", "path": "screenshot/data/q925.png"}
+{"type": "5分", "score": "选择检索系统，不需要考虑的因素是（）。", "question": ["选择检索系统,不需要考虑的因素是()。"], "answer": [], "id": "q944", "path": "screenshot/data/q944.png"}
+{"type": "题", "score": "5分", "question": ["0下列数据库,可以在药智数据中找到的有题"], "answer": ["临床诊疗指南数据库", "中国临床试验数据库", "中药方剂数据库", "医疗器械广告数据库"], "id": "q945", "path": "screenshot/data/q945.png"}
+{"type": "选题", "score": "5分", "question": ["下列属于专业医疗信息查询平台的有()。选题"], "answer": ["腾讯医典", "用药助手"], "id": "q947", "path": "screenshot/data/q947.png"}
+{"type": "选题", "score": "5分", "question": ["选题请问新华社旗下有一个学习平台-学习进行时,请问这个平台的网址是"], "answer": ["http://www.xinhuanet.com/politics/xxjxs/"], "id": "q950", "path": "screenshot/data/q950.png"}
+{"type": "选题", "score": "5分", "question": ["选题在维度学术资源在线中查询期刊,可以对期刊类型做出限定,这些限定包括()。"], "answer": ["SOPUS", "SSI", "SSI", "S"], "id": "q953", "path": "screenshot/data/q953.png"}
+{"type": "题", "score": "5分", "question": ["题下列检索系统,无需购买(个人和所在机构都无需购买)也能免费使用( )"], "answer": ["12306", "学堂在线"], "id": "q956", "path": "screenshot/data/q956.png"}
+{"type": "选题", "score": "5分", "question": ["选题在中国商标网中可以查询商标,其中有一个商标近似查询的平台,在这平台上,有多种查询方式,其中包括()。"], "answer": ["拼音", "图形", "汉字"], "id": "q958", "path": "screenshot/data/q958.png"}
+{"type": "选题", "score": "5分", "question": ["选题下列属于搜索引擎基本组成部分的有()。"], "answer": ["搜索器", "索引器", "检索器", "用户接口"], "id": "q968", "path": "screenshot/data/q968.png"}
+{"type": "选题", "score": "5分", "question": ["选题在市场监督管理总局网站上,可以查询()产品广告的审查备案信息"], "answer": ["特殊医疗食品", "药品", "保健食品", "医疗器械"], "id": "q971", "path": "screenshot/data/q971.png"}
+{"type": "川断题", "score": "5分", "question": ["在github中可以搜索程序代码。川断题"], "answer": ["正确"], "id": "q984", "path": "screenshot/data/q984.png"}
+{"type": "5分", "score": "下列网站可以识别字体的有（）。", "question": ["下列网站可以识别字体的有()。"], "answer": ["求字体http://www.qiuziti.com/", "识字体https://www.likefont.com/c"], "id": "q993", "path": "screenshot/data/q993.png"}
+{"type": "选题", "score": "5分", "question": ["下列系统,支持布尔逻辑中或者关系的有()选题"], "answer": ["百度", "springer", "pqdt", "cnki"], "id": "q995", "path": "screenshot/data/q995.png"}
+{"type": "题", "score": "5分", "question": ["在卫生健康委员会网站上,可以查询()题"], "answer": ["医生的资质", "护士的资质", "医院的诊疗范围"], "id": "q996", "path": "screenshot/data/q996.png"}
+{"type": "单选题", "score": "5分", "question": ["遇到问题,知道需要什么信息。这体现了信息素养中的()能力"], "answer": [], "id": "q1008", "path": "screenshot/data/q1008.png"}
+{"type": "斤题", "score": "5分", "question": ["斤题《亚历山大宣言》指出,终身学习是信息素养的核心。"], "answer": ["错误"], "id": "q1015", "path": "screenshot/data/q1015.png"}
+{"type": "断题", "score": "5分", "question": ["良好的信息素养,可以帮助我们找到好的资源,找到好的方法,找到合断题为工具。综合利用这些资源、方法、工具,可以创造性地解决问题,提升解决问题"], "answer": ["正确"], "id": "q1026", "path": "screenshot/data/q1026.png"}
+{"type": "新题", "score": "5分", "question": ["新题良好的信息素养有助于发现更多、更好、更合适的信息资源。"], "answer": ["正确"], "id": "q1027", "path": "screenshot/data/q1027.png"}
+{"type": "选题", "score": "5分", "question": ["选题遇到问题,知道需要什么信息。这体现了信息素养中的()能力。"], "answer": ["信息需求识别"], "id": "q1028", "path": "screenshot/data/q1028.png"}
+{"type": "题", "score": "5分", "question": ["题《亚历山大宣言》指出,终身学习是信息素养的核心。"], "answer": ["错误"], "id": "q1035", "path": "screenshot/data/q1035.png"}
+{"type": "5分", "score": "通过获取信息，在探究中解决问题的过程，其实也是终身学习的过程", "question": ["通过获取信息,在探究中解决问题的过程,其实也是终身学习的过程"], "answer": ["正确"], "id": "q1038", "path": "screenshot/data/q1038.png"}
+{"type": "川断题", "score": "5分", "question": ["川断题信息素养教育就是教学生掌握学术文献检索的方法。"], "answer": ["错误"], "id": "q1039", "path": "screenshot/data/q1039.png"}
+{"type": "单选题", "score": "5分", "question": ["下列不属于检索系统的是()。"], "answer": [], "id": "q1055", "path": "screenshot/data/q1055.png"}
+{"type": "选题", "score": "5分", "question": ["关于互联网上的资源,下列说法正确的有()。选题"], "answer": ["有些教材的课件,可以在出版社网站上找到。", "互联网上有ppt等文件资源,在搜索引擎中可以通过filetype语法查找。", "用好互联网的信息资源,可以提升解决问题的效率。", "淘宝、京东这些电商网站,虽然目的是卖货,但也积累了大量信息资源,成事实上的资源库"], "id": "q1077", "path": "screenshot/data/q1077.png"}
+{"type": "选题", "score": "5分", "question": ["在中国大学MOO平台上,我们可以检索到以下哪几门课程?选题"], "answer": ["文献管理与信息分析,罗昭锋", "信息检索,黄如花", "信息素养通识教程:数字化生存的必修课,潘燕桃等"], "id": "q1083", "path": "screenshot/data/q1083.png"}
+{"type": "利断题", "score": "5分", "question": ["利断题互联网上有很多免费的效率工具,善用这些工具,可以提升解决问题的"], "answer": ["正确"], "id": "q1086", "path": "screenshot/data/q1086.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以作为一个叙词表名称的是()。"], "answer": [], "id": "q1088", "path": "screenshot/data/q1088.png"}
+{"type": "题", "score": "5分", "question": ["在中国大学MOO平台上,我们可以检索到以下哪几门课程题"], "answer": ["信息素养通识教程:数字化生存的必修课,潘燕桃等", "信息素养:效率提升与终身学习的新引擎,周建芳等", "信息检索,黄如花", "文献管理与信息分析,罗昭锋"], "id": "q1095", "path": "screenshot/data/q1095.png"}
+{"type": "5分", "score": "遇到未知问题，搜攻略，找思路，有时候可以大幅度提升解决问题的效", "question": ["遇到未知问题,搜攻略,找思路,有时候可以大幅度提升解决问题的效"], "answer": ["正确"], "id": "q1103", "path": "screenshot/data/q1103.png"}
+{"type": "断题", "score": "5分", "question": ["断题用wordart做文字云,可以选择系统内置的图形,也可以上传自己的图文件。"], "answer": ["正确"], "id": "q1104", "path": "screenshot/data/q1104.png"}
+{"type": "川断题", "score": "5分", "question": ["川断题解决问题,不仅要搜索,更要探索,在提升效率的同时提升自己"], "answer": ["正确"], "id": "q1105", "path": "screenshot/data/q1105.png"}
+{"type": "选题", "score": "5分", "question": ["选题关于“万不得已,不用百度”这句话,正确的理解有()"], "answer": ["这句话与“万不得已,不用综合类的搜索引擎”意思类似。", "尽量选择专业的资源系统,综合类搜索引擎找到的信息比较杂。"], "id": "q1118", "path": "screenshot/data/q1118.png"}
+{"type": "利断题", "score": "5分", "question": ["利断题识别信息需求是信息素养的重要能力之一。"], "answer": ["正确"], "id": "q1122", "path": "screenshot/data/q1122.png"}
+{"type": "到断题", "score": "5分", "question": ["到断题《亚历山大宣言》指出,终身学习是信息素养的核心。"], "answer": ["错误"], "id": "q1123", "path": "screenshot/data/q1123.png"}
+{"type": "川断题", "score": "5分", "question": ["终身学习,既是个体适应社会发展的需要,也是个体自身进步的重要条川断题"], "answer": ["正确"], "id": "q1127", "path": "screenshot/data/q1127.png"}
+{"type": "单选题", "score": "5分", "question": ["在Word的替换中,下列哪个符号表示段落比较(也就是换行符)"], "answer": [], "id": "q1139", "path": "screenshot/data/q1139.png"}
+{"type": "选题", "score": "5分", "question": ["万方选题的功能大类包括()。选题"], "answer": ["定题评测", "选题发现", "文献精读"], "id": "q1148", "path": "screenshot/data/q1148.png"}
+{"type": "选题", "score": "5分", "question": ["在中科院文献情报中心发布的2021版《国际预警期刊名单》中,下列哪选题月刊位列其中?"], "answer": ["World Journal of linical ases", "Shock andVibration", "Journal of International Medical Research"], "id": "q1153", "path": "screenshot/data/q1153.png"}
+{"type": "川断题", "score": "5分", "question": ["川断题把书上一段英文拍成一张图片,通过百度翻译,可以把图片中的英文翻成中文。"], "answer": ["正确"], "id": "q1160", "path": "screenshot/data/q1160.png"}
+{"type": "单选题", "score": "5分", "question": ["下列哪篇文章的作者简介中,可以看到作者的ORI?"], "answer": [], "id": "q1169", "path": "screenshot/data/q1169.png"}
+{"type": "多选题", "score": "５分", "question": ["很多理工类的学术期刊论文,摘要一般包括()。5分"], "answer": ["目的意义(背景)", "方法和过程", "结论", "结果"], "id": "q1176", "path": "screenshot/data/q1176.png"}
+{"type": "选题", "score": "5分", "question": ["1checker这个工具能够()。选题"], "answer": ["找出英文表达中用错的词语", "把中文翻译成英文", "对于英文表达中的错误,给出修改建议"], "id": "q1179", "path": "screenshot/data/q1179.png"}
+{"type": "断题", "score": "5分", "question": ["Word中内置了几种自动编号样式,如果需要,也可以自定义自动编号断题"], "answer": ["正确"], "id": "q1181", "path": "screenshot/data/q1181.png"}
+{"type": "断题", "score": "5分", "question": ["断题写论文,要先读文献。读文献,不是去抄别人的内容,而是要了解你的究起点。"], "answer": ["正确"], "id": "q1186", "path": "screenshot/data/q1186.png"}
+{"type": "单选题", "score": "5分", "question": ["关于文献综述,下列说法错误的是()。"], "answer": [], "id": "q1191", "path": "screenshot/data/q1191.png"}
+{"type": "断题", "score": "5分", "question": ["断题文献综述需要严密的逻辑框架,不是机械地文字堆砌。"], "answer": ["正确"], "id": "q1205", "path": "screenshot/data/q1205.png"}
+{"type": "5分", "score": "写论文，要先读文献。读文献，不是去抄别人的内容，而是要了解你的", "question": ["写论文,要先读文献。读文献,不是去抄别人的内容,而是要了解你的点。"], "answer": ["正确"], "id": "q1206", "path": "screenshot/data/q1206.png"}
+{"type": "断题", "score": "5分", "question": ["在NKI中,没有明确连接符的多个条件,一般是“并且”关系,复选框断题项之间,也是“并且”关系。"], "answer": ["错误"], "id": "q1228", "path": "screenshot/data/q1228.png"}
+{"type": "选题", "score": "5分", "question": ["选题在cnki中,查找名为“黄玲”的作者在2010-2018年发表的期刊论文,那个数字最接近找到的论文数量?"], "answer": ["1700"], "id": "q1231", "path": "screenshot/data/q1231.png"}
+{"type": "文章Progressive cerebellar ataxia and new-onset diabetes 发表在柳", "score": "卷？", "question": ["文章Progressive cerebellar ataxia and new-onset diabetes 发表在柳卷?"], "answer": ["383"], "id": "q1236", "path": "screenshot/data/q1236.png"}
+{"type": "可", "score": "Wiley的Anywhere检索\"teacherbelief\"排除\"selflearning\"，能找到", "question": ["可Wiley的nywhere检索\"teacherbelief\"排除\"selflearning\",能找到"], "answer": ["少于8000篇"], "id": "q1240", "path": "screenshot/data/q1240.png"}
+{"type": "5分", "score": "Scopus中，*butyl可以检索到：", "question": ["Scopus中,*butyl可以检索到:"], "answer": ["di-n-butyl phthalate", "3,5-di-tert-butyl substituted phthalocyanines", "o-butyl"], "id": "q1245", "path": "screenshot/data/q1245.png"}
+{"type": "断题", "score": "5分", "question": ["断题MigitalLibrary内置全文库和索引库,在高级检索中可以根据需要之"], "answer": ["正确"], "id": "q1247", "path": "screenshot/data/q1247.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索界面中(https://www.baidu.com/gaoji/advanced.htl),如果不想让百度拆分你的检索词,也就是实现精确匹配,需要把检索词放在第项的搜索框中。"], "answer": [], "id": "q1249", "path": "screenshot/data/q1249.png"}
+{"type": "选题", "score": "5分", "question": ["选题在cnki中查找林毅夫老师发表的文章,选择检索点“作者”,合适的检索()"], "answer": ["林毅夫"], "id": "q1257", "path": "screenshot/data/q1257.png"}
+{"type": "选题", "score": "5分", "question": ["选题在cnki的高级检索界面,选择下列哪些文献类型的时候,可以选择“篇这个检索点?"], "answer": ["会议", "学术期刊"], "id": "q1259", "path": "screenshot/data/q1259.png"}
+{"type": "川断题", "score": "5分", "question": ["查英文文献,检索词一般需要输入英文。英文检索词,可以参考中文文川断题的英文题录。"], "answer": ["正确"], "id": "q1285", "path": "screenshot/data/q1285.png"}
+{"type": "如果要下载文件命名具有一定的规律，就可以通过迅雷，使用通配符进", "score": "载，", "question": ["如果要下载文件命名具有一定的规律,就可以通过迅雷,使用通配符进载,"], "answer": ["错误"], "id": "q1288", "path": "screenshot/data/q1288.png"}
+{"type": "选题", "score": "5分", "question": ["在百度的高级搜索界面中(https://www.baidu.com/gaoji/advanced.ht选题,如果不想让百度拆分你的检索词,也就是实现精确匹配,需要把检索词放在第项的搜索框中。"], "answer": [], "id": "q1290", "path": "screenshot/data/q1290.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索界面中(https://www.baidu.com/gaoji/advanced.ht1),如果不想让百度拆分你的检索词,也就是实现精确匹配,需要把检索词放在第项的搜索框中。"], "answer": [], "id": "q1291", "path": "screenshot/data/q1291.png"}
+{"type": "选题", "score": "5分", "question": ["选题在WebofScience和Scopus中,关于通配符正确的书写是"], "answer": ["*cholog*", "alcohol*"], "id": "q1301", "path": "screenshot/data/q1301.png"}
+{"type": "断题", "score": "5分", "question": ["断题学堂在线的搜索框,具有检索词联想功能。比如:输入“数学”,会给出个包含“数学”这两个字的检索词。"], "answer": ["正确"], "id": "q1308", "path": "screenshot/data/q1308.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度中搜索时,下列哪些语法可以把检索词限制在标题里?"], "answer": ["title"], "id": "q1317", "path": "screenshot/data/q1317.png"}
+{"type": "断题", "score": "5分", "question": ["断题查英文文献,检索词一般需要输入英文。英文检索词,可以参考中文文的英文题录。"], "answer": ["正确"], "id": "q1323", "path": "screenshot/data/q1323.png"}
+{"type": "题", "score": "5分", "question": ["题如果要下载文件命名具有一定的规律,就可以通过迅雷,使用通配符进批量下载。"], "answer": ["错误"], "id": "q1325", "path": "screenshot/data/q1325.png"}
+{"type": "题", "score": "5分", "question": ["截词检索,是一种用特定字符替代不特定字符的信息检索技术,可以提题率。"], "answer": ["错误"], "id": "q1327", "path": "screenshot/data/q1327.png"}
+{"type": "利断题", "score": "5分", "question": ["利断题在NKI中,没有明确连接符的多个条件,一般是“并且”关系,复选框项之间,也是“并且”关系。"], "answer": ["错误"], "id": "q1328", "path": "screenshot/data/q1328.png"}
+{"type": "选题", "score": "5分", "question": ["Wiley的nywhere检索\"teacherbelief\"排除\"selflearning\",能找到选题少文献?"], "answer": ["少于8000篇"], "id": "q1330", "path": "screenshot/data/q1330.png"}
+{"type": "题", "score": "5分", "question": ["题在cnki中找北京大学发表的期刊论文,需要选择的检索点是()"], "answer": ["作者单位"], "id": "q1334", "path": "screenshot/data/q1334.png"}
+{"type": "选题", "score": "5分", "question": ["选题在搜索引擎中,我们用空格链接多个检索词或者检索条件时,空格表示关系。"], "answer": ["并且"], "id": "q1351", "path": "screenshot/data/q1351.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索界面中(https://www.baidu.com/gaoji/advanced.htl),如果不想让百度拆分你的检索词,也就是实现精确匹配,需要把检索词放在第)项的搜索框中。"], "answer": [], "id": "q1370", "path": "screenshot/data/q1370.png"}
+{"type": "划断题", "score": "5分", "question": ["划断题布尔逻辑检索中的并且关系可以缩小检索结果的范围,提升查全率"], "answer": ["错误"], "id": "q1383", "path": "screenshot/data/q1383.png"}
+{"type": "单选题", "score": "10分", "question": ["检索词中使用通配符可以提高检索结果的10分"], "answer": ["查全率"], "id": "q1389", "path": "screenshot/data/q1389.png"}
+{"type": "单选题", "score": "10分", "question": ["10分下面几个人中哪位是2021年诺贝尔医学和生理奖的获奖人之一?"], "answer": ["david julius"], "id": "q1390", "path": "screenshot/data/q1390.png"}
+{"type": "单选题", "score": "10分", "question": ["据联合国统计数据,2019年全球总人口为 (百万人)10分"], "answer": ["7713.47"], "id": "q1391", "path": "screenshot/data/q1391.png"}
+{"type": "单选题", "score": "10分", "question": ["2015年4月1日开始实施的中国国家标准《冷冻饮品雪糕》的标准号是10分"], "answer": ["gb/t 31119-2014"], "id": "q1392", "path": "screenshot/data/q1392.png"}
+{"type": "多选题", "score": "10分", "question": ["下列哪些做法可以达到缩小检索范围,提高查准率的目的?10分"], "answer": ["3用位置算符代替逻辑“与”算符", "精确匹配", "二次检索"], "id": "q1393", "path": "screenshot/data/q1393.png"}
+{"type": "多选题", "score": "10分", "question": ["小方希望在中国知网平台以“高级检索”方式检索关于“新型冠状病毒疫10分苗”的中文文献,他可以选择的检索字段包括:"], "answer": ["主题", "关键词", "摘要", "篇名"], "id": "q1394", "path": "screenshot/data/q1394.png"}
+{"type": "多选题", "score": "10分", "question": ["小东想了解什么是“厄尔尼诺现象”,他应该选择的学习工具包括:10分"], "answer": ["大英百科全书", "中国大百科全书", "百度百科"], "id": "q1395", "path": "screenshot/data/q1395.png"}
+{"type": "判断题", "score": "10分", "question": ["10分个人文献管理工具是专门用来管理自己创作的文档"], "answer": ["错误"], "id": "q1396", "path": "screenshot/data/q1396.png"}
+{"type": "判断题", "score": "10分", "question": ["10分中国知网平台上的“学术期刊库“,只有付费用户方可检索"], "answer": ["错误"], "id": "q1397", "path": "screenshot/data/q1397.png"}
+{"type": "判断题", "score": "10分", "question": ["10分小明写了一篇学术论文,向期刊a投稿20天后没有收到出版社的消息,也没有联系期刊a的出版社,将原稿件向期刊b投稿。你认为他这么做"], "answer": ["错误"], "id": "q1398", "path": "screenshot/data/q1398.png"}
+{"type": "该校研究生小王的学位论文中，实验结果与分析讨论等都是自己完成的，且很有新", "score": "意，但在文献综述部分存在大量引用他人文献的现象，查重显示总检测复制比为3", "question": ["该校研究生小王的学位论文中,实验结果与分析讨论等都是自己完成的,且很有新意,但在文献综述部分存在大量引用他人文献的现象,查重显示总检测复制比为31%。请问该研究生能否通过查重检测,顺利进入答辩程序?()【出题人:华东师范大学吴瑨】"], "answer": ["论文重合率超标,不能申请答辩"], "id": "q1421", "path": "screenshot/data/q1421.png"}
+{"type": "选题", "score": "5分", "question": ["选题以下文献属于一次文献的是()。【出题人:华东师范大学蒋萍】"], "answer": ["学位论文全文", "《红楼梦》"], "id": "q1425", "path": "screenshot/data/q1425.png"}
+{"type": "选题", "score": "5分", "question": ["下列获取文献全文的方法中,正确的有:()【出题人:华东师范大学吴选题"], "answer": ["通过文献传递方式获得", "通过学校购买的数据库查询下载", "通过馆藏目录查找纸本馆藏"], "id": "q1448", "path": "screenshot/data/q1448.png"}
+{"type": "单选题", "score": "5分", "question": ["2015-2019年,期刊《cellhost&microbe》共发表了多少篇机构署名含北京大学的论文?()【出题人:华东师范大学吴瑨】"], "answer": [], "id": "q1489", "path": "screenshot/data/q1489.png"}

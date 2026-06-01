@@ -1,0 +1,6 @@
+{"type": "多选题", "score": "5分", "question": ["关于pubmed，下列说法中正确的有（）。", "A pubmed找到的全部文摘信息，除非付费，否则是无法获取全文的。", "B pubmed是一个生物医学方面的学术检索系统。", "C pubmed找到的文献都是能够免费获取全文的。", "D pubmed聚焦材料学领域。"], "answer": ["B"], "id": "q190", "path": "screenshot/data/q190.png"}
+{"type": "多选题", "score": "5分", "question": ["关于pubmed，下列说法中正确的有（）。", "A pubmed找到的文献都是能够免费获取全文的。", "B pubmed聚焦材料学领域。", "C pubmed是一个生物医学方面的学术检索系统。", "D pubmed找到的全部文献信息，除非付费，否则是无法获取全文的。"], "answer": ["C"], "id": "q211", "path": "screenshot/data/q211.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki的专利高级检索界面，系统提供的检索点包括（）。"], "answer": ["关键词"], "id": "q435", "path": "screenshot/data/q435.png"}
+{"type": "多选题", "score": "5分", "question": ["ScienceDirect全文文献数据库高级检索界面包括哪些限制条件?"], "answer": ["文章类型"], "id": "q549", "path": "screenshot/data/q549.png"}
+{"type": "多选题", "score": "5分", "question": ["在菜鸟教程这个学习平台上，可以找到（）等方面的教程内容。"], "answer": [], "id": "q551", "path": "screenshot/data/q551.png"}
+{"type": "多选题", "score": "5分", "question": ["关于pubmed，下列说法中正确的有（）。", "A.pubmed是一个生物医学方面的学术检索系统。", "B.pubmed聚焦材料学领域。", "C.pubmed找到的文献都是能够免费获取全文的。", "D.pubmed找到的全部文摘信息，除非付费，否则是无法获取全文的。"], "answer": ["A"], "id": "q597", "path": "screenshot/data/q597.png"}

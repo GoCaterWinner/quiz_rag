@@ -2,7 +2,23 @@
 jsonl工具
 """
 import json
+from pathlib import Path
 
+def jsonl_count(path: Path) -> int:
+    """
+    功能: 读取jsonl中文件个数
+
+    输入: jsonl路径
+    输出: 数目
+    """
+
+    count = 0
+
+    with path.open("r", encoding = "utf-8") as f:
+        for i in f:
+            count += 1
+
+    return count
 
 
 def read_jsonl(path):
@@ -24,7 +40,7 @@ def read_jsonl(path):
 
 def write_jsonl(file, path):
     """
-    功能, 写入固定路径
+    功能: 写入固定路径(并且不删除之前的内容)
 
     输入: 写入内容, 写入路径
     输出: 转成json送入文件
@@ -34,3 +50,6 @@ def write_jsonl(file, path):
         file_json = json.dumps(file, ensure_ascii=False)
 
         f.write(file_json + "\n")
+
+
+

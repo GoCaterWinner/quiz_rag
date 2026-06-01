@@ -10,7 +10,7 @@ processed: 存放合格的数据
 from pathlib import Path
 import json
 
-from src.validate import validate_question
+from src.validate_v2 import validate_question
 from src.jsonl_tools import read_jsonl, write_jsonl
 
 def main():
@@ -36,11 +36,8 @@ def main():
     for raw_line in read_jsonl(raw_data):
         errors = validate_question(raw_line)
 
-        if errors["id"]:
-            # 增加字段
-            errors["path"] = raw_line["path"]
-
-            write_jsonl(errors, review_data)     
+        if not errors["is_valid"]:
+            write_jsonl(raw_line, review_data)     
                 
         else:
          

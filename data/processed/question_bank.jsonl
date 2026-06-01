@@ -877,3 +877,414 @@
 {"type": "判断题", "score": "5分", "question": ["良好的信息素养有助于发现新资源、新工具、新方法,这些新资源、新工具、新方法不仅可以直接提升解决问题效率和质量,而且在解决问题的过程中促进自身能力的提升。"], "answer": ["正确"], "id": "q1023", "path": "screenshot/data/q1023.png"}
 {"type": "判断题", "score": "5分", "question": ["终身学习指的是,为适应社会发展和实现个体发展的需要,贯穿于人的生的,持续不断的学习过程。"], "answer": ["正确"], "id": "q1024", "path": "screenshot/data/q1024.png"}
 {"type": "判断题", "score": "5分", "question": ["一个具有信息素养的人,要有信息意识。无论遇到什么事,都能够首先到必须先了解相关信息,用信息来解决。"], "answer": ["正确"], "id": "q1025", "path": "screenshot/data/q1025.png"}
+{"type": "单选题", "score": "5分", "question": ["信息素养和终身学习是信息社会的灯塔,照亮了通向发展、繁荣和自由为道路。这句话的出处是()。"], "answer": ["亚历山大宣言"], "id": "q1029", "path": "screenshot/data/q1029.png"}
+{"type": "多选题", "score": "5分", "question": ["信息素养为什么能促进效率的提示?()"], "answer": ["良好的信息素养有助于发现新资源", "良好的信息素养有助于发现新方法c", "良好的信息素养有助于资源、工具和方法的融会贯通"], "id": "q1030", "path": "screenshot/data/q1030.png"}
+{"type": "多选题", "score": "5分", "question": ["下列能够体现一个人信息素养的有()。"], "answer": ["能够用合适的信息工具管理自己获取的信息及信息资源", "确定了信息需求,知道从什么地方获取信息。c", "能够把自己遇到的问题,转化为具体的信息需求。"], "id": "q1031", "path": "screenshot/data/q1031.png"}
+{"type": "多选题", "score": "5分", "question": ["良好的信息素养,可以帮助我们()"], "answer": ["培养终身学习的能力", "找到解决问题的方法和思路", "提升解决问题的质量", "可以把问题解决的更快"], "id": "q1032", "path": "screenshot/data/q1032.png"}
+{"type": "多选题", "score": "5分", "question": ["下列能力属于信息素养范畴的有()。"], "answer": ["信息应用能力", "信息评价能力", "信息获取能力"], "id": "q1033", "path": "screenshot/data/q1033.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些宣言提到了“信息素养”和“终身学习”这两个概念?"], "answer": ["布拉格宣言", "亚历山大宣言"], "id": "q1034", "path": "screenshot/data/q1034.png"}
+{"type": "判断题", "score": "5分", "question": ["将信息素养教育置于终身学习能力培养的语境下,从培养信息意识、探究精神出发,训练学生基于信息解决问题的能力和素质,这也许是新时代信息素养教育的突破点和着力点。"], "answer": ["正确"], "id": "q1036", "path": "screenshot/data/q1036.png"}
+{"type": "判断题", "score": "5分", "question": ["一个具有信息素养的人,不仅具有各种信息能力,而且还要具有信息意"], "answer": ["正确"], "id": "q1037", "path": "screenshot/data/q1037.png"}
+{"type": "判断题", "score": "5分", "question": ["信息素养有助于我们找到解决问题的思路。"], "answer": ["正确"], "id": "q1040", "path": "screenshot/data/q1040.png"}
+{"type": "判断题", "score": "5分", "question": ["获取信息,自主学习,既能学会想学的知识和技能,又能培养终身学习力。"], "answer": ["正确"], "id": "q1041", "path": "screenshot/data/q1041.png"}
+{"type": "判断题", "score": "5分", "question": ["良好的信息素养可以提升解决问题的效率和质量。"], "answer": ["正确"], "id": "q1042", "path": "screenshot/data/q1042.png"}
+{"type": "判断题", "score": "5分", "question": ["终身学习指的是,为适应社会发展和实现个体发展的需要,贯穿于人的生的,持续不断的学习过程。"], "answer": ["正确"], "id": "q1043", "path": "screenshot/data/q1043.png"}
+{"type": "判断题", "score": "5分", "question": ["良好的信息素养有助于发现新资源、新工具、新方法,这些新资源、新工具、新方法不仅可以直接提升解决问题效率和质量,而且在解决问题的过程中促进自身能力的提升。"], "answer": ["正确"], "id": "q1044", "path": "screenshot/data/q1044.png"}
+{"type": "判断题", "score": "5分", "question": ["一个具有信息素养的人,要有信息意识。无论遇到什么事,都能够首先想到必须先了解相关信息,用信息来解决。"], "answer": ["正确"], "id": "q1045", "path": "screenshot/data/q1045.png"}
+{"type": "判断题", "score": "5分", "question": ["良好的信息素养,可以帮助我们找到好的资源,找到好的方法,找到合的工具。综合利用这些资源、方法、工具,可以创造性地解决问题,提升解决问题效率。"], "answer": ["正确"], "id": "q1046", "path": "screenshot/data/q1046.png"}
+{"type": "判断题", "score": "5分", "question": ["良好的信息素养有助于发现更多、更好、更合适的信息资源。"], "answer": ["正确"], "id": "q1047", "path": "screenshot/data/q1047.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以作为一个叙词表名称的是()。"], "answer": ["ERI"], "id": "q1048", "path": "screenshot/data/q1048.png"}
+{"type": "单选题", "score": "5分", "question": ["在ERI叙词表一级目录中有一个名为“Humanities”类别,在这个类别一百多个子类。请问下列哪一个不包括在“Humanities”这个类别下?"], "answer": ["photos"], "id": "q1049", "path": "screenshot/data/q1049.png"}
+{"type": "单选题", "score": "5分", "question": ["0。协议,一般指的是"], "answer": ["知识共享许可协议"], "id": "q1050", "path": "screenshot/data/q1050.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度中,能够用site、inurl等语法提升搜索效率。这体现了信息素养中()能力。"], "answer": ["信息检索"], "id": "q1051", "path": "screenshot/data/q1051.png"}
+{"type": "单选题", "score": "5分", "question": ["如果要找学术文献,最合适的检索系统是()。"], "answer": ["cnki"], "id": "q1052", "path": "screenshot/data/q1052.png"}
+{"type": "单选题", "score": "5分", "question": ["在word的替换对话框中,用两个^p替换为一个^p,实现的功能是"], "answer": ["删除空行"], "id": "q1053", "path": "screenshot/data/q1053.png"}
+{"type": "单选题", "score": "5分", "question": ["下列网站提供英文大小写在线转换功能的是()。"], "answer": ["https://www.iamwawa.cn"], "id": "q1054", "path": "screenshot/data/q1054.png"}
+{"type": "单选题", "score": "5分", "question": ["2021年11月5日,()正式发布《提升全民数字素养与技能行动纲要》"], "answer": ["中央网信办"], "id": "q1056", "path": "screenshot/data/q1056.png"}
+{"type": "单选题", "score": "5分", "question": ["动手探索,解决问题。在word的替换对话框中,用【答案解析】替换为m【答案解析】,实现的功能是()。"], "answer": ["在文档中的【答案解析】之前全部加上一个分页符,也就是把答案解析放在页"], "id": "q1057", "path": "screenshot/data/q1057.png"}
+{"type": "单选题", "score": "5分", "question": ["在协议中,四个基本条件组合成了六种主要许可协议。请问下列许可议中,最严格的是()。"], "answer": ["by-nc-nd"], "id": "q1058", "path": "screenshot/data/q1058.png"}
+{"type": "单选题", "score": "5分", "question": ["想在教育网中查找有关“高等数学”的内容,输入的检索表达式是:高等学site:edu.cn,发现效果不好。请问原因是?"], "answer": ["site前面应该有个空格"], "id": "q1059", "path": "screenshot/data/q1059.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于文献检索的有()。"], "answer": ["在NKI中找某一位老师的会议论文", "在PatFT中查找华为公司申请的专利", "在万方中找研究“元宇宙”的博士论文", "在国家标准全文公开系统中找自来水的国家标准"], "id": "q1060", "path": "screenshot/data/q1060.png"}
+{"type": "多选题", "score": "5分", "question": ["在wordart中,可以设置()。"], "answer": ["生成文字云的图形", "生成文字云所用的文字", "字体c", "字号"], "id": "q1061", "path": "screenshot/data/q1061.png"}
+{"type": "多选题", "score": "5分", "question": ["在美国国会图书馆网站可以找到多种数字化文献。其中包括()。"], "answer": ["报纸", "照片", "地图"], "id": "q1062", "path": "screenshot/data/q1062.png"}
+{"type": "多选题", "score": "5分", "question": ["下列哪些有利于提升自己的信息需求识别能力"], "answer": ["尽可能多地了解这个世界上有哪些信息资源", "学会找攻略"], "id": "q1063", "path": "screenshot/data/q1063.png"}
+{"type": "多选题", "score": "5分", "question": ["下列体现信息检索能力的有()。"], "answer": ["明确信息需求后,知道利用哪个系统查找信息", "检索信息的过程中,能够利用检索技巧提升检索效率"], "id": "q1064", "path": "screenshot/data/q1064.png"}
+{"type": "判断题", "score": "5分", "question": ["数字素养与技能是数字社会公民学习工作生活应具备的数字获取、制年、使用、评价、交互、分享、创新、安全保障、伦理道德等一系列素质与能力的集"], "answer": ["正确"], "id": "q1065", "path": "screenshot/data/q1065.png"}
+{"type": "判断题", "score": "5分", "question": ["文献检索、信息检索等课程都属于信息素养教育的范畴"], "answer": ["正确"], "id": "q1066", "path": "screenshot/data/q1066.png"}
+{"type": "判断题", "score": "5分", "question": ["获取信息,解决问题,可以从找攻略开始。"], "answer": ["正确"], "id": "q1067", "path": "screenshot/data/q1067.png"}
+{"type": "单选题", "score": "5分", "question": ["识别Excel表中8000多个身份证号码中的错误,下列方法效率最高的是"], "answer": ["用Excel插件方方格子的判断身份证是否合法这个功能。"], "id": "q1068", "path": "screenshot/data/q1068.png"}
+{"type": "单选题", "score": "5分", "question": ["信息检索一般翻译为?"], "answer": ["information retrieval"], "id": "q1069", "path": "screenshot/data/q1069.png"}
+{"type": "单选题", "score": "5分", "question": ["在高校开设的下列课程中,不属于信息素养教育类课程的是()"], "answer": ["大学生修养"], "id": "q1070", "path": "screenshot/data/q1070.png"}
+{"type": "单选题", "score": "5分", "question": ["()。关于信息检索语言,下列不正确的说法是"], "answer": ["Python、JV、V这些都是信息检索语言"], "id": "q1071", "path": "screenshot/data/q1071.png"}
+{"type": "单选题", "score": "5分", "question": ["()。下列属于主题词表的是"], "answer": ["MeSH"], "id": "q1072", "path": "screenshot/data/q1072.png"}
+{"type": "多选题", "score": "5分", "question": ["如果按照检索内容划分,信息检索可以分为()。"], "answer": ["数据信息检索", "文献信息检索", "事实信息检索"], "id": "q1073", "path": "screenshot/data/q1073.png"}
+{"type": "多选题", "score": "5分", "question": ["在选择检索系统时,需要考虑的因素有()。"], "answer": ["检索功能", "收录资源的类型", "c收录资源的范围", "访问权限"], "id": "q1074", "path": "screenshot/data/q1074.png"}
+{"type": "多选题", "score": "5分", "question": ["关于“万不得已,不用百度”这句话,正确的理解有()"], "answer": ["尽量选择专业的资源系统,综合类搜索引擎找到的信息比较杂", "这句话与“万不得已,不用综合类的搜索引擎”意思类似。c"], "id": "q1075", "path": "screenshot/data/q1075.png"}
+{"type": "多选题", "score": "5分", "question": ["下列搜索引擎支持site语法的有()。"], "answer": ["百度", "360搜索", "必应", "搜狗"], "id": "q1076", "path": "screenshot/data/q1076.png"}
+{"type": "多选题", "score": "5分", "question": ["关于主题词和主题词表,下列说法正确的有()。"], "answer": ["使用主题词,大多数情况下,可以兼顾查准率和查全率。", "主题词是经过规范处理的词。", "主题词,又称叙词。"], "id": "q1078", "path": "screenshot/data/q1078.png"}
+{"type": "多选题", "score": "5分", "question": ["在开始检索之前,我们需要确定自己的信息需求,比如我们想备考计算机等级考试,信息需求可能是()。"], "answer": ["考试大纲", "历年考题", "报名条件、考试时间等信息", "考试攻略"], "id": "q1079", "path": "screenshot/data/q1079.png"}
+{"type": "多选题", "score": "5分", "question": ["哇哇工具(https://www.iamwawa.cn)是一个在线工具网站,里面有很多实用功能,其中包括()。"], "answer": ["文本增加序号工具", "英文字母大小写转换", "c文本反转排序工具"], "id": "q1080", "path": "screenshot/data/q1080.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于信息检索范畴的有()。"], "answer": ["在搜狗中输入“泽平宏观”,找到了许多宏观经济方面的深度文章。", "在携程网选择城市和时间区间,找到许多宾馆的报价。", "北京大学图书馆网站馆藏书目查询系统,找到《白银资本》这本书的馆藏状"], "id": "q1081", "path": "screenshot/data/q1081.png"}
+{"type": "多选题", "score": "5分", "question": ["在命令提示符下输入这样一串命令:for/%iin(11,100)domdd:\\ab下列说法正确的有()。%i,"], "answer": ["这100个文件夹的名字都以“abc”开头3", "在盘下创建100个文件夹", "这个命令可以在命令提示符下运行"], "id": "q1082", "path": "screenshot/data/q1082.png"}
+{"type": "判断题", "score": "5分", "question": ["我们之所以能够在NKI等学术论文检索系统中能按照篇名、作者、作者单位、关键词等检索点查找文献,是因为这些检索系统在之前的信息存储过程中对文献的这些字段进行了著录。"], "answer": ["正确"], "id": "q1084", "path": "screenshot/data/q1084.png"}
+{"type": "判断题", "score": "5分", "question": ["很多时候我们去图书馆借书,并不需要事先通过图书馆的馆藏书目系统进行检索,其原因是图书馆的书太少了。"], "answer": ["错误"], "id": "q1085", "path": "screenshot/data/q1085.png"}
+{"type": "判断题", "score": "5分", "question": ["培养学生的终身学习能力,是大学教育的重要任务之一。"], "answer": ["正确"], "id": "q1087", "path": "screenshot/data/q1087.png"}
+{"type": "单选题", "score": "5分", "question": ["下列不属于检索系统的是()。"], "answer": ["辽宁省博物馆馆藏的欧阳询《仲尼梦奠帖》"], "id": "q1089", "path": "screenshot/data/q1089.png"}
+{"type": "单选题", "score": "5分", "question": ["遇到问题,知道需要什么信息。这体现了信息素养中的()能力"], "answer": ["信息需求识别"], "id": "q1090", "path": "screenshot/data/q1090.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度中,能够用site、inurl等语法提升搜索效率。这体现了信息素养中()能力。"], "answer": ["信息检索"], "id": "q1091", "path": "screenshot/data/q1091.png"}
+{"type": "单选题", "score": "5分", "question": ["在协议中,四个基本条件组合成了六种主要许可协议。请问下列许可办议中,最严格的是()。"], "answer": ["by-nc-nd"], "id": "q1092", "path": "screenshot/data/q1092.png"}
+{"type": "多选题", "score": "5分", "question": ["在开始检索之前,我们需要确定自己的信息需求,比如我们想备考计算机等级考试,信息需求可能是()。"], "answer": ["考试攻略", "考试大纲", "c报名条件、考试时间等信息", "历年考题"], "id": "q1093", "path": "screenshot/data/q1093.png"}
+{"type": "多选题", "score": "5分", "question": ["关于互联网上的资源,下列说法正确的有()。"], "answer": ["淘宝、京东这些电商网站,虽然目的是卖货,但也积累了大量信息资源,为事实上的资源库。", "有些教材的课件,可以在出版社网站上找到。", "用好互联网的信息资源,可以提升解决问题的效率。c", "互联网上有ppt等文件资源,在搜索引擎中可以通过filetype语法查找。"], "id": "q1094", "path": "screenshot/data/q1094.png"}
+{"type": "多选题", "score": "5分", "question": ["在协议中,有几个基本限制条件,其中包括()。"], "answer": ["署名", "禁止演绎", "c非商业性使用", "相同方式共享"], "id": "q1096", "path": "screenshot/data/q1096.png"}
+{"type": "多选题", "score": "5分", "question": ["关于主题词和主题词表,下列说法正确的有()。"], "answer": ["主题词,又称叙词。", "使用主题词,大多数情况下,可以兼顾查准率和查全率。", "主题词是经过规范处理的词。"], "id": "q1097", "path": "screenshot/data/q1097.png"}
+{"type": "多选题", "score": "5分", "question": ["下列能够体现一个人信息素养的有()。"], "answer": ["确定了信息需求,知道从什么地方获取信息。", "3能够用合适的信息工具管理自己获取的信息及信息资源", "能够把自己遇到的问题,转化为具体的信息需求。", "遇到问题,首先想到基于信息来解决。"], "id": "q1098", "path": "screenshot/data/q1098.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于信息检索范畴的有()。"], "answer": ["北京大学图书馆网站馆藏书目查询系统,找到《白银资本》这本书的馆藏态。", "在搜狗中输入“泽平宏观”,找到了许多宏观经济方面的深度文章。", "在携程网选择城市和时间区间,找到许多宾馆的报价。"], "id": "q1099", "path": "screenshot/data/q1099.png"}
+{"type": "判断题", "score": "5分", "question": ["良好的信息素养,可以帮助我们找到好的资源,找到好的方法,找到合适的工具。综合利用这些资源、方法、工具,可以创造性地解决问题,提升解决问题效率。"], "answer": ["正确"], "id": "q1100", "path": "screenshot/data/q1100.png"}
+{"type": "判断题", "score": "5分", "question": ["在美国国会图书馆网站上找的电子书,有些会给出获取全文的链接,有些链接可能是另外一个网站。"], "answer": ["正确"], "id": "q1101", "path": "screenshot/data/q1101.png"}
+{"type": "判断题", "score": "5分", "question": ["在检索时,与用“题名”作为检索点相比,用“主题词”作为检索点,检索果一般更精准。"], "answer": ["错误"], "id": "q1102", "path": "screenshot/data/q1102.png"}
+{"type": "判断题", "score": "5分", "question": ["同样一个问题,可能有不同的解决方法。获取信息,查找攻略,也许找到效率比较高的那一个。"], "answer": ["正确"], "id": "q1106", "path": "screenshot/data/q1106.png"}
+{"type": "判断题", "score": "5分", "question": ["信息需求识别能力也就是确定信息的能力,即把遇到的问题转换为具体信息需求的能力。"], "answer": ["正确"], "id": "q1107", "path": "screenshot/data/q1107.png"}
+{"type": "单选题", "score": "5分", "question": ["在协议中,四个基本条件组合成了六种主要许可协议。请问下列许可议中,最严格的是()。"], "answer": ["by-nc-nd"], "id": "q1108", "path": "screenshot/data/q1108.png"}
+{"type": "单选题", "score": "5分", "question": ["下列属于主题词表的是()。"], "answer": ["MeSH"], "id": "q1109", "path": "screenshot/data/q1109.png"}
+{"type": "单选题", "score": "5分", "question": ["信息检索一般翻译为?"], "answer": ["information retrieval"], "id": "q1110", "path": "screenshot/data/q1110.png"}
+{"type": "单选题", "score": "5分", "question": ["()在高校开设的下列课程中,不属于信息素养教育类课程的是"], "answer": ["大学生修养"], "id": "q1111", "path": "screenshot/data/q1111.png"}
+{"type": "单选题", "score": "5分", "question": ["识别Excel表中8000多个身份证号码中的错误,下列方法效率最高的是"], "answer": ["用Excel插件方方格子的判断身份证是否合法这个功能。"], "id": "q1112", "path": "screenshot/data/q1112.png"}
+{"type": "多选题", "score": "5分", "question": ["关于主题词和主题词表,下列说法正确的有()。"], "answer": ["主题词,又称叙词。", "使用主题词,大多数情况下,可以兼顾查准率和查全率。c", "主题词是经过规范处理的词。"], "id": "q1113", "path": "screenshot/data/q1113.png"}
+{"type": "多选题", "score": "5分", "question": ["在中国大学MOO平台上,我们可以检索到以下哪几门课程?"], "answer": ["信息检索,黄如花", "信息素养:效率提升与终身学习的新引擎,周建芳等", "文献管理与信息分析,罗昭锋"], "id": "q1114", "path": "screenshot/data/q1114.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于信息检索范畴的有()"], "answer": ["北京大学图书馆网站馆藏书目查询系统,找到《白银资本》这本书的馆藏状态。", "在搜狗中输入“泽平宏观”,找到了许多宏观经济方面的深度文章。c", "在携程网选择城市和时间区间,找到许多宾馆的报价。"], "id": "q1115", "path": "screenshot/data/q1115.png"}
+{"type": "多选题", "score": "5分", "question": ["如果按照检索内容划分,信息检索可以分为()。"], "answer": ["事实信息检索", "3文献信息检索", "数据信息检索"], "id": "q1116", "path": "screenshot/data/q1116.png"}
+{"type": "多选题", "score": "5分", "question": ["关于互联网上的资源,下列说法正确的有()。"], "answer": ["淘宝、京东这些电商网站,虽然目的是卖货,但也积累了大量信息资源,为事实上的资源库。", "用好互联网的信息资源,可以提升解决问题的效率。", "有些教材的课件,可以在出版社网站上找到。c", "互联网上有ppt等文件资源,在搜索引擎中可以通过filetype语法查找。"], "id": "q1117", "path": "screenshot/data/q1117.png"}
+{"type": "多选题", "score": "5分", "question": ["在开始检索之前,我们需要确定自己的信息需求,比如我们想备考计算机等级考试,信息需求可能是()。"], "answer": ["考试攻略", "报名条件、考试时间等信息", "c考试大纲", "历年考题"], "id": "q1119", "path": "screenshot/data/q1119.png"}
+{"type": "判断题", "score": "5分", "question": ["我们之所以能够在NKI等学术论文检索系统中能按照篇名、作者、作者单位、关键词等检索点查找文献,是因为这些检索系统在之前的信息存储过程中对文献的这些字段进行了著录。"], "answer": ["正确"], "id": "q1120", "path": "screenshot/data/q1120.png"}
+{"type": "判断题", "score": "5分", "question": ["良好的信息素养,可以帮助我们找到好的资源,找到好的方法,找到合的工具。综合利用这些资源、方法、工具,可以创造性地解决问题,提升解决问题效率。"], "answer": ["正确"], "id": "q1121", "path": "screenshot/data/q1121.png"}
+{"type": "判断题", "score": "5分", "question": ["目前,我国高校大多开设信息素养教育类课程,名称各异,如信息检、文献检索、信息素养等。"], "answer": ["正确"], "id": "q1124", "path": "screenshot/data/q1124.png"}
+{"type": "判断题", "score": "5分", "question": ["培养学生的终身学习能力,是大学教育的重要任务之一"], "answer": ["正确"], "id": "q1125", "path": "screenshot/data/q1125.png"}
+{"type": "判断题", "score": "5分", "question": ["很多时候我们去图书馆借书,并不需要事先通过图书馆的馆藏书目系统进行检索,其原因是图书馆的书太少了。"], "answer": ["错误"], "id": "q1126", "path": "screenshot/data/q1126.png"}
+{"type": "单选题", "score": "5分", "question": ["如果一篇论文涉及的研究规模较大,可能会有很多署名作者,他们之间的居()确定。署名顺序根据"], "answer": ["贡献"], "id": "q1128", "path": "screenshot/data/q1128.png"}
+{"type": "单选题", "score": "5分", "question": ["利用Word撰写专业学术论文时,需要在论文结尾处罗列出所有参考文献或目,最优的操作方法是()。"], "answer": ["利用Word中“管理源”和“插入书目”功能,在论文结尾处插入参考文献或书目表。"], "id": "q1129", "path": "screenshot/data/q1129.png"}
+{"type": "单选题", "score": "5分", "question": ["若需要在国家社科基金项目数据库中借鉴一篇立项于2012年,项目类别“重大项目\",学科分类为”人口学“的论文,以下哪一篇论文符合条件"], "answer": ["未来十年我国城市老年人口居家养老保障体系研究。"], "id": "q1130", "path": "screenshot/data/q1130.png"}
+{"type": "单选题", "score": "5分", "question": ["完成了毕业论文之后,现需要在正文前添加论文目录以便检索和最优的作方法是()"], "answer": ["将文档的各级标题设置为内置标题样式,然后基于内置标题样式创建目录"], "id": "q1131", "path": "screenshot/data/q1131.png"}
+{"type": "单选题", "score": "5分", "question": ["同时在幼儿园中有大量的游戏活动都渗透着执行功能的培养,例如角色分演游戏提供丰富的角色和场景能够很好地锻炼幼儿的想象力和工作记忆,棋牌类的略游戏既考验幼儿的工作记忆负荷,又能有效培养其思维的灵活性。"], "answer": ["秦富琳.大班幼儿模式认知能力与执行功能的关系研究[].华东师范大学,2017."], "id": "q1132", "path": "screenshot/data/q1132.png"}
+{"type": "单选题", "score": "5分", "question": ["在word中,“TRL+回车”,这个快捷键的功能是()"], "answer": ["插入分页符,换到下一页。"], "id": "q1133", "path": "screenshot/data/q1133.png"}
+{"type": "单选题", "score": "5分", "question": ["在word中画一条线段,为了保证画出的线段是水平方向,可以在划线的候按着()键。"], "answer": ["shift"], "id": "q1134", "path": "screenshot/data/q1134.png"}
+{"type": "单选题", "score": "5分", "question": ["在Word中,分页符的快捷键是()。"], "answer": ["3trl+回车"], "id": "q1135", "path": "screenshot/data/q1135.png"}
+{"type": "单选题", "score": "5分", "question": ["下列的英文表达,常用来写摘要中结论部分的是()"], "answer": ["Our results show that"], "id": "q1136", "path": "screenshot/data/q1136.png"}
+{"type": "单选题", "score": "5分", "question": ["读文献要选择好文献,找一个领域内的名篇,可以通过文献数据库的排功能。请问,合适的排序字段是()。"], "answer": ["被引"], "id": "q1137", "path": "screenshot/data/q1137.png"}
+{"type": "单选题", "score": "5分", "question": ["在论文排版中,如果要分章节设置不同页眉,需要先()。"], "answer": ["分节"], "id": "q1138", "path": "screenshot/data/q1138.png"}
+{"type": "单选题", "score": "5分", "question": ["在Word中自动生成目录,需要先设置标题()。"], "answer": ["样式"], "id": "q1140", "path": "screenshot/data/q1140.png"}
+{"type": "单选题", "score": "5分", "question": ["()。在Word中自动生成目录,需要先设置标题"], "answer": ["样式"], "id": "q1141", "path": "screenshot/data/q1141.png"}
+{"type": "单选题", "score": "5分", "question": ["关于文献综述,下列说法错误的是()。"], "answer": ["文献综述有固定的套路。"], "id": "q1142", "path": "screenshot/data/q1142.png"}
+{"type": "多选题", "score": "5分", "question": ["关于作者署名,下列说法正确的有()。"], "answer": ["贡献最大的,可以署第一作者,若贡献都大,而且差不多,有些期刊可以署共同第一作者;", "不符合署名条件,但也做出贡献的人员,可以在致谢中体现;"], "id": "q1143", "path": "screenshot/data/q1143.png"}
+{"type": "多选题", "score": "5分", "question": ["万方选题下有几个功能,其中包括()。"], "answer": ["拓展研究边界", "追踪研究前沿", "c回溯学术脉络", "发掘新兴主题"], "id": "q1144", "path": "screenshot/data/q1144.png"}
+{"type": "多选题", "score": "5分", "question": ["在万方选题的“文献精读”功能模块中,搜到的论文分成几个大类,其中包括()。"], "answer": ["新发表论文", "高关注论文", "优秀学位论文", "综述性论文"], "id": "q1145", "path": "screenshot/data/q1145.png"}
+{"type": "多选题", "score": "5分", "question": ["在万方选题的“文献精读”页面,搜索框右侧的按钮有()"], "answer": ["搜专家", "c搜论文"], "id": "q1146", "path": "screenshot/data/q1146.png"}
+{"type": "多选题", "score": "5分", "question": ["关于文献检索,以下说法正确的是"], "answer": ["图书馆购置的数据资源是有限制的,如果在校内指定IP访问,就有权使用。", "一些商业数据库也提供部分免费功能,比如sciencedirect,即使学校没有购c但可以免费检索并获取部分全文。买,", "oalib,doaj,pubmed等都属于O文献检索系统,可以找到全文。"], "id": "q1147", "path": "screenshot/data/q1147.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以快速合并多个PF文件的工具软件是()"], "answer": ["万彩办公大师"], "id": "q1149", "path": "screenshot/data/q1149.png"}
+{"type": "单选题", "score": "5分", "question": ["维普数据库中,2018年度光学S期刊(包括扩展版)有几种?其“立即指数”最高的刊是?"], "answer": ["8,光学学报"], "id": "q1150", "path": "screenshot/data/q1150.png"}
+{"type": "多选题", "score": "5分", "question": ["在Journal Finder(https://journalfinder.elsevier.com)的期刊匹配结中,可以看到()。"], "answer": ["期刊的影响因子", "期刊的录用率", "从投稿到出版的平均时间跨度"], "id": "q1151", "path": "screenshot/data/q1151.png"}
+{"type": "多选题", "score": "5分", "question": ["通过Journal Finder(https://journalfinder.elsevier.com)投稿选刊,除了题目、摘要、关键词,在匹配结果界面还可以设置进一步的筛选条件,其中包括()"], "answer": ["出版类型(金色Oor订阅式期刊)", "c从投稿到出版的时间跨度", "期刊的影响因子"], "id": "q1152", "path": "screenshot/data/q1152.png"}
+{"type": "多选题", "score": "5分", "question": ["在word中选定一行文字,如果想增大字号,可以用的快捷键有()"], "answer": ["trl+shift+.", "trl+】"], "id": "q1154", "path": "screenshot/data/q1154.png"}
+{"type": "多选题", "score": "5分", "question": ["关于语料库在线(http://corpus.zhonghuayuwen.org)字、词频统计工下列说法正确的有()。"], "answer": ["语料库在线这个网站进行字频统计、词频统计是免费的。", "语料库在线这个网站可以统计词频。", "语料库在线这个网站可以统计字频。", "语料库在线这个网站中提供字词频统计软件,可以免费下载使用。"], "id": "q1155", "path": "screenshot/data/q1155.png"}
+{"type": "多选题", "score": "5分", "question": ["在MasterJournalList中为自己写好论文适配合适的投稿期刊,需要输"], "answer": ["标题", "摘要"], "id": "q1156", "path": "screenshot/data/q1156.png"}
+{"type": "多选题", "score": "5分", "question": ["关于ORI,下列说法正确的有"], "answer": ["ORI,全称是:Open Researcher andontributorI", "识别科研人员的身份是ORI的一个重要作用。", "ORI,可以认为是科研人员的学术身份证。"], "id": "q1157", "path": "screenshot/data/q1157.png"}
+{"type": "多选题", "score": "5分", "question": ["在MasterJournalList中可以找到SI、SSI、ESI、&HI期刊的主页。在期刊主页,有期刊()的网址链接。"], "answer": ["作者须知", "出版机构官网c", "期刊官网"], "id": "q1158", "path": "screenshot/data/q1158.png"}
+{"type": "多选题", "score": "5分", "question": ["有学者要写中文论文发表到中文期刊,其引用的文献中英文都有,投稿期刊参考文献要求用英文的P,请问,该学者可以使用的参考文献管理工具是:"], "answer": ["Mendeley", "Noteexpress", "Notefirst", "Endnote"], "id": "q1159", "path": "screenshot/data/q1159.png"}
+{"type": "判断题", "score": "5分", "question": ["语料库在线(http://corpus.zhonghuayuwen.org)是一个在线工具其中有字频和词频统计的功能。"], "answer": ["正确"], "id": "q1161", "path": "screenshot/data/q1161.png"}
+{"type": "判断题", "score": "5分", "question": ["与科睿唯安旗下的大多数产品类似,MasterJournalList是收费工具问需要购买权限。"], "answer": ["错误"], "id": "q1162", "path": "screenshot/data/q1162.png"}
+{"type": "判断题", "score": "5分", "question": ["万方选题的“选题发现”可以帮你回溯学术脉络,追踪研究前沿,拓展研边界,发掘新兴主题。"], "answer": ["正确"], "id": "q1163", "path": "screenshot/data/q1163.png"}
+{"type": "判断题", "score": "5分", "question": ["中科院文献情报中心发布的《国际预警期刊名单》是期刊评价标准,是论文评价,更不是否定预警期刊发表的每项成果。"], "answer": ["正确"], "id": "q1164", "path": "screenshot/data/q1164.png"}
+{"type": "判断题", "score": "5分", "question": ["在MasterJournalList中可以找到Si、SSI、ESI、&HI期刊的主在期刊主页,可以免费查看期刊的影响因子、JI、即时指数等评价指标。"], "answer": ["错误"], "id": "q1165", "path": "screenshot/data/q1165.png"}
+{"type": "判断题", "score": "5分", "question": ["维普有“投稿指南”这个在线工具。"], "answer": ["正确"], "id": "q1166", "path": "screenshot/data/q1166.png"}
+{"type": "判断题", "score": "5分", "question": ["学术脉络是一个学科领域在不同时间的知识结构,揭示了研究主题随时间变化的演化关系,及学科领域整体发展趋势。"], "answer": ["正确"], "id": "q1167", "path": "screenshot/data/q1167.png"}
+{"type": "判断题", "score": "5分", "question": ["万方选题有“文献精读”功能,通过这个功能,可以查找好文献、新文综述文献、学位论文,能够帮你快速了解一个主题领域。"], "answer": ["正确"], "id": "q1168", "path": "screenshot/data/q1168.png"}
+{"type": "单选题", "score": "5分", "question": ["在《重庆交通大学学报》上查找标题为“天气因素对北京市地铁客流量的响”的第九条参考文献题目并判断文献类型。"], "answer": ["极端气候研究方法导论,普通图书"], "id": "q1170", "path": "screenshot/data/q1170.png"}
+{"type": "单选题", "score": "5分", "question": ["中科院文献情报中心在研制《国际预警期刊名单》时,考虑的因素不包( )"], "answer": ["期刊的主办单位"], "id": "q1171", "path": "screenshot/data/q1171.png"}
+{"type": "单选题", "score": "5分", "question": ["在linggle中,如果想知道discuss?和theissue之间有没有about,应linggle的搜索框中输入(),然后回车。"], "answer": ["discuss??about the issue"], "id": "q1172", "path": "screenshot/data/q1172.png"}
+{"type": "单选题", "score": "5分", "question": ["在G/T7714-2015有关参考文献著录格式的国家标准中,字母(标志代码)“M”“”“J”代表参考文献的类型为()。"], "answer": ["图书;学位论文;期刊"], "id": "q1173", "path": "screenshot/data/q1173.png"}
+{"type": "多选题", "score": "5分", "question": ["关于用Word进行论文排版,下列说法正确的有()。"], "answer": ["论文的各级标题,可以用样式。", "不要总在一个文档中修改,尽量多保存一些副本。", "定稿、打印稿,最好用PF格式。", "可以通过设置,调整自动保存的时间间隔。"], "id": "q1174", "path": "screenshot/data/q1174.png"}
+{"type": "多选题", "score": "5分", "question": ["论文选题,可以从以下几个方面入手()。"], "answer": ["从社会现实中选题。", "关注领域内的高水平会议,跟踪科研热点。", "关注近年来国家社科和国家自科的立项题目。", "从学科交叉中找线索。"], "id": "q1175", "path": "screenshot/data/q1175.png"}
+{"type": "多选题", "score": "5分", "question": ["找论文答辩方面的PPT模板,可以用一下哪些方式?"], "answer": ["在知乎中搜索,找别人的推荐", "3搜索引擎中搜索,检索表达式可以这样:答辩filetype:ppt", "在微信中搜索,找别人的推荐", "通过islide插件,查找答辩PPT模板"], "id": "q1177", "path": "screenshot/data/q1177.png"}
+{"type": "多选题", "score": "5分", "question": ["下列行为,属于一稿多投的有()。"], "answer": ["写一篇论文,同时向国内、国外两个期刊投稿。", "写一篇论文,投稿给期刊,两周都没有得到回复,细微修改后投给了期刊。", "毕业等着发论文,一篇论文同时投给,,三家期刊。"], "id": "q1178", "path": "screenshot/data/q1178.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于学术不端中的篡改行为的有百()。"], "answer": ["拼接不同图片从而构造不真实的图片。", "使用经过擅自修改、挑选、删减、增加的原始调查记录、实验数据等,使原始调查记录、实验数据等的本意发生改变。", "从图片整体中去除一部分或添加一些虚构的部分,使对图片的解释发生改c变。", "增强、模糊、移动图片的特定部分,是对图片的解释发生变化。"], "id": "q1180", "path": "screenshot/data/q1180.png"}
+{"type": "判断题", "score": "5分", "question": ["Zetero是一个免费的文献管理工具,安装后设置一下,可以开启or的zetero插件。"], "answer": ["正确"], "id": "q1182", "path": "screenshot/data/q1182.png"}
+{"type": "判断题", "score": "5分", "question": ["通过百度学术可以导出G7714标准的参考文献,既可以导出单篇文也可以批量导出。"], "answer": ["正确"], "id": "q1183", "path": "screenshot/data/q1183.png"}
+{"type": "判断题", "score": "5分", "question": ["在引用别人的文献时,要注明参考文献。尽量引用最原始的观点,避免用别人的引用。"], "answer": ["正确"], "id": "q1184", "path": "screenshot/data/q1184.png"}
+{"type": "判断题", "score": "5分", "question": ["Journal Finder(https://journalfinder.elsevier.com)是一个投稿选具,可以在SI、SSI期刊范围内匹配合适的期刊。"], "answer": ["错误"], "id": "q1185", "path": "screenshot/data/q1185.png"}
+{"type": "判断题", "score": "5分", "question": ["在word中设置样式后,调整格式的时候,直接在样式上调整,一处修多处联动,方便快捷。"], "answer": ["正确"], "id": "q1187", "path": "screenshot/data/q1187.png"}
+{"type": "判断题", "score": "5分", "question": ["论文的署名作者,必须是直接参与论文研究与撰写的主要人员。"], "answer": ["正确"], "id": "q1188", "path": "screenshot/data/q1188.png"}
+{"type": "单选题", "score": "5分", "question": ["读文献要选择好文献,找一个领域内的名篇,可以通过文献数据库的排序能。请问,合适的排序字段是()。"], "answer": ["被引"], "id": "q1189", "path": "screenshot/data/q1189.png"}
+{"type": "单选题", "score": "5分", "question": ["下列可以快速合并多个PF文件的工具软件是()。"], "answer": ["万彩办公大师"], "id": "q1190", "path": "screenshot/data/q1190.png"}
+{"type": "单选题", "score": "5分", "question": ["在G/T7714-2015这个有关参考文献著录格式的国家标准中,图书这种献类型,用字母()来表示。"], "answer": ["M"], "id": "q1192", "path": "screenshot/data/q1192.png"}
+{"type": "单选题", "score": "5分", "question": ["在word中,“TRL+回车”,这个快捷键的功能是()"], "answer": ["插入分页符,换到下一页。"], "id": "q1193", "path": "screenshot/data/q1193.png"}
+{"type": "多选题", "score": "5分", "question": ["论文选题,可以从以下几个方面入手()。"], "answer": ["关注近年来国家社科和国家自科的立项题目。", "关注领域内的高水平会议,跟踪科研热点。", "从社会现实中选题。", "从学科交叉中找线索。"], "id": "q1194", "path": "screenshot/data/q1194.png"}
+{"type": "多选题", "score": "5分", "question": ["关于用Word进行论文排版,下列说法正确的有()"], "answer": ["不要总在一个文档中修改,尽量多保存一些副本。", "论文的各级标题,可以用样式。c", "可以通过设置,调整自动保存的时间间隔。"], "id": "q1195", "path": "screenshot/data/q1195.png"}
+{"type": "多选题", "score": "5分", "question": ["在Word中,下列内容可以替换的有()。"], "answer": ["字体", "空格", "字号", "文字"], "id": "q1196", "path": "screenshot/data/q1196.png"}
+{"type": "多选题", "score": "5分", "question": ["找论文答辩方面的PPT模板,可以用一下哪些方式?"], "answer": ["在微信中搜索,找别人的推荐", "搜索引擎中搜索,检索表达式可以这样:答辩filetype:ppt", "c在知乎中搜索,找别人的推荐", "通过islide插件,查找答辩PPT模板"], "id": "q1197", "path": "screenshot/data/q1197.png"}
+{"type": "多选题", "score": "5分", "question": ["在word中选定一行文字,如果想增大字号,可以用的快捷键有()"], "answer": ["trl+】", "trl+shift+."], "id": "q1198", "path": "screenshot/data/q1198.png"}
+{"type": "多选题", "score": "5分", "question": ["下列属于学术不端中的伪造行为的有()。"], "answer": ["编造审稿人信息、审稿意见。", "编造能为论文提供支持的资料、注释、参考文献。", "编造不以实际调查或实验取得的数据、图片等。", "编造不符合实际或无法重复验证的研究方法、结论等。"], "id": "q1199", "path": "screenshot/data/q1199.png"}
+{"type": "多选题", "score": "5分", "question": ["关于文献综述,下列说法正确的有()。"], "answer": ["做文献综述,要选择合适的文献。选择的文献要合适,关键的文献要找到,文献的级别不能低,新文献不能少。", "做文献综述,要明白做文献综述的目的和意义。", "评述别人的文献,要客观,不能断章取义,也不能避重就轻,更不能歪曲另c人的意思。", "文献综述,不是观点的罗列,要学会评述,要有完美的逻辑。"], "id": "q1200", "path": "screenshot/data/q1200.png"}
+{"type": "多选题", "score": "5分", "question": ["下列行为属于不当署名的有()。"], "answer": ["未经他人同意擅自将其列入作者名单。", "将对论文所涉及的研究有实质性贡献的人排除在作者名单外。", "未对论文所涉及的研究有实质性贡献的人在论文中署名", "作者排序与其对论文的实际贡献不符。"], "id": "q1201", "path": "screenshot/data/q1201.png"}
+{"type": "多选题", "score": "5分", "question": ["关于文献综述,下列说法正确的有()。"], "answer": ["毕业论文的开题报告,也需要写文献综述。", "文献综述可以帮助我们了解一个研究领域。", "文献综述可以是单独的一篇文章,也可以是学术论文、毕业论文汇总的一部"], "id": "q1202", "path": "screenshot/data/q1202.png"}
+{"type": "判断题", "score": "5分", "question": ["Zetero是一个免费的文献管理工具,安装后设置一下,可以开启word中zetero插件。"], "answer": ["正确"], "id": "q1203", "path": "screenshot/data/q1203.png"}
+{"type": "判断题", "score": "5分", "question": ["在Word中修改别人的文档,如果使用“修订”功能,对方在接到修订后勺文档后,可以选择接受修订,也可以选择拒绝。"], "answer": ["正确"], "id": "q1204", "path": "screenshot/data/q1204.png"}
+{"type": "判断题", "score": "5分", "question": ["写论文,要先读文献。找文献,首选图书馆购置的文献数据库。另外可以去找找O文献。"], "answer": ["正确"], "id": "q1207", "path": "screenshot/data/q1207.png"}
+{"type": "判断题", "score": "5分", "question": ["在word中设置样式后,调整格式的时候,直接在样式上调整,一处修多处联动,方便快捷。"], "answer": ["正确"], "id": "q1208", "path": "screenshot/data/q1208.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中检索期刊论文,来源类别中同时勾选了SSI和北大核心,请列说法正确的是()。"], "answer": ["找到的每一篇论文,所在的期刊,北大核心和SSI至少属于一个。"], "id": "q1209", "path": "screenshot/data/q1209.png"}
+{"type": "单选题", "score": "5分", "question": ["在webofscience中,表示布尔逻辑“或”的连接词是是()。"], "answer": ["or"], "id": "q1210", "path": "screenshot/data/q1210.png"}
+{"type": "单选题", "score": "5分", "question": ["在webofscience中,检索点选择“标题”,检索词输入leg和ache这两个词,中间用空格连接。这种表达方式,体现的是布尔检索中的()关系。"], "answer": ["并且"], "id": "q1211", "path": "screenshot/data/q1211.png"}
+{"type": "单选题", "score": "5分", "question": ["在搜索引擎中,我们用空格链接多个检索词或者检索条件时,空格表示()关系。"], "answer": ["并且"], "id": "q1212", "path": "screenshot/data/q1212.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索搜索界面 (https://www.baidu.com/gaoji/advanced.tml)中,第三项是“包含以下任意一个关键词”,如果在其后的搜索框中输入?大数?人工智能?,那么我的检索意图是()。"], "answer": ["大数据和人工智能这两个词只要出现一个就可以了,布尔逻辑或者的意思"], "id": "q1213", "path": "screenshot/data/q1213.png"}
+{"type": "单选题", "score": "5分", "question": ["下面选项中,知网中2015-2019年,清华大学发表S论文最多的作是()。"], "answer": ["王黎明"], "id": "q1214", "path": "screenshot/data/q1214.png"}
+{"type": "单选题", "score": "5分", "question": ["在NKI的期刊检索中,选择检索点“篇名”,检索表达式输入:信息素养数字素养。请问:检索意图是什么?"], "answer": ["查找篇名中包含“信息素养”和“数字素养”的文献。"], "id": "q1215", "path": "screenshot/data/q1215.png"}
+{"type": "单选题", "score": "5分", "question": ["找北京大学发表的、题目中含有“比较优势”的SSI论文,涉及到的布尔逻辑关系是"], "answer": ["并且"], "id": "q1216", "path": "screenshot/data/q1216.png"}
+{"type": "单选题", "score": "5分", "question": ["想找注册会计师(简称:P)方面的内容,注册会计师也好,P也,这两个词只要出现其一即可。在搜索引擎百度中如何表达这种或者关系?()"], "answer": ["注册会计师|P"], "id": "q1217", "path": "screenshot/data/q1217.png"}
+{"type": "单选题", "score": "5分", "question": ["知网中,2020年前《图书馆》上发表的关键词含有“法律”的SSI有多少篇?"], "answer": ["不足100篇"], "id": "q1218", "path": "screenshot/data/q1218.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度中用减号,表示()关系。"], "answer": ["非"], "id": "q1219", "path": "screenshot/data/q1219.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki中查找清华大学(不包括图书馆)发表的篇名中含有“共享经济“分享经济”的论文,涉及到的布尔逻辑检索关系有()。"], "answer": ["非", "或者", "并且"], "id": "q1220", "path": "screenshot/data/q1220.png"}
+{"type": "多选题", "score": "5分", "question": ["下列不支持减号这个语法的系统有()。"], "answer": ["360搜索", "搜狗"], "id": "q1221", "path": "screenshot/data/q1221.png"}
+{"type": "多选题", "score": "5分", "question": ["布尔逻辑检索中涉及的逻辑关系有()。"], "answer": ["或者", "并且", "非"], "id": "q1222", "path": "screenshot/data/q1222.png"}
+{"type": "多选题", "score": "5分", "question": ["下列系统,支持布尔逻辑中或者关系的有()。"], "answer": ["springer", "百度", "pqdt", "cnki"], "id": "q1223", "path": "screenshot/data/q1223.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度的搜索框输入?甲状腺-广告,请问我的检索意图是()"], "answer": ["结果中必须出现甲状腺这个词", "c结果中不能出现广告这个词"], "id": "q1224", "path": "screenshot/data/q1224.png"}
+{"type": "判断题", "score": "5分", "question": ["所有的搜索引擎都支持减号这个语法。"], "answer": ["错误"], "id": "q1225", "path": "screenshot/data/q1225.png"}
+{"type": "判断题", "score": "5分", "question": ["同一检索点下,NKI用加号、问号、减号分别表示或者、并且、非这三布尔逻辑关系,用半角括号改变运算顺序。不同检索点下,NKI用N、OR、N表示表示布尔逻辑关系。"], "answer": ["错误"], "id": "q1226", "path": "screenshot/data/q1226.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience中,同一个检索点下可以实现布尔逻辑关系,不同的索点之间也可以实现布尔逻辑关系。"], "answer": ["正确"], "id": "q1227", "path": "screenshot/data/q1227.png"}
+{"type": "单选题", "score": "5分", "question": ["在OJ中找论文,检索点选择“标题”,检索词输入:educat*andteah*,找到的文献数量符合下面那种说法?"], "answer": ["3001以上"], "id": "q1229", "path": "screenshot/data/q1229.png"}
+{"type": "单选题", "score": "5分", "question": ["在汇雅电子书数据库中查找由广西人民出版社出版的王国维的著作《人词话》第11页引用了谁的话?"], "answer": ["尼采"], "id": "q1230", "path": "screenshot/data/q1230.png"}
+{"type": "单选题", "score": "5分", "question": ["在NKI期刊论文数据库的高级检索中,可以使用运算符*、+、-、I\"()等符号,实现同一检索项内多个检索词的组合运算。请问+表示什么运算关"], "answer": ["或者"], "id": "q1232", "path": "screenshot/data/q1232.png"}
+{"type": "单选题", "score": "5分", "question": ["在NKI期刊论文数据库中,选择检索项(检索点)为“篇名”,检索词输(锻造+自由锻)*裂纹,找到的结果是()。"], "answer": ["篇名中含有“锻造”或者“自由锻”,并且含有“裂纹”的文章"], "id": "q1233", "path": "screenshot/data/q1233.png"}
+{"type": "单选题", "score": "5分", "question": ["知网选择“篇关摘”,检索词是“英语”,但不涉及“写作”,下面选项中引用数最多的学位论文的作者是?"], "answer": ["李荣陆"], "id": "q1234", "path": "screenshot/data/q1234.png"}
+{"type": "单选题", "score": "5分", "question": ["在读秀数据库图书的“目次”下检索,含有短语“主观幸福感”的图书在20年前共有多少种?"], "answer": ["400种以内"], "id": "q1235", "path": "screenshot/data/q1235.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索页面(https://www.baidu.com/gaoji/advanced.htm,有一个“包含以下完整关键词”的选项,这个选项的作用是不让搜索引擎拆分关键1,也就是实现精确匹配。如果在这个选项后面的搜索框中输入信息素养与终身学习九个字,然后点击“高级搜索”按钮,这时,检索结果页面搜索框中的内容是()。"], "answer": ["\"信息素养与终身学习\""], "id": "q1237", "path": "screenshot/data/q1237.png"}
+{"type": "单选题", "score": "5分", "question": ["要查找期刊《大学图书馆学报》上的论文,可以在NKI的高级检索中选择“期刊名称”为检索点,在后面的检索框中输入(),然后点击“检索”按钮。"], "answer": ["大学图书馆学报"], "id": "q1238", "path": "screenshot/data/q1238.png"}
+{"type": "单选题", "score": "5分", "question": ["下列网络工具,与硕鼠功能类似,可以识别在线视频原地址的是()"], "answer": ["维棠"], "id": "q1239", "path": "screenshot/data/q1239.png"}
+{"type": "多选题", "score": "5分", "question": ["下列系统,支持布尔逻辑中非关系的有()。"], "answer": ["4pqdt", "springer", "cnki", "百度"], "id": "q1241", "path": "screenshot/data/q1241.png"}
+{"type": "多选题", "score": "5分", "question": ["使用PubMeddvancedSearchuilder构造检索表达式,可以使用的市尔逻辑符有()。"], "answer": ["NOT", "OR", "N"], "id": "q1242", "path": "screenshot/data/q1242.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度的高级搜索界面中,对检索词出现位置的限制有多种选择,其中包括()。"], "answer": ["网页的任何地方", "c仅在网页的URL中", "仅在网页的标题中"], "id": "q1243", "path": "screenshot/data/q1243.png"}
+{"type": "多选题", "score": "5分", "question": ["在搜狗的搜索框中输入:软件工程filetype:pptsite:edu.cn下列说法()正确的有"], "answer": ["filetype、site这两个语法,百度、必应、谷歌等主流搜索引擎都支持。", "检索表达式中的filetype:ppt,作用是限制搜索结果的文件的类型,必须是PPT文件。", "c检索表达式中的site:edu.cn,作用是现在检索结果的来源,必须来自教育网(edu.cn)。"], "id": "q1244", "path": "screenshot/data/q1244.png"}
+{"type": "多选题", "score": "5分", "question": ["在Scienceirect(S)高级检索中,检索点:Findarticleswiththeseerms,检索词:precisionmedicine,并且要求这两个单词以短语的形式检索(也就是不能拆分);时间限制为:2000-2020年。关于检索结果,下列说法正确的有( )。"], "answer": ["2018年的文献数量没有超过4000篇", "ase reports在60篇以上"], "id": "q1246", "path": "screenshot/data/q1246.png"}
+{"type": "判断题", "score": "5分", "question": ["在百度的搜索框中输入:高等数学 site:www.tsinghua.edu.cn,回车可以找到来自于清华大学出版社网站(www.tup.tsinghua.edu.cn)上的信息。"], "answer": ["错误"], "id": "q1248", "path": "screenshot/data/q1248.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索界面中(https://www.baidu.com/gaoji/advanced.ht1)的站内检索功能在()项。"], "answer": ["最后一"], "id": "q1250", "path": "screenshot/data/q1250.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具软件,属于下载工具的是()。"], "answer": ["3motrix"], "id": "q1251", "path": "screenshot/data/q1251.png"}
+{"type": "单选题", "score": "5分", "question": ["在汇雅书电子书之类的电子书数据库中找一本宏观经济方面的电子书较合适的检索点是()。"], "answer": ["书名"], "id": "q1252", "path": "screenshot/data/q1252.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中找北京大学发表的期刊论文,需要选择的检索点是0"], "answer": ["作者单位"], "id": "q1253", "path": "screenshot/data/q1253.png"}
+{"type": "单选题", "score": "5分", "question": ["在搜索引擎中可以使用site语法实现指定网站的站内检索。如果搜索清华大学的网站中“大数据安全”方面的内容,最好用下面哪个检索表达式?()"], "answer": ["大数据安全 site:tsinghua.edu.cn"], "id": "q1254", "path": "screenshot/data/q1254.png"}
+{"type": "单选题", "score": "5分", "question": ["在springer中输入“comput*”进行检索,请问这是一种()截词检索技"], "answer": ["后截断"], "id": "q1255", "path": "screenshot/data/q1255.png"}
+{"type": "单选题", "score": "5分", "question": ["如果不想让搜索引擎拆分检索词,可以为检索词加上()"], "answer": ["双引号"], "id": "q1256", "path": "screenshot/data/q1256.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度的搜索框中输入:人工智能site:edu.cn,可能找到以下哪些网站上的内容?"], "answer": ["北京大学", "山东理工大学"], "id": "q1258", "path": "screenshot/data/q1258.png"}
+{"type": "多选题", "score": "5分", "question": ["在MigitalLibrary的高级检索中有一个名为“SearchWithin”的选页,可以选择具体的检索点,其中包括()。"], "answer": ["uthor", "OI", "Title", "Name"], "id": "q1260", "path": "screenshot/data/q1260.png"}
+{"type": "多选题", "score": "5分", "question": ["在MigitalLibrary的高级检索中有一个名为“Searchitemsfrom:为选项,可以选择具体的子库,其中包括()。"], "answer": ["The M Full-Text collection", "The M Guide to omputing Literaturec"], "id": "q1261", "path": "screenshot/data/q1261.png"}
+{"type": "多选题", "score": "5分", "question": ["标题党确实有点哗众取宠,但有时候也能找到实用资源。下列标题党常用并且适合找实用内容的关键词有()。"], "answer": ["吐血推荐", "相见恨晚", "好用不火", "神器"], "id": "q1262", "path": "screenshot/data/q1262.png"}
+{"type": "判断题", "score": "5分", "question": ["通过保存网页的方式批量下载网页中的图片,网页中的图片一般会保存在同名文件夹中。"], "answer": ["正确"], "id": "q1263", "path": "screenshot/data/q1263.png"}
+{"type": "判断题", "score": "5分", "question": ["不是所有的搜索引擎都支持减号这个语法,百度、360搜索、搜狗、必这几个搜索引擎是支持减号这个语法的。"], "answer": ["错误"], "id": "q1264", "path": "screenshot/data/q1264.png"}
+{"type": "判断题", "score": "5分", "question": ["遇到问题,要想到基于信息来解决,如果没有思路,可以从找攻略开。找攻略,检索词可能有多种组合,并不唯一。"], "answer": ["正确"], "id": "q1265", "path": "screenshot/data/q1265.png"}
+{"type": "判断题", "score": "5分", "question": ["学堂在线的搜索框,具有检索词联想功能。比如:输入“数学”,会给出个包含“数学”这两个字的检索词。"], "answer": ["正确"], "id": "q1266", "path": "screenshot/data/q1266.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience的高级检索中开启“精确检索”开关,可以保证检索词以原形的形式参与检索,而且检索词不能被拆分。"], "answer": ["错误"], "id": "q1267", "path": "screenshot/data/q1267.png"}
+{"type": "判断题", "score": "5分", "question": ["在搜索引擎中不能用一句话作为检索词。"], "answer": ["错误"], "id": "q1268", "path": "screenshot/data/q1268.png"}
+{"type": "单选题", "score": "5分", "question": ["要查找期刊《大学图书馆学报》上的论文,可以在NKI的高级检索中选择“期刊名称”为检索点,在后面的检索框中输入(),然后点击“检索”按钮。"], "answer": ["大学图书馆学报"], "id": "q1269", "path": "screenshot/data/q1269.png"}
+{"type": "单选题", "score": "5分", "question": ["在汇雅电子书数据库中查找由广西人民出版社出版的王国维的著作《词话》第11页引用了谁的话?"], "answer": ["尼采"], "id": "q1270", "path": "screenshot/data/q1270.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索页面(https://www.baidu.com/gaoji/advanced.htm,有一个“包含以下完整关键词”的选项,这个选项的作用是不让搜索引擎拆分关键,也就是实现精确匹配。如果在这个选项后面的搜索框中输入信息素养与终身学习九个字,然后点击“高级搜索”按钮,这时,检索结果页面搜索框中的内容是()。"], "answer": ["\"信息素养与终身学习\""], "id": "q1271", "path": "screenshot/data/q1271.png"}
+{"type": "单选题", "score": "5分", "question": ["下列网址,是百度高级搜索页面的是"], "answer": ["https://www.baidu.com/gaoji/advanced.html"], "id": "q1272", "path": "screenshot/data/q1272.png"}
+{"type": "单选题", "score": "5分", "question": ["在OJ中找论文,检索点选择“标题”,检索词输入:educat*andteach*,找到的文献数量符合下面那种说法?"], "answer": ["3001以上"], "id": "q1273", "path": "screenshot/data/q1273.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中,查找名为“黄玲”的作者在2010-2018年发表的期刊论文,哪个数字最接近找到的论文数量?"], "answer": ["1700"], "id": "q1274", "path": "screenshot/data/q1274.png"}
+{"type": "多选题", "score": "5分", "question": ["在NKl期刊论文高级检索界面(https://kns.cnki.net/KNS8/dvSearcPdbcode=JFQ),可以使用布尔逻辑检索。其中的布尔逻辑关系分别用()表"], "answer": ["or", "not"], "id": "q1275", "path": "screenshot/data/q1275.png"}
+{"type": "多选题", "score": "5分", "question": ["pubmed在检索词自动匹配中,要参考()等转换表获索引"], "answer": ["uthor index", "Journals translation table", "Subject translation table", "Investigator (ollaborator) index"], "id": "q1276", "path": "screenshot/data/q1276.png"}
+{"type": "多选题", "score": "5分", "question": ["进入百度的高级搜索页面(https://www.baidu.com/gaoji/advanced.ht1),可以看到一个文档格式的限制选项,可以指定搜索结果的具体文件格式,其中一个“所有格式”的选项。如果输入搜索词“视频”,选择这个“所有格式”,下列哪些式的文件可能被找到?"], "answer": ["WOR", "PF", "XLS"], "id": "q1277", "path": "screenshot/data/q1277.png"}
+{"type": "多选题", "score": "5分", "question": ["在下列搜索引擎的高级搜索语法中,哪些是搜狗不支持的?"], "answer": ["表示布尔逻辑“非”的减号", "表示布尔逻辑“或”的竖线"], "id": "q1278", "path": "screenshot/data/q1278.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度的高级搜索页面,有一个文档格式的限制选项,可以指定搜索结的具体文件格式。请问,下列哪些文件格式是可以选择的?"], "answer": ["微软excel", "adobe acrobat pdf", "微软word"], "id": "q1279", "path": "screenshot/data/q1279.png"}
+{"type": "多选题", "score": "5分", "question": ["在NKl期刊论文的高级检索界面(https://kns.cnki.net/KNS8/dvSeach?dbcode=JFQ),可以()。"], "answer": ["限制检索词出现的位置是期刊名称中", "c使用布尔逻辑交、并、补", "限制结果必须是SSI期刊文章"], "id": "q1280", "path": "screenshot/data/q1280.png"}
+{"type": "多选题", "score": "5分", "question": ["Scopus中,*butyl可以检索到:"], "answer": ["o-butyl", "di-n-butyl phthalate", "3,5-di-tert-butyl substituted phthalocyanines"], "id": "q1281", "path": "screenshot/data/q1281.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience的高级检索中关闭“精确检索”开关,检索词不仅可能拆分,而且会匹配到同一单词不同词形的结果。"], "answer": ["正确"], "id": "q1282", "path": "screenshot/data/q1282.png"}
+{"type": "判断题", "score": "5分", "question": ["遇到问题,要想到基于信息来解决,如果没有思路,可以从找攻略开找攻略,检索词可能有多种组合,并不唯一。"], "answer": ["正确"], "id": "q1283", "path": "screenshot/data/q1283.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience的检索表达式中,可以使用字段限制、布尔逻辑、国检索、精确匹配等检索技术。"], "answer": ["正确"], "id": "q1284", "path": "screenshot/data/q1284.png"}
+{"type": "判断题", "score": "5分", "question": ["在截词检索中,用来替代不特定字符的特定字符,一般称为通配符。大部分检索系统支持通配符,而且通配符都是一致的,星号表示无限截词,问号表示有截词。"], "answer": ["错误"], "id": "q1286", "path": "screenshot/data/q1286.png"}
+{"type": "判断题", "score": "5分", "question": ["在搜索引擎中不能用一句话作为检索词。"], "answer": ["错误"], "id": "q1287", "path": "screenshot/data/q1287.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中查找林毅夫老师发表的文章,选择检索点“作者”,合适的检索词"], "answer": ["林毅夫"], "id": "q1289", "path": "screenshot/data/q1289.png"}
+{"type": "单选题", "score": "5分", "question": ["想找注册会计师(简称:P)方面的内容,注册会计师也好,P也这两个词只要出现其一即可。在搜索引擎百度中如何表达这种或者关系?)"], "answer": ["注册会计师|P"], "id": "q1292", "path": "screenshot/data/q1292.png"}
+{"type": "单选题", "score": "5分", "question": ["下列工具软件,属于下载工具的是()。"], "answer": ["3motrix"], "id": "q1293", "path": "screenshot/data/q1293.png"}
+{"type": "单选题", "score": "5分", "question": ["如果不想让搜索引擎拆分检索词,可以为检索词加上()"], "answer": ["双引号"], "id": "q1294", "path": "screenshot/data/q1294.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中找北京大学发表的期刊论文,需要选择的检索点是()"], "answer": ["作者单位"], "id": "q1295", "path": "screenshot/data/q1295.png"}
+{"type": "单选题", "score": "5分", "question": ["找北京大学发表的、题目中含有“比较优势”的SSI论文,涉及到的布尔逻辑关系是"], "answer": ["并且"], "id": "q1296", "path": "screenshot/data/q1296.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索搜索界面(https://www.baidu.com/gaoji/advancedtml)中,第三项是“包含以下任意一个关键词”,如果在其后的搜索框中输入?大数居?人工智能?,那么我的检索意图是()。"], "answer": ["大数据和人工智能这两个词只要出现一个就可以了,布尔逻辑或者的意思"], "id": "q1297", "path": "screenshot/data/q1297.png"}
+{"type": "单选题", "score": "5分", "question": ["在搜索引擎中,我们用空格链接多个检索词或者检索条件时,空格表示)关系。"], "answer": ["并且"], "id": "q1298", "path": "screenshot/data/q1298.png"}
+{"type": "多选题", "score": "5分", "question": ["汇雅书电子书数据库提供的检索点有()"], "answer": ["作者", "全文检索", "c书名", "目录"], "id": "q1299", "path": "screenshot/data/q1299.png"}
+{"type": "多选题", "score": "5分", "question": ["下列可以在pubmed的高级检索页面找到的有(0"], "answer": ["PubMed dvanced Search uilder", "Query box", "History and Search etails"], "id": "q1300", "path": "screenshot/data/q1300.png"}
+{"type": "多选题", "score": "5分", "question": ["在Scienceirect(S)高级检索中,检索点:Findarticleswiththeseerms,检索词:precisionmedicine,并且要求这两个单词以短语的形式检索(也就是不能拆分);时间限制为:2000-2020年。关于检索结果,下列说法正确的有( )。"], "answer": ["2018年的文献数量没有超过4000篇", "ase reports在60篇以上"], "id": "q1302", "path": "screenshot/data/q1302.png"}
+{"type": "多选题", "score": "5分", "question": ["百度网盘的功能有哪些?"], "answer": ["云端存储", "文件在线分享", "自动备份"], "id": "q1303", "path": "screenshot/data/q1303.png"}
+{"type": "判断题", "score": "5分", "question": ["在webofscience的高级检索中开启“精确检索”开关,可以保证检索词以原形的形式参与检索,而且检索词不能被拆分。"], "answer": ["错误"], "id": "q1304", "path": "screenshot/data/q1304.png"}
+{"type": "判断题", "score": "5分", "question": ["查英文文献,检索词一般需要输入英文。英文检索词,可以参考中文文献的英文题录。"], "answer": ["正确"], "id": "q1305", "path": "screenshot/data/q1305.png"}
+{"type": "判断题", "score": "5分", "question": ["通过保存网页的方式批量下载网页中的图片,网页中的图片一般会保存在同名文件夹中。"], "answer": ["正确"], "id": "q1306", "path": "screenshot/data/q1306.png"}
+{"type": "判断题", "score": "5分", "question": ["在截词检索中,用来替代不特定字符的特定字符,一般称为通配符。大部分检索系统支持通配符,而且通配符都是一致的,星号表示无限截词,问号表示有截词。"], "answer": ["错误"], "id": "q1307", "path": "screenshot/data/q1307.png"}
+{"type": "单选题", "score": "5分", "question": ["关于百度网盘,下列说法错误的是()。"], "answer": ["百度网盘是收费软件,无法免费使用"], "id": "q1309", "path": "screenshot/data/q1309.png"}
+{"type": "单选题", "score": "5分", "question": ["在NKI期刊论文数据库中,选择检索项(检索点)为“篇名”,检索词输(锻造+自由锻)*裂纹,找到的结果是()。"], "answer": ["篇名中含有“锻造”或者“自由锻”,并且含有“裂纹”的文章"], "id": "q1310", "path": "screenshot/data/q1310.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中,查找名为“黄玲”的作者在2010-2018年发表的期刊论文,下哪个数字最接近找到的论文数量?"], "answer": ["1700"], "id": "q1311", "path": "screenshot/data/q1311.png"}
+{"type": "单选题", "score": "5分", "question": ["在pubmed的检索框中输入WuMS这个检索词,不加引号,在高级检索面查看检索细节,可以看到转换后的检索表达式。请问,转换后的检索表达式是"], "answer": ["wu ms[uthor] OR wu ms[Investigator]"], "id": "q1312", "path": "screenshot/data/q1312.png"}
+{"type": "单选题", "score": "5分", "question": ["在维普数据库中检索包括“精神疾病\"这个题名或关键词的文章,同时勾选同义词扩展功能,选择”psychoticdisorder”、“mentalillness”、“神经系统疾病”这个同义词,时间限定为自收录起始年-2018年,找到的文章数量与下面哪个选项匹"], "answer": ["超过11000篇"], "id": "q1313", "path": "screenshot/data/q1313.png"}
+{"type": "单选题", "score": "5分", "question": ["下面选项中,知网中2015-2019年,清华大学发表S论文最多的作者是()。"], "answer": ["王黎明"], "id": "q1314", "path": "screenshot/data/q1314.png"}
+{"type": "多选题", "score": "5分", "question": ["360搜索引擎支持的高级搜索语法有()。"], "answer": ["inurl", "site", "filetype", "减号"], "id": "q1315", "path": "screenshot/data/q1315.png"}
+{"type": "多选题", "score": "5分", "question": ["在搜索引擎中,用filetype语法可以实现指定文件类型的搜索,请问:iletype语法可以搜索哪些格式的文档?()"], "answer": ["pdf", "doc"], "id": "q1316", "path": "screenshot/data/q1316.png"}
+{"type": "多选题", "score": "5分", "question": ["布尔逻辑检索中涉及的逻辑关系有()。"], "answer": ["或者", "并且", "非"], "id": "q1318", "path": "screenshot/data/q1318.png"}
+{"type": "多选题", "score": "5分", "question": ["通过搜索引擎找《早春二月》这部电影的在线视频或者视频下载链接列哪些检索词可以找到?()"], "answer": ["早春二月1080", "早春二月720", "早春二月高清", "早春二月 thunder://"], "id": "q1319", "path": "screenshot/data/q1319.png"}
+{"type": "多选题", "score": "5分", "question": ["下列数据库,有同义词扩展功能的有()。"], "answer": ["维普", "cnki"], "id": "q1320", "path": "screenshot/data/q1320.png"}
+{"type": "多选题", "score": "5分", "question": ["在用搜索引擎查找信息时,下列哪种情况适合用一句话作为检索词( )"], "answer": ["查找一句话出自哪一本小说", "安装软件时,系统弹出一个警告,想了解如何解决c", "查找一个单选题来自哪一年的高考原题"], "id": "q1321", "path": "screenshot/data/q1321.png"}
+{"type": "判断题", "score": "5分", "question": ["在截词检索中,用来替代不特定字符的特定字符,一般称为通配符。大部分检索系统支持通配符,而且通配符都是一致的,星号表示无限截词,问号表示有截词。"], "answer": ["错误"], "id": "q1322", "path": "screenshot/data/q1322.png"}
+{"type": "判断题", "score": "5分", "question": ["MOTRIX是一个文件管理工具。"], "answer": ["错误"], "id": "q1324", "path": "screenshot/data/q1324.png"}
+{"type": "判断题", "score": "5分", "question": ["通过搜索引擎查找解决问题的攻略,“攻略”这两个字不一定非要出现在验索词中。"], "answer": ["正确"], "id": "q1326", "path": "screenshot/data/q1326.png"}
+{"type": "单选题", "score": "5分", "question": ["知网选择“篇关摘”,检索词是“英语”,但不涉及“写作”,下面选项中引用欠数最多的学位论文的作者是?"], "answer": ["李荣陆"], "id": "q1329", "path": "screenshot/data/q1329.png"}
+{"type": "单选题", "score": "5分", "question": ["想找注册会计师(简称:P)方面的内容,注册会计师也好,P也这两个词只要出现其一即可。在搜索引擎百度中如何表达这种或者关系?()"], "answer": ["注册会计师P"], "id": "q1331", "path": "screenshot/data/q1331.png"}
+{"type": "单选题", "score": "5分", "question": ["下列网络工具,与硕鼠功能类似,可以识别在线视频原地址的是()"], "answer": ["维棠"], "id": "q1332", "path": "screenshot/data/q1332.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索页面,可以使用“包含以下的完整关键词”选项实现0功能。"], "answer": ["精确匹配"], "id": "q1333", "path": "screenshot/data/q1333.png"}
+{"type": "多选题", "score": "5分", "question": ["下列数据库,有同义词扩展功能的有()。"], "answer": ["维普", "cnki"], "id": "q1335", "path": "screenshot/data/q1335.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度中搜索时,下列哪些语法可以把检索词限制在标题里?"], "answer": ["intitle", "title"], "id": "q1336", "path": "screenshot/data/q1336.png"}
+{"type": "多选题", "score": "5分", "question": ["在用搜索引擎查找信息时,下列哪种情况适合用一句话作为检索词。( )"], "answer": ["查找一句话出自哪一本小说", "查找一个单选题来自哪一年的高考原题c", "安装软件时,系统弹出一个警告,想了解如何解决"], "id": "q1337", "path": "screenshot/data/q1337.png"}
+{"type": "多选题", "score": "5分", "question": ["关于硕鼠这个工具,下列说法正确的有()。"], "answer": ["硕鼠是一个在线视频地址转换工具。", "硕鼠可以免费使用。", "硕鼠有P客户端,也有浏览器插件。c"], "id": "q1338", "path": "screenshot/data/q1338.png"}
+{"type": "多选题", "score": "5分", "question": ["进入百度高级搜索界面的方法有()。"], "answer": ["在百度首页点击右上角设置中的高级搜索", "在百度中搜索“百度高级搜索”", "直接输入网址(https://www.baidu.com/gaoji/advanced.html"], "id": "q1339", "path": "screenshot/data/q1339.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度高级搜索界面(https://www.baidu.com/gaoji/advanced.htm中可以进行语言类型的限制,其中的选项分别有()。"], "answer": ["仅在简体中文中", "全部语言", "仅在繁体中文中"], "id": "q1340", "path": "screenshot/data/q1340.png"}
+{"type": "多选题", "score": "5分", "question": ["布尔逻辑检索中涉及的逻辑关系有()。"], "answer": ["或者", "非", "并且"], "id": "q1341", "path": "screenshot/data/q1341.png"}
+{"type": "判断题", "score": "5分", "question": ["在NKI中查找《经济研究》这本期刊上的论文,检索点选择“期刊名”,检索词输入“《经济研究》”。"], "answer": ["错误"], "id": "q1342", "path": "screenshot/data/q1342.png"}
+{"type": "判断题", "score": "5分", "question": ["点击百度首页右上角的设置菜单,可以看到“高级搜索”的链接,点开这链接可以进行高级检索。另外,通过这个网址(https://www.baidu.com/gaoji/aoanced.html)也能使用百度的高级搜索。用这两个方法找到的百度高级搜索页面都语言限制的选项。"], "answer": ["错误"], "id": "q1343", "path": "screenshot/data/q1343.png"}
+{"type": "判断题", "score": "5分", "question": ["在搜索引擎中输入https://pan.baidu.com/会计,可能会找到百度网盘中的会计类资料,比如中级会计师的备考资料。"], "answer": ["正确"], "id": "q1344", "path": "screenshot/data/q1344.png"}
+{"type": "判断题", "score": "5分", "question": ["使用搜索引擎搜索,除非特殊情况,尽量不要用句子作为检索词"], "answer": ["正确"], "id": "q1345", "path": "screenshot/data/q1345.png"}
+{"type": "判断题", "score": "5分", "question": ["在维普数据库中输入检索词后,勾选“同义词扩展”功能,系统会自动帮我们找到同义词,提升查全率。"], "answer": ["正确"], "id": "q1346", "path": "screenshot/data/q1346.png"}
+{"type": "判断题", "score": "5分", "question": ["百度网盘支持将本地文件拖拽上传到指定的文件夹"], "answer": ["正确"], "id": "q1347", "path": "screenshot/data/q1347.png"}
+{"type": "判断题", "score": "5分", "question": ["文件下载,操作一般简单,现在浏览器都内置下载功能。点击下载链浏览器就会启动下载。"], "answer": ["正确"], "id": "q1348", "path": "screenshot/data/q1348.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索搜索界面(https://www.baidu.com/gaoji/advanced.ntml)中,第三项是“包含以下任意一个关键词”,如果在其后的搜索框中输入?大数居?人工智能?,那么我的检索意图是()。"], "answer": ["大数据和人工智能这两个词只要出现一个就可以了,布尔逻辑或者的意思"], "id": "q1349", "path": "screenshot/data/q1349.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中查找林毅夫老师发表的文章,选择检索点“作者”,合适的检索是()。"], "answer": ["林毅夫"], "id": "q1350", "path": "screenshot/data/q1350.png"}
+{"type": "单选题", "score": "5分", "question": ["想找注册会计师(简称:P)方面的内容,注册会计师也好,P也子,这两个词只要出现其一即可。在搜索引擎百度中如何表达这种或者关系?()"], "answer": ["注册会计师P"], "id": "q1352", "path": "screenshot/data/q1352.png"}
+{"type": "单选题", "score": "5分", "question": ["在百度的高级搜索界面中(https://www.baidu.com/gaoji/advanced.ht),如果不想让百度拆分你的检索词,也就是实现精确匹配,需要把检索词放在第项的搜索框中。"], "answer": ["2"], "id": "q1353", "path": "screenshot/data/q1353.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中找北京大学发表的期刊论文,需要选择的检索点是(("], "answer": ["作者单位"], "id": "q1354", "path": "screenshot/data/q1354.png"}
+{"type": "多选题", "score": "5分", "question": ["在用搜索引擎查找信息时,下列哪种情况适合用一句话作为检索词。"], "answer": ["查找一句话出自哪一本小说", "c安装软件时,系统弹出一个警告,想了解如何解决", "查找一个单选题来自哪一年的高考原题"], "id": "q1355", "path": "screenshot/data/q1355.png"}
+{"type": "多选题", "score": "5分", "question": ["关于硕鼠这个工具,下列说法正确的有()。"], "answer": ["硕鼠可以免费使用。", "硕鼠是一个在线视频地址转换工具。", "硕鼠有P客户端,也有浏览器插件。"], "id": "q1356", "path": "screenshot/data/q1356.png"}
+{"type": "多选题", "score": "5分", "question": ["下列数据库,有同义词扩展功能的有()。"], "answer": ["维普", "cnki"], "id": "q1357", "path": "screenshot/data/q1357.png"}
+{"type": "多选题", "score": "5分", "question": ["布尔逻辑检索中涉及的逻辑关系有()。"], "answer": ["或者", "c并且", "非"], "id": "q1358", "path": "screenshot/data/q1358.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度高级搜索界面(https://www.baidu.com/gaoji/advanced.htm中可以进行语言类型的限制,其中的选项分别有()。"], "answer": ["全部语言", "仅在简体中文中", "仅在繁体中文中"], "id": "q1359", "path": "screenshot/data/q1359.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度中搜索时,下列哪些语法可以把检索词限制在标题里?"], "answer": ["intitle", "title"], "id": "q1360", "path": "screenshot/data/q1360.png"}
+{"type": "多选题", "score": "5分", "question": ["进入百度高级搜索界面的方法有()。"], "answer": ["在百度中搜索“百度高级搜索”", "在百度首页点击右上角设置中的高级搜索", "直接输入网址(https://www.baidu.com/gaoji/advanced.html)"], "id": "q1361", "path": "screenshot/data/q1361.png"}
+{"type": "判断题", "score": "5分", "question": ["硕鼠是一个在线视频源地址识别工具,可以免费使用"], "answer": ["正确"], "id": "q1362", "path": "screenshot/data/q1362.png"}
+{"type": "判断题", "score": "5分", "question": ["百度网盘支持将本地文件拖拽上传到指定的文件夹。"], "answer": ["正确"], "id": "q1363", "path": "screenshot/data/q1363.png"}
+{"type": "判断题", "score": "5分", "question": ["点击百度首页右上角的设置菜单,可以看到“高级搜索”的链接,点开这个链接可以进行高级检索。另外,通过这个网址(https:/www.baidu.com/gaoji/aoanced.html)也能使用百度的高级搜索。用这两个方法找到的百度高级搜索页面是全一样的。"], "answer": ["错误"], "id": "q1364", "path": "screenshot/data/q1364.png"}
+{"type": "判断题", "score": "5分", "question": ["互联网上的在线视频,都是可以用迅雷、IM、MOTRIX等下载工具直接下载的。"], "answer": ["错误"], "id": "q1365", "path": "screenshot/data/q1365.png"}
+{"type": "判断题", "score": "5分", "question": ["在pubmed首页的检索框中输入一个检索词face,并且为这个检索词加双引号,没有指定检索点。实际检索中,系统会自动为这个检索词加上title这个检"], "answer": ["错误"], "id": "q1366", "path": "screenshot/data/q1366.png"}
+{"type": "判断题", "score": "5分", "question": ["点击百度首页右上角的设置菜单,可以看到“高级搜索”的链接,点开这个链接可以进行高级检索。另外,通过这个网址(https://www.baidu.com/gaoji/adanced.html)也能使用百度的高级搜索。用这两个方法找到的百度高级搜索页面都有语言限制的选项。"], "answer": ["错误"], "id": "q1367", "path": "screenshot/data/q1367.png"}
+{"type": "判断题", "score": "5分", "question": ["在维普数据库中输入检索词后,勾选“同义词扩展”功能,系统会自动帮我们找到同义词,提升查全率。"], "answer": ["正确"], "id": "q1368", "path": "screenshot/data/q1368.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中查找林毅夫老师发表的文章,选择检索点“作者”,合适的检索词"], "answer": ["林毅夫"], "id": "q1369", "path": "screenshot/data/q1369.png"}
+{"type": "单选题", "score": "5分", "question": ["想找注册会计师(简称:P)方面的内容,注册会计师也好,Pt,这两个词只要出现其一即可。在搜索引擎百度中如何表达这种或者关系?()"], "answer": ["注册会计师P"], "id": "q1371", "path": "screenshot/data/q1371.png"}
+{"type": "单选题", "score": "5分", "question": ["在cnki中找北京大学发表的期刊论文,需要选择的检索点是("], "answer": ["作者单位"], "id": "q1372", "path": "screenshot/data/q1372.png"}
+{"type": "单选题", "score": "5分", "question": ["在搜索引擎中,我们用空格链接多个检索词或者检索条件时,空格表示()关系。"], "answer": ["并且"], "id": "q1373", "path": "screenshot/data/q1373.png"}
+{"type": "单选题", "score": "5分", "question": ["如果不想让搜索引擎拆分检索词,可以为检索词加上()"], "answer": ["双引号"], "id": "q1374", "path": "screenshot/data/q1374.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度的高级搜索界面中,对检索词出现位置的限制有多种选择,其中包舌()"], "answer": ["仅在网页的URL中", "网页的任何地方", "仅在网页的标题中"], "id": "q1375", "path": "screenshot/data/q1375.png"}
+{"type": "多选题", "score": "5分", "question": ["百度网盘,可以()。"], "answer": ["把互联网上的文件下载到网盘中", "存储文件", "可以把自己网盘中的文件分享给别人"], "id": "q1376", "path": "screenshot/data/q1376.png"}
+{"type": "多选题", "score": "5分", "question": ["0)下列系统,支持布尔逻辑中非关系的有"], "answer": ["cnki", "pqdt", "springer", "百度"], "id": "q1377", "path": "screenshot/data/q1377.png"}
+{"type": "多选题", "score": "5分", "question": ["在百度高级搜索界面(https://www.baidu.com/gaoji/advanced.htm中可以进行语言类型的限制,其中的选项分别有()。"], "answer": ["仅在简体中文中", "c全部语言", "仅在繁体中文中"], "id": "q1378", "path": "screenshot/data/q1378.png"}
+{"type": "多选题", "score": "5分", "question": ["()下列哪些搜索语法搜狗支持的比较好?"], "answer": ["filetype", "site", "空格"], "id": "q1379", "path": "screenshot/data/q1379.png"}
+{"type": "多选题", "score": "5分", "question": ["在搜狗的搜索框中输入:软件工程filetype:pptsite:edu.cn下列说法正确的有"], "answer": ["检索表达式中的site:edu.cn,作用是现在检索结果的来源,必须来自教育网(edu.cn)。", "filetype、site这两个语法,百度、必应、谷歌等主流搜索引擎都支持。", "检索表达式中的filetype:ppt,作用是限制搜索结果的文件的类型,必须是cPPT文件。"], "id": "q1380", "path": "screenshot/data/q1380.png"}
+{"type": "多选题", "score": "5分", "question": ["在cnki中查找清华大学(不包括图书馆)发表的篇名中含有“共享经济”或“分享经济”的论文,涉及到的布尔逻辑检索关系有()。"], "answer": ["非", "并且", "或者"], "id": "q1381", "path": "screenshot/data/q1381.png"}
+{"type": "判断题", "score": "5分", "question": ["在excel单元格中输入18位身份证号码,回车后很可能会是以科学计数去的方式显示(出现E+17),解决这个问题,可以在百度的搜索框中输入检索词“exele+17”进行搜索。"], "answer": ["正确"], "id": "q1382", "path": "screenshot/data/q1382.png"}
+{"type": "判断题", "score": "5分", "question": ["如果检索系统中多个检索条件之间没有明确的连接关系,默认情况下设指的是或者关系。"], "answer": ["错误"], "id": "q1384", "path": "screenshot/data/q1384.png"}
+{"type": "判断题", "score": "5分", "question": ["在cnki的高级检索中,我们可以通过图形化的界面轻松实现复杂的布尔辑检索。"], "answer": ["正确"], "id": "q1385", "path": "screenshot/data/q1385.png"}
+{"type": "判断题", "score": "5分", "question": ["百度、搜狗、360、必应这些搜索引擎一般都有检索词联想的功能,但ki、springer这些学术数据库没有检索词联想功能。"], "answer": ["错误"], "id": "q1386", "path": "screenshot/data/q1386.png"}
+{"type": "判断题", "score": "5分", "question": ["如果要找《管理世界》这本期刊上的学术论文,可以选择检索点“来源月刊”,检索词输入“《管理世界》”,匹配方式选择“模糊”。"], "answer": ["错误"], "id": "q1387", "path": "screenshot/data/q1387.png"}
+{"type": "判断题", "score": "5分", "question": ["点击这个网址 (http://www.sogou.com/advanced/advanced.html)以进入搜狗的高级搜索。"], "answer": ["正确"], "id": "q1388", "path": "screenshot/data/q1388.png"}
+{"type": "单选题", "score": "5分", "question": ["使用noteexpress软件在word文档中插入参考文献后,如果修改了文档三文内容,如何一键更新参考文献序号及文末列表?()【出题人:华东师范大学赵建"], "answer": [".?Word里的NoteExpress选项卡—一格式化参考文献"], "id": "q1399", "path": "screenshot/data/q1399.png"}
+{"type": "单选题", "score": "5分", "question": ["李波.吕思勉与中国通史编撰[j].华东师范大学学报(哲学社会科学版)209(1):48-56.该文献类型为()。【出题人:华东师范大学蒋萍】"], "answer": [".?期刊论文"], "id": "q1400", "path": "screenshot/data/q1400.png"}
+{"type": "单选题", "score": "5分", "question": ["yin, jq; zhu, hb; fei, y. specification and verification of the zab protocol with tla[j].journal of computer science and technology,2020,35(6):1312-1323.\"被以下哪个数据库收录?()【出题人:华东师范大学顾笑迎】"], "answer": [".?Science itation Index Expanded (SiE)"], "id": "q1401", "path": "screenshot/data/q1401.png"}
+{"type": "单选题", "score": "5分", "question": ["以下数据库中可查找到thelanguageofsophocles:communality,communication and involvement. felix budelmann. university of manchester, b. publsher:cambridgeuniversitypress:1999(isbn:9780511518379)图书全文的是(【出题人:华东师范大学霍艳蓉】"], "answer": [".?ambridge ooks online"], "id": "q1402", "path": "screenshot/data/q1402.png"}
+{"type": "单选题", "score": "5分", "question": ["2021年在第二十二届中国专利奖评选中,30项专利获得中国专利金奖。其中中兴通讯股份有限公司的“一种测量参考信号的信令配置系统及方法”在多个国家或地区申请了专利权,以下哪个国家未对该专利提供保护()。【出题人:华东师范大学蒋萍】"], "answer": ["泰国"], "id": "q1403", "path": "screenshot/data/q1403.png"}
+{"type": "单选题", "score": "5分", "question": ["如果我们想检索“袁隆平”的论文,检索字段选择时应该选择?()【出题:华东师范大学赵建庆】"], "answer": [".?作者"], "id": "q1404", "path": "screenshot/data/q1404.png"}
+{"type": "单选题", "score": "5分", "question": ["小张同学屡次被拒稿,正意志消沉,同学好心推荐《植物学研究》,请问该刊是否为中国科学引文数据库(cscd)收录期刊?()【出题人:华东师范大学吴瑨】"], "answer": [".非S收录期刊"], "id": "q1405", "path": "screenshot/data/q1405.png"}
+{"type": "多选题", "score": "5分", "question": ["小王同学想利用中国知网平台,查询近1个月内发表的最新的文献信息,她可以利用的数据库有:()【出题人:华东师范大学吴瑨】"], "answer": ["中国学术期刊(中国知网)", "中国重要报纸全文数据库(中国知网)"], "id": "q1406", "path": "screenshot/data/q1406.png"}
+{"type": "多选题", "score": "5分", "question": ["关于endnote文献管理软件说法错误的是?()【出题人:华东师范大学高山】"], "answer": ["是一款免费软件", "可以对文献库的作者进行统计分析c", "不支持多人共享数据库"], "id": "q1407", "path": "screenshot/data/q1407.png"}
+{"type": "多选题", "score": "5分", "question": ["webofscience创建的跟踪服务,发送电子邮件的频率可选()。【出题(:华东师范大学仇玉芹】"], "answer": ["每周", "每日", "每月"], "id": "q1408", "path": "screenshot/data/q1408.png"}
+{"type": "多选题", "score": "5分", "question": ["wileyonlinelibrary平台上的文献有什么标识时表示可以下载全文?(【出题人:华东师范大学顾笑迎】"], "answer": ["free access", "full access", "open access"], "id": "q1409", "path": "screenshot/data/q1409.png"}
+{"type": "多选题", "score": "5分", "question": ["想获取理科类外文期刊文献应该用哪个文献传递系统申请?()【出题人:华东师范大学赵建庆】"], "answer": ["calis", "nstl"], "id": "q1410", "path": "screenshot/data/q1410.png"}
+{"type": "多选题", "score": "5分", "question": ["【文献求助】(美)李业平,黄荣金主编yepinglirongjinhuang.华人如何教数学和改进教学[m].谢明初...[等]译.上海华东师范大学出版社2020.请查询以下哪个图书馆有该馆藏?()【出题人:华东师范大学吴瑨】"], "answer": ["上海财经大学图书馆", "复旦大学图书馆", "c上海图书馆", "中国国家图书馆"], "id": "q1411", "path": "screenshot/data/q1411.png"}
+{"type": "多选题", "score": "5分", "question": ["在ebscohost平台检索结果页面,可通过以下哪些筛选条件筛选检索结果?()【出题人:华东师范大学吴】"], "answer": ["出版日期", "出版物", "c资源类型"], "id": "q1412", "path": "screenshot/data/q1412.png"}
+{"type": "判断题", "score": "5分", "question": ["中国知网专业检索中检索字段间用and、or、not连接,字段内多个值的关系用+、-、*来组合。()【出题人:华东师范大学霍艳蓉】"], "answer": ["正确"], "id": "q1413", "path": "screenshot/data/q1413.png"}
+{"type": "判断题", "score": "5分", "question": ["在scifinder数据库中使用结构编辑器绘制结构必须安装java插件吗?(【出题人:华东师范大学王巧玲】"], "answer": ["错误"], "id": "q1414", "path": "screenshot/data/q1414.png"}
+{"type": "判断题", "score": "5分", "question": ["实用新型专利限于具有一定形状的产品,不能是一种方法,也不能是没有固定形状的产品;对实用新型的创造性要求比发明专利低。()【出题人:华东师范大学仇玉芹】"], "answer": ["正确"], "id": "q1415", "path": "screenshot/data/q1415.png"}
+{"type": "判断题", "score": "5分", "question": ["文献a没有被science citation indexexpanded(sci-expanded)收录,文献a有可能被scie引用。()【出题人:华东师范大学史华】"], "answer": ["正确"], "id": "q1416", "path": "screenshot/data/q1416.png"}
+{"type": "单选题", "score": "5分", "question": ["期刊“siamreview”2020年的jcr影响因子是多少?()【出题人:华东师大学王新霞】"], "answer": [".?10.78"], "id": "q1417", "path": "screenshot/data/q1417.png"}
+{"type": "单选题", "score": "5分", "question": ["2021年在第二十二届中国专利奖评选中,“具有抑菌、吸湿和贡献钙离子的伤口敷料”等11项专利获得中国专利优秀奖,每项专利获奖30万元。其中王晓东、张大伟、史福军发明的“具有抑菌、吸湿和贡献钙离子的伤口敷料”的申请号是()。【出题人:华东师范大学蒋萍】"], "answer": [".?N201110433659.2"], "id": "q1418", "path": "screenshot/data/q1418.png"}
+{"type": "单选题", "score": "5分", "question": ["在scifinder数据库中检索3m公司在2010年发表的文献最接近的是()【出题人:华东师范大学王巧玲】"], "answer": [".?752"], "id": "q1419", "path": "screenshot/data/q1419.png"}
+{"type": "单选题", "score": "5分", "question": ["以下哪一本期刊2021年是中文社会科学引文索引(cssci)收录期刊?(【出题人:华东师范大学高山】"], "answer": [".?开放教育研究"], "id": "q1420", "path": "screenshot/data/q1420.png"}
+{"type": "单选题", "score": "5分", "question": ["中国图书馆分类法中,分类号为“k281/288”的代表以下哪个学科分类?【出题人:华东师范大学王新霞】"], "answer": [".?各民族史志"], "id": "q1422", "path": "screenshot/data/q1422.png"}
+{"type": "单选题", "score": "5分", "question": ["关于开放获取期刊的表述,正确的是:()【出题人:华东师范大学吴"], "answer": [".促进了科学及人文信息的广泛交流,提升科学研究的公共利用程度"], "id": "q1423", "path": "screenshot/data/q1423.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方数据库中,主题字段相当于在以下哪些字段中进行检索?()【出题人:华东师范大学史华】"], "answer": [".?题名、摘要和关键词"], "id": "q1424", "path": "screenshot/data/q1424.png"}
+{"type": "多选题", "score": "5分", "question": ["以下平台支持移动端使用的有()。【出题人:华东师范大学蒋萍】"], "answer": ["万方数据", "超星数字图书馆", "书香校园互联网数字图书馆", "中国知网"], "id": "q1426", "path": "screenshot/data/q1426.png"}
+{"type": "多选题", "score": "5分", "question": ["如需文献传递与馆际互借服务,中国高等教育文献保障系统(calis)可以提供哪些服务资源?()【出题人:华东师范大学吴】"], "answer": ["国家图书馆", "c国家科技图书文献中心(NSTL)", "上海图书馆"], "id": "q1427", "path": "screenshot/data/q1427.png"}
+{"type": "多选题", "score": "5分", "question": ["以下哪些平台为公众提供开放教育资源?()【出题人:华东师范大学王新霞】"], "answer": ["学习强国", "网易公开课", "c中国大学MOO", "MIT OpenourseWare"], "id": "q1428", "path": "screenshot/data/q1428.png"}
+{"type": "多选题", "score": "5分", "question": ["以下属于万方数据知识服务平台的特色资源库的有()。【出题人:华东师范大学顾笑迎】"], "answer": ["中国地方志数据库", "c中国机构数据库", "中国科技专家库"], "id": "q1429", "path": "screenshot/data/q1429.png"}
+{"type": "多选题", "score": "5分", "question": ["【出题人:华东查找某篇英文论文被收录和被引用的情况应该使用()。范大学霍艳蓉】"], "answer": ["中国科学引文索引数据库(S)", "中国社会科学引文索引数据库(SSI)", "Science itation Index Expanded(SiE)"], "id": "q1430", "path": "screenshot/data/q1430.png"}
+{"type": "多选题", "score": "5分", "question": ["以下哪些数据库提供移动app?()【出题人:华东师范大学赵建庆】"], "answer": ["知网", "万方", "超星"], "id": "q1431", "path": "screenshot/data/q1431.png"}
+{"type": "判断题", "score": "5分", "question": ["开放获取是将任意论文或学术文献放在互联网上供用户免费下载。()出题人:华东师范大学赵建庆】"], "answer": ["错误"], "id": "q1432", "path": "screenshot/data/q1432.png"}
+{"type": "判断题", "score": "5分", "question": ["孙小礼,李慎.方法的比较:研究自然与研究社会[m].北京大学出版社,1991.这本书在中文社会科学引文索引(cssci)中没有被引。()【出题人:华东师范大高山】"], "answer": ["错误"], "id": "q1433", "path": "screenshot/data/q1433.png"}
+{"type": "判断题", "score": "5分", "question": ["中国知网高级检索中若检索词本身含空格或*、+、-、1、%、=等特殊符,进行多词组合运算时,须将检索词用英文半角单引号或英文半角双引号引起来。【出题人:华东师范大学霍艳蓉】"], "answer": ["正确"], "id": "q1434", "path": "screenshot/data/q1434.png"}
+{"type": "判断题", "score": "5分", "question": ["安装noteexpress软件时,不需要关闭wps和word软件。()【出题人华东师范大学赵建庆】"], "answer": ["错误"], "id": "q1435", "path": "screenshot/data/q1435.png"}
+{"type": "单选题", "score": "5分", "question": ["根据《中国图书馆分类法》的分类规则,以介绍古琴艺术为主要内容的图,其分类号是()。【出题人:华东师范大学史华】"], "answer": [".?J632.31"], "id": "q1436", "path": "screenshot/data/q1436.png"}
+{"type": "单选题", "score": "5分", "question": ["文献:“刘统.李安东间谍案始末[j].同舟共进,2017(09):36-41.”中,国民党特务机关驻北平情报员韩柏华给上级的侦查报告表中涉及到的地点为()。【出题(:华东师范大学赵建庆】"], "answer": [".?贡院(街)甘雨胡同"], "id": "q1437", "path": "screenshot/data/q1437.png"}
+{"type": "单选题", "score": "5分", "question": ["小张同学近日准备投稿scie期刊,他在网上浏览时,注意到一则“权威sce期刊《environmentalscience&technology》(issn:1003-6504)火热征稿”的消息,但他难以确认信息真伪,不敢贸然投稿。请帮助小张确认该刊是否为scie收录期利。()【出题人:华东师范大学吴瑨】"], "answer": [".非SIE收录期刊"], "id": "q1438", "path": "screenshot/data/q1438.png"}
+{"type": "单选题", "score": "5分", "question": ["要想检索到同时包含undergraduate和education的外文文献,请问用以下哪个检索式查到的结果最全面?()【出题人:华东师范大学霍艳蓉】"], "answer": [".?undergraduate and educat*"], "id": "q1439", "path": "screenshot/data/q1439.png"}
+{"type": "单选题", "score": "5分", "question": ["利用中国知网进行课题检索:“从蚁族现象看大学生就业问题”,以下检索式哪个效果最佳?()【出题人:华东师范大学吴瑨】"], "answer": ["(蚁族+低收入*聚居)*(大学生+毕业生+高校生)*(就业+择业)"], "id": "q1440", "path": "screenshot/data/q1440.png"}
+{"type": "单选题", "score": "5分", "question": ["在scifinder数据库中使用作者名检索获取某个作者、发明人或者编辑发表的文献,下列说法正确的是:()。【出题人:华东师范大学王巧玲】"], "answer": [".?必须输入姓氏 (LastName)"], "id": "q1441", "path": "screenshot/data/q1441.png"}
+{"type": "单选题", "score": "5分", "question": ["关景洋.小分子化合物诱导体细胞重编程的分子机制研究[d].北京:北京大【出题人:华东师范大学蒋萍】学,2015.该论文的级别是()。"], "answer": [".?博士学位论文"], "id": "q1442", "path": "screenshot/data/q1442.png"}
+{"type": "多选题", "score": "5分", "question": ["在webofscience平台的题名字段中输入“comput*”,检索结果中会出见的是?()【出题人:华东师范大学王新霞】"], "answer": ["omputer", "3omputation", "omputing", "ompute"], "id": "q1443", "path": "screenshot/data/q1443.png"}
+{"type": "多选题", "score": "5分", "question": ["在wileyonline library的作者字段输入”jsmith”,以下哪些姓名会出现在检索结果中?()【出题人:华东师范大学顾笑迎】"], "answer": ["Janiceolby-Smith", "Russell-Smith Jeremy", "John Smith", "J RSmith"], "id": "q1444", "path": "screenshot/data/q1444.png"}
+{"type": "多选题", "score": "5分", "question": ["以下哪些是许加明,陈友华.数据质量、前提假设与因果模型一一社会科学定量研究之反思[i].社会科学研究,2020(02):130-139.的参考文献?()【出题人:华东师范大学高山】"], "answer": ["臧雷振.社会科学研究中实验方法的应用与反思一一以政治学科为例[J].中国人民大学学报,2016,30(05):150-156.", "c刘林平,蒋和超,李潇晓.规律与因果:大数据对社会科学研究冲击之反思一一以社会学为例[J].社会科学,2016(09):67-80."], "id": "q1445", "path": "screenshot/data/q1445.png"}
+{"type": "多选题", "score": "5分", "question": ["以下哪个搜索引擎不属于学术搜索引擎?()【出题人:华东师范大学王霞】"], "answer": ["百度文库", "鸠摩搜索"], "id": "q1446", "path": "screenshot/data/q1446.png"}
+{"type": "多选题", "score": "5分", "question": ["要检索计算机类相关的文献,选择下列哪些数据库比较合适?()【出题人:华东师范大学仇玉芹】"], "answer": ["Ei Village(EI)", "INSPE", "IEEE Xplorec"], "id": "q1447", "path": "screenshot/data/q1447.png"}
+{"type": "多选题", "score": "5分", "question": ["以下哪些数据库包含会议论文资源?()【出题人:华东师范大学史华】"], "answer": ["万方资源", "c读秀学术搜索", "中国知网"], "id": "q1449", "path": "screenshot/data/q1449.png"}
+{"type": "判断题", "score": "5分", "question": ["在science citation index expanded(scie)数据库中能检索高被引论。()【出题人:华东师范大学王新霞】"], "answer": ["正确"], "id": "q1450", "path": "screenshot/data/q1450.png"}
+{"type": "判断题", "score": "5分", "question": ["“信息”一词最早出现在南唐诗人李中的律诗《暮春怀故人》。()【出题(:华东师范大学赵建庆】"], "answer": ["错误"], "id": "q1451", "path": "screenshot/data/q1451.png"}
+{"type": "判断题", "score": "5分", "question": ["按照信息加工程度对信息源分类,“上海图书馆馆藏资源检索平台”属于二次信息源。()【出题人:华东师范大学王新霞】"], "answer": ["错误"], "id": "q1452", "path": "screenshot/data/q1452.png"}
+{"type": "判断题", "score": "5分", "question": ["下列文献“zhou x, nagarajan n, mossop bj, merzenich mm. influences of un-modulated acoustic inputs on functional maturation and critical-perio plasticity of the primary auditory cortex[j]. neuroscience, 2008, 154(1):390-396.”被scie数据库收录。()【出题人:华东师范大学王新霞】"], "answer": ["正确"], "id": "q1453", "path": "screenshot/data/q1453.png"}
+{"type": "判断题", "score": "5分", "question": ["在中国知网数据库中进行检索时,检索式:su=(新冠病毒+冠状病毒+新冠肺炎+新冠+covid-19+“sars-co-2\")and疫苗andye>=2020,可以通过高及检索获取所需信息。()【出题人:华东师范大学赵建庆】"], "answer": ["错误"], "id": "q1454", "path": "screenshot/data/q1454.png"}
+{"type": "单选题", "score": "5分", "question": ["【出知名医学杂志《柳叶刀》(thelancet)2020年的jcr影响因子是()。题人:华东师范大学顾笑迎】"], "answer": [".?79.323"], "id": "q1455", "path": "screenshot/data/q1455.png"}
+{"type": "单选题", "score": "5分", "question": ["在scifinder数据库中检索标题为“co2hydrogenationtomethanolonga2o3-pd/sio2 catalysts: dual oxide-metal sites or (bi)metallic surface sites?\"的文章,它引用的文献有()篇。【出题人:华东师范大学王巧玲】"], "answer": [".?44"], "id": "q1456", "path": "screenshot/data/q1456.png"}
+{"type": "单选题", "score": "5分", "question": ["在scifinder数据库中检索期刊journaloftheamericanchemicalsociet在2020年发表文章最多的作者是()。【出题人:华东师范大学王巧玲】"], "answer": [".?Houk K N"], "id": "q1457", "path": "screenshot/data/q1457.png"}
+{"type": "单选题", "score": "5分", "question": ["万方数据知识服务平台支持的逻辑运算符是()。【出题人:华东师范大学顾笑迎】"], "answer": [".?N OR NOT"], "id": "q1458", "path": "screenshot/data/q1458.png"}
+{"type": "单选题", "score": "5分", "question": ["文献“gemma sarre, steve hyer, priti chauhan-whittingham, antoinete johnson. patients' experience of antenatal diabetic care during the current cvid-19 pandemic: an exploratory study[j]. practical diabetes,2021,38(6):23-3”的通讯作者是()。【出题人:华东师范大学顾笑迎】"], "answer": [". Gemma Sarre"], "id": "q1459", "path": "screenshot/data/q1459.png"}
+{"type": "单选题", "score": "5分", "question": ["如果第一个检索条件为a,第二个检索条件为b,要想检索结果中必须同寸包含a和b,应该使用哪一种逻辑算符进行连接?()【出题人:华东师范大学赵建"], "answer": [".?逻辑与"], "id": "q1460", "path": "screenshot/data/q1460.png"}
+{"type": "单选题", "score": "5分", "question": ["想获取外文人文社科类的期刊文献优先用哪个文献传递系统申请?()出题人:华东师范大学赵建庆】"], "answer": ["SHL"], "id": "q1461", "path": "screenshot/data/q1461.png"}
+{"type": "多选题", "score": "5分", "question": ["以下哪些数据库可以查找学位论文全文?()【出题人:华东师范大学华】"], "answer": ["台湾学术文献数据库", "中国优秀博硕士学位论文", "c万方中国学位论文", "ProQuest学位论文全文库"], "id": "q1462", "path": "screenshot/data/q1462.png"}
+{"type": "多选题", "score": "5分", "question": ["以下哪些数据库可以检索全文期刊?()【出题人:华东师范大学仇玉】"], "answer": ["万方数据资源", "c中国知网", "Science irect"], "id": "q1463", "path": "screenshot/data/q1463.png"}
+{"type": "多选题", "score": "5分", "question": ["一名刚刚大学毕业的人,无法通过原就读大学的图书馆使用相应电子资原了,怎么办?()【出题人:华东师范大学顾笑迎】"], "answer": ["付费使用相关数据库的资源", "办理公共图书馆的读者证,使用公共图书馆的馆藏资源"], "id": "q1464", "path": "screenshot/data/q1464.png"}
+{"type": "多选题", "score": "5分", "question": ["下列说法正确的是?()【出题人:华东师范大学赵建庆】"], "answer": ["EndnoteX9可以帮自己高效检索、管理和写作论文", "高被引论文:ESI数据收录时间段内,同学科、同出版年被引次数排在全球前1%的论文", "c专利具有时效性", "热点论文:近两年发表,在最近2个月中被引用的次数进入某学科0.1%的论"], "id": "q1465", "path": "screenshot/data/q1465.png"}
+{"type": "多选题", "score": "5分", "question": ["有关jcr(journal citation reports),下列说法正确的是()【出题人:华东师范大学仇玉芹】"], "answer": ["一本新刊要创刊3年后才有影响因子", "期刊影响因子高说明该刊载的论文被引用率高c"], "id": "q1466", "path": "screenshot/data/q1466.png"}
+{"type": "多选题", "score": "5分", "question": ["有关esi高被引论文,下列说法正确的是()【出题人:华东师范大学仇玉芹】"], "answer": ["2个月更新一次", "高被引论文指的是“过去10年中发表的论文,被引用次数在同年同学科发表的论文中进入全球前1%的论文"], "id": "q1467", "path": "screenshot/data/q1467.png"}
+{"type": "判断题", "score": "5分", "question": ["在sciencedirect数据库中,检索词输入nanopart*可以找到nanoparticls有关的内容。()【出题人:华东师范大学吴瑨】"], "answer": ["错误"], "id": "q1468", "path": "screenshot/data/q1468.png"}
+{"type": "判断题", "score": "5分", "question": ["利用文献管理软件endnote插入参考文献时,参考文献的编号会按照正文引用的顺序自动排序。()【出题人:华东师范大学高山】"], "answer": ["正确"], "id": "q1469", "path": "screenshot/data/q1469.png"}
+{"type": "判断题", "score": "5分", "question": ["论文投稿之前,可以通过“知网查重个人版”进行查重?()【出题人:东师范大学赵建庆】"], "answer": ["正确"], "id": "q1470", "path": "screenshot/data/q1470.png"}
+{"type": "单选题", "score": "5分", "question": ["小王同学未经师姐同意,将师姐的学术思想和技术路线,稍加改动投稿发表,但挂师姐为并列第一作者。请问小王的行为否属于学术不端?()【出题人:华东师范大学吴瑨】"], "answer": ["属于"], "id": "q1471", "path": "screenshot/data/q1471.png"}
+{"type": "单选题", "score": "5分", "question": ["2020年12月教育部公布了第八届高等学校科学研究优秀成果奖(人文社会科学)的评选结果,其中著作论文奖1241项,含一等奖152项。其中获得一等奖的成果“启蒙理性及现代性:马克思的批判性重构”,该期刊论文中,作者刘同舫署名单立为()。【出题人:华东师范大学蒋萍】"], "answer": [".?华南师范大学"], "id": "q1472", "path": "screenshot/data/q1472.png"}
+{"type": "单选题", "score": "5分", "question": ["以下哪个属于二次信息源?()【出题人:华东师范大学史华】"], "answer": [".?中国知网数据库"], "id": "q1473", "path": "screenshot/data/q1473.png"}
+{"type": "单选题", "score": "5分", "question": ["springlinkbooks数据库中逻辑算符的优先顺序是:( )。【出题人:华东范大学霍艳蓉】"], "answer": [".?NOT>OR>N"], "id": "q1474", "path": "screenshot/data/q1474.png"}
+{"type": "单选题", "score": "5分", "question": ["请问以下参考文献著录格式符合参考文献著录规则gb/t7714-2015的是『个?()【出题人:华东师范大学高山】"], "answer": [".?齐卫平.伟大建党精神研究的四个视角[J].理论与改革.2021:1-8."], "id": "q1475", "path": "screenshot/data/q1475.png"}
+{"type": "单选题", "score": "5分", "question": ["在万方平台上的期刊论文数据库中,2019-2020年间,并且在题名字段中包含“新型冠状病毒疫苗”的文献有多少篇?()【出题人:华东师范大学王新霞】"], "answer": [".?26"], "id": "q1476", "path": "screenshot/data/q1476.png"}
+{"type": "单选题", "score": "5分", "question": ["以下哪个文献标识符可以用来标识科技成果()。【出题人:华东师范大学顾笑迎】"], "answer": [".?[Z]"], "id": "q1477", "path": "screenshot/data/q1477.png"}
+{"type": "多选题", "score": "5分", "question": ["小张同学想查某本书在国内各图书馆的馆藏情况,他可以通过哪些途径查询?()【出题人:华东师范大学吴】"], "answer": ["各图书馆目录系统", "LIS联合目录公共检索系统c"], "id": "q1478", "path": "screenshot/data/q1478.png"}
+{"type": "多选题", "score": "5分", "question": ["以下哪些论文引用行为属于学术不端?()【出题人:华东师范大学吴一"], "answer": ["虽然借鉴了他人的研究成果,但引用他人论文会影响本研究的新颖性,所以不做引用", "虽然没有亲自查阅某原始文献,但不少论文都引用了该文献,且该文献发表于公认的高品质期刊,故可直接引用。", "为了提升论文被引用次数,提高本人学术影响力,大量引用自己已发表的文c献。", "虽然借鉴了他人的研究成果,但他人实验结论与本研究结论相反,如引用无法自圆其说,所以不做引用"], "id": "q1479", "path": "screenshot/data/q1479.png"}
+{"type": "多选题", "score": "5分", "question": ["使用noteexpress可以对文献题录进行以下哪些文献管理操作?()【出人:华东师范大学高山】"], "answer": ["做笔记", "添加附件"], "id": "q1480", "path": "screenshot/data/q1480.png"}
+{"type": "多选题", "score": "5分", "question": ["【出题人:华东师范大学霍艳蓉】下列哪些是开放获取资源()。"], "answer": ["ioMedentral", "古腾堡电子图书", "OJ (开放获取期刊目录)"], "id": "q1481", "path": "screenshot/data/q1481.png"}
+{"type": "多选题", "score": "5分", "question": ["某同学利用中国知网一主题字段检索:昆虫假死行为研究,获得两条检索结果。请问该同学检索过程是否存在问题?()【出题人:华东师范大学吴瑨】"], "answer": ["有问题,忽视了上位词与下位词c", "有问题,研究、展望、趋势等词义泛指过大的词不应作为检索词"], "id": "q1482", "path": "screenshot/data/q1482.png"}
+{"type": "多选题", "score": "5分", "question": ["下列数据库中可以进行引文检索的有()。【出题人:华东师范大学仇玉-"], "answer": ["中国社会科学引文索引数据库(SSI)", "Science itation Index Expanded(SIE)", "onference Proceedings itation Index - Science(Pl-S)"], "id": "q1483", "path": "screenshot/data/q1483.png"}
+{"type": "判断题", "score": "5分", "question": ["中国知网的“主题”字段就等同于“篇关摘”字段。()【出题人:华东师范大学顾笑迎】"], "answer": ["错误"], "id": "q1484", "path": "screenshot/data/q1484.png"}
+{"type": "判断题", "score": "5分", "question": ["若利用个人账号登录webofscience检索平台,webofscience中的检索历史,能够看到检索的具体日期和时间。()【出题人:华东师范大学仇玉芹】"], "answer": ["正确"], "id": "q1485", "path": "screenshot/data/q1485.png"}
+{"type": "判断题", "score": "5分", "question": ["lin, hq; shu, jl. a note on the spectral characterization of stronglyconnected bicyclic digraphs. linear algebra and its applications, 2012. 436(7)2524-2530.是否被scie数据库收录?()【出题人:华东师范大学赵建庆】"], "answer": ["正确"], "id": "q1486", "path": "screenshot/data/q1486.png"}
+{"type": "判断题", "score": "5分", "question": ["在scifinder数据库中,如果反应中某个物质下方有一个烧瓶图标,就表明可以获取到该物质的商业来源。点击烧瓶可以获取化学品供应商的信息。()【出题:华东师范大学王巧玲】"], "answer": ["正确"], "id": "q1487", "path": "screenshot/data/q1487.png"}
+{"type": "判断题", "score": "5分", "question": ["在scifinder数据库检索到某篇文献,点击文献标题下面的“othersourc”一定可以获取该文献的全文。()【出题人:华东师范大学王巧玲】"], "answer": ["错误"], "id": "q1488", "path": "screenshot/data/q1488.png"}
+{"type": "单选题", "score": "5分", "question": ["请问《academyofmanagementreview》这本期刊的创刊年份是:(【出题人:华东师范大学吴瑨】"], "answer": ["1976"], "id": "q1490", "path": "screenshot/data/q1490.png"}
+{"type": "单选题", "score": "5分", "question": ["请问《nature》期刊2020journalimpact factor是?()【出题人:华东师范大学吴】"], "answer": [". 49.962"], "id": "q1491", "path": "screenshot/data/q1491.png"}
+{"type": "单选题", "score": "5分", "question": ["小王与同学约定,撰写论文时互相挂对方名字,增加彼此的学术成果。请问小王的行为是否正确?为什么?()【出题人:华东师范大学吴瑨】"], "answer": ["错误,对论著有贡献才能署名"], "id": "q1492", "path": "screenshot/data/q1492.png"}
+{"type": "单选题", "score": "5分", "question": ["田涛,吴春波著《下一个倒下的会不会是华为》(中信出版社,2015年出反)在上海哪个高校图书馆可提供馆际互借服务?()【出题人:华东师范大学蒋萍】"], "answer": [".?上海交通大学"], "id": "q1493", "path": "screenshot/data/q1493.png"}
+{"type": "单选题", "score": "5分", "question": ["根据《中华人民共和国专利法》,以下类型的专利中,保护期限最长的【出题人:华东师范大学蒋萍】()。"], "answer": [".?发明专利"], "id": "q1494", "path": "screenshot/data/q1494.png"}
+{"type": "单选题", "score": "5分", "question": ["使用文献管理软件noteexpress插入参考文献出现域代码出错的情况,可使用以下哪个快捷方式在word中显示/隐藏域代码?()【出题人:华东师范大学高"], "answer": [".?lt+F9"], "id": "q1495", "path": "screenshot/data/q1495.png"}
+{"type": "多选题", "score": "5分", "question": ["以下哪些数据库可以查看古籍原书图像?()【出题人:华东师范大学】"], "answer": ["鼎秀古籍全文检索平台", "爱如生《中国基本古籍库》c", "中华经典古籍库"], "id": "q1496", "path": "screenshot/data/q1496.png"}
+{"type": "多选题", "score": "5分", "question": ["以下说法正确的是()【出题人:华东师范大学霍艳蓉】"], "answer": ["超星可提供移动PP", "超星电子图书可通过阅读器模式阅读", "超星电子图书可通过网页模式在线浏览", "超星电子图书下载前需要已安装超星阅览器"], "id": "q1497", "path": "screenshot/data/q1497.png"}
+{"type": "多选题", "score": "5分", "question": ["使用以下哪些方法可以将文献题录导入到endnote文献管理软件中去?【出题人:华东师范大学高山】"], "answer": ["在软件中在线检索", "手工添加", "c直接导入PF", "从数据库中导出题录后直接导入"], "id": "q1498", "path": "screenshot/data/q1498.png"}
+{"type": "多选题", "score": "5分", "question": ["在scifinder数据库中使用主题检索索获取某个特定主题的文献,点击advancedsearch,可以通过那些限定项限定检索范围?()【出题人:华东师范大学王巧玲】"], "answer": ["文献类型", "作者名和/或公司名", "c出版年", "语言"], "id": "q1499", "path": "screenshot/data/q1499.png"}
+{"type": "多选题", "score": "5分", "question": ["爱如生中国方志库可进行以下哪几种检索?()【出题人:华东师范大学史华】"], "answer": ["全文检索", "条目检索", "分类检索"], "id": "q1500", "path": "screenshot/data/q1500.png"}
+{"type": "多选题", "score": "5分", "question": ["通过中国国家图书馆主页中“文津搜索”检索“课程思政”,获取的检索结【出题人:华东师范大学赵建庆】果类型有()。"], "answer": ["论文", "词条", "图书"], "id": "q1501", "path": "screenshot/data/q1501.png"}
+{"type": "判断题", "score": "5分", "question": ["名人博客属于正式信息源。()【出题人:华东师范大学王新霞"], "answer": ["错误"], "id": "q1502", "path": "screenshot/data/q1502.png"}
+{"type": "判断题", "score": "5分", "question": ["中国知网《学位论文库》包括《中国博士学位论文全文数据库》和《中国优秀硕士学位论文全文数据库》,最早可回溯至1984年。()【出题人:华东师范大学史华】"], "answer": ["正确"], "id": "q1503", "path": "screenshot/data/q1503.png"}
+{"type": "判断题", "score": "5分", "question": ["搜索引擎能提供快速、高相关性的信息服务,因此做科研找文献用搜索引擎就够了,没必要用图书馆。()【出题人:华东师范大学吴瑨】"], "answer": ["错误"], "id": "q1504", "path": "screenshot/data/q1504.png"}
+{"type": "判断题", "score": "5分", "question": ["布尔逻辑运算符not表示逻辑或,anotb意为满足a或b任一条件即可。【出题人:华东师范大学史华】"], "answer": ["错误"], "id": "q1505", "path": "screenshot/data/q1505.png"}
+{"type": "判断题", "score": "5分", "question": ["使用文献管理软件noteexpress导入文献文件夹时,不能将文件夹及其子文件夹一起导入。()【出题人:华东师范大学高山】"], "answer": ["错误"], "id": "q1506", "path": "screenshot/data/q1506.png"}
